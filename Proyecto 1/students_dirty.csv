@@ -1,0 +1,1001 @@
+first_name,last_name,class,stream,section,sex,Date_of_birth,email,contact,parent_id,address,fees
+Layla,Higgins,s1,west,boarding,F,15-Mar-02,LaylaHaggins@gmail.com,256707220986,1, Utah,20000
+Sterling,Arias,s3,south,day,M,04-Jul-03,SterlingArias@gmail.com,256707220987,2, Washington,20000
+Aleah,Cummings,s6,north,day,F,22-Nov-01,AleahCummings@gmail.com,256707220988,3, Virginia,20000
+Raiden,Craig,s4,east,boarding,M,,RaidenCraig@gmail.com,256707220989,4, Ohio,20000
+Brynn,Hopkins,s1,west,day,M,09-Sep-04,BrynnHopkins@gmail.com,256707220990,5, Iowa,20000
+Ali,Beil,s2,south,boarding,M,30-Jun-00,AliBeil@gmail.com,256707220991,6, North Carolina,20000
+Itzel,Kelly,s4,north,boarding,F,07-Apr-03,ItzelKelly@gmail.com,256707220992,7, Nevada,20000
+Cooper,Ryan,s5,east,boarding,M,25-Jan-01,CooperRyan@gmail.com,256707220993,8, North Carolina,20000
+Morgan,Sloan,s6,west,day,F,11-Oct-02,MorganSloan@gmail.com,256707220994,9, Montana,20000
+Ocean,Wright,s1,south,day,M,02-Aug-04,OceanWright@gmail.com,256707220995,10, Massachusetts,20000
+Lily,Kennedy,s3,north,boarding,M,14-May-01,LilyKennedy@gmail.com,256707220996,11, South Dakota,20000
+Maxwell,Sherman,s6,east,day,M,28-Dec-03,MaxwellSherman@gmail.com,256707220997,, New Mexico,16000
+Addilyn,Frost,s4,west,boarding,M,20-Jul-00,AddilynFrost@gmail.com,256707220998,13, California,20000
+Dario,Rodgers,s1,south,boarding,F,19-Mar-02,DarioRodgers@gmail.com,256707220999,14, Kentucky,20000
+Selah,Mullen,s2,north,boarding,M,05-Nov-03,SelahMullen@gmail.com,256707221000,15, Arizona,20000
+Shepard,Lambert,s4,east,day,F,03-Feb-01,ShepardLambert@gmail.com,256707221001,16, Missouri,20000
+Nina,Andrade,s5,west,day,F,12-Sep-04,NinaAndrade@gmail.com,256707221002,17, Iowa,20000
+Abdiel,Ramirez,s6,south,boarding,F,23-Jun-00,AbdielRamirez@gmail.com,256707221003,18, Montana,
+Grace,Pitts,s1,north,day,M,17-Apr-03,GracePitts@gmail.com,256707221004,19, Wisconsin,20000
+Trey,Velasquez,s3,east,boarding,F,08-Jan-01,TreyVelasquez@gmail.com,256707221005,20, Idaho,20000
+Esme,Fuentes,s6,west,boarding,M,10-Oct-02,EsmeFuentes@gmail.com,,21, New Jersey,20000
+Bowen,Best,s4,south,boarding,M,14-Aug-04,BowenBest@gmail.com,256707221007,22, Connecticut,20000
+Lexie,Small,s1,north,day,M,01-Jun-01,LexieSmall@gmail.com,256707221008,23, Idaho,10000
+Rudy,Decker,s2,east,day,F,19-Dec-03,RudyDecker@gmail.com,256707221009,24, Iowa,20000
+Aleena,Galvan,s4,west,boarding,M,26-Aug-00,AleenaGalvan@gmail.com,256707221010,25, Ohio,20000
+Kingsley,Morrow,s5,south,day,F,02-Apr-02,KingsleyMorrow@gmail.com,256707221011,26, California,20000
+Reyna,Murray,s6,north,boarding,M,09-Nov-03,ReynaMurray@gmail.com,256707221012,27, Pennsylvania,20000
+Ashton,Benton,s1,east,boarding,M,15-Feb-01,AshtonBenton@gmail.com,256707221013,28, Alaska,20000
+Anais,Lam,s3,west,boarding,M,22-Sep-04,AnaisLam@gmail.com,256707221014,29, Florida,20000
+Bodie,Cantrell,s6,south,day,M,05-Jul-00,BodieCantrell@gmail.com,256707221015,30, Pennsylvania,20000
+Yamileth,Wilcox,s4,north,day,F,23-Apr-03,YamilethWilcox@gmail.com,256707221016,31, Maryland,20000
+Jerry,Moody,s1,east,boarding,M,16-Jan-01,JerryMoody@gmail.com,256707221017,32, South Dakota,20000
+Elaine,Parks,s2,west,day,F,18-Oct-02,ElaineParks@gmail.com,256707221018,33, Massachusetts,20000
+Gianni,Marquez,s4,south,boarding,F,10-Sep-04,GianniMarquez@gmail.com,256707221019,34, Washington,20000
+Milani,McCoy,s5,north,boarding,F,08-Jun-01,MilaniMcCoy@gmail.com,256707221020,35, Idaho,20000
+Jett,McIntosh,s6,,boarding,M,04-Jan-04,JettMcIntosh@gmail.com,256707221021,36, Illinois,20000
+Gwen,Vaughn,s1,west,day,F,14-Jul-00,GwenVaughn@gmail.com,256707221022,37, South Carolina,20000
+Remy,Chapman,s3,south,day,M,01-Mar-02,RemyChapman@gmail.com,256707221023,38, Missouri,20000
+Zuri,Vance,s6,north,boarding,M,,ZuriVance@gmail.com,256707221024,, Texas,20000
+Casen,Sweeney,s4,east,day,M,27-Feb-01,CasenSweeney@gmail.com,256707221025,40, Nebraska,20000
+Yara,Burch,s1,west,boarding,F,05-Oct-04,YaraBurch@gmail.com,256707221026,41, Florida,20000
+Gerald,Clarke,s2,south,boarding,M,10-May-01,GeraldClarke@gmail.com,256707221027,42, Kansas,20000
+Kaitlyn,Bowers,s4,north,boarding,F,09-Dec-03,KaitlynBowers@gmail.com,256707221028,43, Michigan,20000
+Dorian,McMahon,s5,east,day,M,21-Aug-00,DorianMcMahon@gmail.com,256707221029,44, New York,20000
+Belen,Gentry,s6,west,day,M,13-Apr-02,BelenGentry@gmail.com,256707221030,45, New Mexico,20000
+Magnus,Callahan,s1,south,boarding,M,08-Jan-04,MagnusCallahan@gmail.com,256707221031,46, Delaware,20000
+Kimber,Le,s3,north,day,M,12-Nov-01,KimberLe@gmail.com,256707221032,47, Maine,20000
+Damien,French,s6,east,boarding,F,16-Sep-04,DamienFrench@gmail.com,256707221033,48, Oregon,20000
+Lorelai,Woods,s4,west,boarding,M,29-Jun-00,LorelaiWoods@gmail.com,256707221034,49, New Hampshire,20000
+Zion,Hughes,s1,south,boarding,F,29-Apr-03,ZionHughes@gmail.com,256707221035,50, Illinois,20000
+Samantha,Weber,s2,north,day,F,27-Jan-01,SamanthaWeber@gmail.com,256707221036,51, California,20000
+Crew,Farmer,s4,east,day,F,21-Oct-02,CrewFarmer@gmail.com,256707221037,52, Arizona,20000
+Madelynn,Perkins,s5,west,boarding,M,25-Sep-04,MadelynnPerkins@gmail.com,256707221038,53, South Dakota,20000
+Kyrie,Barnes,s6,south,day,F,03-Jun-01,KyrieBarnes@gmail.com,256707221039,54, Missouri,20000
+Liliana,Herman,s1,north,boarding,M,02-Jan-04,LilianaHerman@gmail.com,256707221040,55, Pennsylvania,20000
+Juelz,Osborne,s3,east,boarding,M,16-Jul-00,JuelzOsborne@gmail.com,256707221041,56, Kentucky,
+Shelby,O’brien,s6,west,boarding,M,09-Mar-02,ShelbyO’brien@gmail.com,256707221042,57, Hawaii,20000
+Riley,Pham,s4,south,day,F,08-Dec-03,RileyPham@gmail.com,,58, Nebraska,20000
+Raelyn,Franklin,s1,north,day,M,10-Feb-01,RaelynFranklin@gmail.com,256707221044,59, Michigan,20000
+Simon,Chandler,s2,east,boarding,F,14-Oct-04,SimonChandler@gmail.com,256707221045,60, North Dakota,20000
+Viviana,Winters,s4,west,day,M,22-May-01,VivianaWinters@gmail.com,256707221046,61, New York,20000
+Deandre,Parker,s5,south,boarding,M,06-Aug-00,DeandreParker@gmail.com,256707221047,62,,20000
+Aubrey,Salas,s6,north,boarding,M,18-Apr-03,AubreySalas@gmail.com,256707221048,63, Kentucky,20000
+Zaiden,Burch,s1,east,boarding,M,06-Jan-01,ZaidenBurch@gmail.com,256707221049,64, Minnesota,20000
+Freyja,Lozano,s3,west,day,F,20-Oct-02,FreyjaLozano@gmail.com,256707221050,65, South Carolina,20000
+Boone,Gallagher,s6,south,day,M,30-Sep-04,BooneGallagher@gmail.com,256707221051,66, Texas,20000
+Elliott,Massey,s4,north,boarding,F,10-Jul-01,ElliottMassey@gmail.com,256707221052,67, North Dakota,20000
+Donald,Trejo,s1,east,day,F,27-Dec-03,DonaldTrejo@gmail.com,256707221053,68, Washington,20000
+Rosalyn,Petersen,s2,west,boarding,F,10-Sep-00,RosalynPetersen@gmail.com,256707221054,69, Nebraska,20000
+Samson,Ortega,s4,south,boarding,M,20-Mar-02,SamsonOrtega@gmail.com,256707221055,70, Ohio,20000
+Lilah,Carlson,s5,north,boarding,F,26-Nov-03,LilahCarlson@gmail.com,256707221056,71, Louisiana,20000
+Paul,Lewis,s6,east,,M,10-Feb-01,PaulLewis@gmail.com,256707221057,72, Massachusetts,20000
+Ellie,Dougherty,s1,west,day,M,06-Nov-04,EllieDougherty@gmail.com,256707221058,73, New Hampshire,20000
+Brett,Smith,s3,south,boarding,M,15-Jul-00,BrettSmith@gmail.com,256707221059,74, South Dakota,20000
+Olivia,Valencia,s6,north,day,F,10-Apr-03,OliviaValencia@gmail.com,256707221060,75, Oklahoma,20000
+Dax,Sherman,s4,east,boarding,M,12-Jan-01,DaxSherman@gmail.com,256707221061,76, New Hampshire,20000
+Addilyn,Stanton,s1,west,boarding,F,05-Oct-02,AddilynStanton@gmail.com,256707221062,77, Kansas,20000
+Zyair,McGuire,s2,south,boarding,M,19-Sep-04,ZyairMcGuire@gmail.com,256707221063,78, Missouri,20000
+April,Gibbs,s4,north,day,M,03-Jun-01,AprilGibbs@gmail.com,256707221064,79, Alabama,20000
+Deacon,Orozco,s5,east,day,Male,24-Jan-04,DeaconOrozco@gmail.com,256707221065,80, Montana,20000
+Renata,Wiley,s6,west,boarding,M,21-Jul-00,RenataWiley@gmail.com,256707221066,81, New Hampshire,20000
+Mathew,Harmon,s1,south,day,F,11-Mar-02,MathewHarmon@gmail.com,256707221067,82, Nevada,20000
+Maren,Shepard,s3,north,boarding,M,16-Dec-03,MarenShepard@gmail.com,256707221068,83, Idaho,20000
+Damari,Richards,s6,east,boarding,F,24-Feb-01,DamariRichards@gmail.com,256707221069,84, North Carolina,20000
+Trinity,Sanchez,s4,west,boarding,F,29-Oct-04,,256707221070,85, Rhode Island,20000
+Joseph,Kramer,s1,south,day,F,03-May-01,JosephKramer@gmail.com,256707221071,86, Arizona,20000
+Hanna,Benjamin,s2,north,day,M,04-Jan-04,HannaBenjamin@gmail.com,256707221072,87, Missouri,20000
+Kyro,Logan,s4,east,boarding,F,09-Aug-00,KyroLogan@gmail.com,256707221073,88, Texas,20000
+Kora,Reyna,s5,west,day,M,23-Apr-02,KoraReyna@gmail.com,256707221074,89, Georgia,20000
+Reginald,Larsen,s6,south,boarding,M,15-Jan-04,ReginaldLarsen@gmail.com,256707221075,90,,20000
+Xiomara,Patton,s1,north,boarding,M,13-Nov-01,XiomaraPatton@gmail.com,256707221076,91, New Mexico,20000
+Moises,Carr,s3,east,boarding,F,27-Sep-04,MoisesCarr@gmail.com,256707221077,92, Minnesota,20000
+Rowan,Torres,s6,west,day,M,03-Jul-00,RowanTorres@gmail.com,256707221078,93, Mississippi,20000
+Jayden,Ray,s4,south,day,F,12-Apr-03,JaydenRay@gmail.com,256707221079,94, Massachusetts,20000
+Ruth,Frank,s1,north,boarding,M,02-Feb-01,RuthFrank@gmail.com,256707221080,95, Georgia,20000
+Braylen,Martin,s2,east,day,M,17-Oct-02,BraylenMartin@gmail.com,256707221081,96, Montana,20000
+Mila,McCall,s4,west,boarding,M,28-Sep-04,MilaMcCall@gmail.com,256707221082,97, Idaho,20000
+Kiaan,Greene,s5,south,boarding,M,20-Jun-01,KiaanGreene@gmail.com,256707221083,98, Pennsylvania,20000
+Selena,Gibbs,s6,north,boarding,F,11-Jan-04,SelenaGibbs@gmail.com,256707221084,99, Indiana,20000
+Deacon,Delacruz,s1,east,day,M,18-Jul-00,DeaconDelacruz@gmail.com,256707221085,100, Idaho,20000
+Celine,Vincent,s3,west,day,F,18-Mar-02,CelineVincent@gmail.com,,101, Michigan,20000
+Aarav,Dalton,s6,south,boarding,F,10-Nov-03,AaravDalton@gmail.com,256707221087,102, Montana,20000
+Lilian,Paul,s4,north,day,F,05-Feb-01,LilianPaul@gmail.com,256707221088,103, New Jersey,20000
+Noel,Mills,s1,east,boarding,M,25-Sep-04,NoelMills@gmail.com,256707221089,104, Massachusetts,20000
+June,Jones,s2,west,boarding,F,09-May-01,JuneJones@gmail.com,256707221090,105, Michigan,20000
+William,Bravo,s4,south,boarding,M,30-Dec-03,WilliamBravo@gmail.com,256707221091,106, Indiana,20000
+Amoura,Blevins,s5,north,day,M,24-Aug-00,AmouraBlevins@gmail.com,256707221092,107, Illinois,20000
+Avi,Cabrera,s6,east,day,M,02-Apr-02,AviCabrera@gmail.com,256707221093,108, Maine,20000
+Daleyza,Olson,s1,west,boarding,F,29-Nov-03,DaleyzaOlson@gmail.com,256707221094,109, Rhode Island,20000
+Malachi,Rosales,s3,south,day,M,20-Feb-01,MalachiRosales@gmail.com,256707221095,110, Alabama,20000
+Kinley,Cano,s6,north,boarding,Female,08-Oct-04,,256707221096,111, Massachusetts,20000
+Terry,Crane,s4,east,boarding,,27-Jun-01,TerryCrane@gmail.com,256707221097,112, Georgia,20000
+Della,Simon,s1,west,boarding,M,28-Jan-04,DellaSimon@gmail.com,256707221098,113, New Hampshire,20000
+Zayne,Leal,s2,south,day,M,09-Jul-00,ZayneLeal@gmail.com,256707221099,114, Mississippi,20000
+Murphy,Phan,s4,north,day,M,15-Mar-02,MurphyPhan@gmail.com,256707221100,115, New Mexico,20000
+Maison,Lucas,s5,east,boarding,F,04-Dec-03,MaisonLucas@gmail.com,256707221101,116, Missouri,20000
+Phoenix,Bravo,s6,west,day,M,23-Feb-01,PhoenixBravo@gmail.com,256707221102,117, Hawaii,20000
+Genesis,Collins,s1,south,boarding,F,07-Nov-04,GenesisCollins@gmail.com,256707221103,118, New Mexico,20000
+Kinsley,Rangel,s3,north,boarding,F,14-Jul-01,KinsleyRangel@gmail.com,256707221104,119, New Jersey,20000
+Saint,Odom,s6,east,boarding,F,10-Apr-04,SaintOdom@gmail.com,256707221105,120, Massachusetts,20000
+Laylani,Wiggins,s4,west,day,M,19-Aug-00,LaylaniWiggins@gmail.com,256707221106,121, Idaho,20000
+Azariah,Payne,s1,south,day,F,23-Apr-02,AzariahPayne@gmail.com,256707221107,122,,20000
+London,Bonilla,s2,north,boarding,M,15-Jan-04,LondonBonilla@gmail.com,256707221108,123, North Carolina,
+Aden,Hurst,s4,east,day,M,20-Nov-01,AdenHurst@gmail.com,256707221109,124, Ohio,20000
+Adalee,Espinoza,s5,west,boarding,M,17-Sep-04,AdaleeEspinoza@gmail.com,256707221110,125, Minnesota,20000
+Dallas,Frederick,s6,south,boarding,F,06-Jul-00,DallasFrederick@gmail.com,256707221111,126, West Virginia,20000
+Sariyah,Rojas,s1,north,boarding,M,07-Apr-03,SariyahRojas@gmail.com,256707221112,127, South Dakota,20000
+Colin,McClure,s3,east,day,F,25-Jan-01,ColinMcClure@gmail.com,256707221113,128, West Virginia,20000
+Estella,Gill,s6,west,day,M,11-Oct-02,EstellaGill@gmail.com,256707221114,129, California,20000
+Matthias,Michael,s4,south,boarding,M,02-Aug-04,MatthiasMichael@gmail.com,256707221115,130, Minnesota,20000
+Aubriella,Martin,s1,north,day,M,14-May-01,AubriellaMartin@gmail.com,256707221116,131, New Hampshire,20000
+Mateo,Ortiz,s2,east,boarding,M,28-Dec-03,MateoOrtiz@gmail.com,256707221117,132, Missouri,20000
+Anna,Lee,s4,west,boarding,F,20-Jul-00,AnnaLee@gmail.com,256707221118,133, Hawaii,20000
+Jack,McIntosh,s5,south,boarding,M,19-Mar-02,JackMcIntosh@gmail.com,256707221119,134, New Mexico,20000
+Gwen,Parsons,s6,north,day,F,05-Nov-03,GwenParsons@gmail.com,256707221120,135, Utah,20000
+Lewis,Acevedo,s1,east,day,F,03-Feb-01,LewisAcevedo@gmail.com,256707221121,136, Hawaii,20000
+Ashlynn,Pittman,s3,west,boarding,F,12-Sep-04,AshlynnPittman@gmail.com,256707221122,137, Utah,20000
+Valentino,Jimenez,s6,south,day,M,23-Jun-00,ValentinoJimenez@gmail.com,256707221123,138, Kentucky,20000
+Adeline,Valenzuela,s4,north,boarding,F,17-Apr-03,AdelineValenzuela@gmail.com,256707221124,139, Louisiana,20000
+Jamari,Rice,s1,east,boarding,M,08-Jan-01,JamariRice@gmail.com,256707221125,140, New Hampshire,20000
+Ada,Warner,s2,west,boarding,M,10-Oct-02,AdaWarner@gmail.com,256707221126,141, Arkansas,20000
+Jaxton,McCoy,s4,south,day,M,14-Aug-04,JaxtonMcCoy@gmail.com,256707221127,142, Ohio,20000
+Mckenzie,Sanchez,s5,north,day,F,01-Jun-01,MckenzieSanchez@gmail.com,256707221128,143, Indiana,20000
+Joseph,Owen,s6,east,boarding,M,19-Dec-03,JosephOwen@gmail.com,256707221129,144, Michigan,20000
+Mikayla,Savage,s1,west,day,F,26-Aug-00,MikaylaSavage@gmail.com,256707221130,145, Virginia,20000
+Keaton,Grant,s3,south,boarding,M,02-Apr-02,KeatonGrant@gmail.com,256707221131,146, North Dakota,20000
+Alaina,Wang,s6,north,boarding,M,,AlainaWang@gmail.com,256707221132,147, Wyoming,
+Cohen,Wiggins,s4,east,boarding,M,15-Feb-01,CohenWiggins@gmail.com,256707221133,148, West Virginia,
+Capri,Mora,,west,day,M,22-Sep-04,CapriMora@gmail.com,256707221134,149, Colorado,
+Arturo,Stephenson,s2,,day,F,05-Jul-00,,256707221135,150, Oregon,20000
+Khaleesi,Portillo,s4,north,boarding,M,23-Apr-03,KhaleesiPortillo@gmail.com,256707221136,151, Pennsylvania,20000
+Wallace,Arellano,s5,east,day,F,16-Jan-01,WallaceArellano@gmail.com,256707221137,152, Tennessee,20000
+Faye,Hopkins,s6,west,boarding,F,18-Oct-02,FayeHopkins@gmail.com,256707221138,153, North Dakota,20000
+Ali,Vincent,s1,south,boarding,F,13-Sep-02,AliVincent@gmail.com,256707221139,154, Arizona,20000
+Allyson,Watson,s3,north,boarding,M,10-Sep-04,AllysonWatson@gmail.com,256707221140,155, California,20000
+Greyson,O’Connell,s6,east,day,F,29-Dec-04,GreysonO’Connell@gmail.com,256707221141,156, Nevada,20000
+Jillian,Lowery,s4,west,day,M,08-Jun-01,JillianLowery@gmail.com,256707221142,157, West Virginia,20000
+Jaxxon,Williams,s1,south,boarding,M,04-Jan-04,JaxxonWilliams@gmail.com,256707221143,158, Iowa,20000
+Ava,Richards,s2,north,day,M,14-Jul-00,AvaRichards@gmail.com,256707221144,159, Nebraska,20000
+Holden,Rios,s4,east,boarding,F,01-Mar-02,HoldenRios@gmail.com,256707221145,160, Montana,20000
+Brooke,Charles,s5,west,boarding,M,19-Nov-03,BrookeCharles@gmail.com,256707221146,161, Pennsylvania,20000
+Conrad,Robinson,s6,south,boarding,F,27-Feb-01,ConradRobinson@gmail.com,256707221147,162, West Virginia,20000
+Nora,Espinosa,s1,north,day,M,05-Oct-04,NoraEspinosa@gmail.com,256707221148,163, Texas,20000
+Khalid,Compton,s3,east,day,M,10-May-01,KhalidCompton@gmail.com,256707221149,164, Arizona,20000
+Elina,Barker,s6,west,boarding,M,09-Dec-03,ElinaBarker@gmail.com,256707221150,165, North Carolina,20000
+Kade,Wade,s4,south,day,M,21-Aug-00,KadeWade@gmail.com,256707221151,166, South Dakota,20000
+Evie,Mendez,s1,north,boarding,F,13-Apr-02,EvieMendez@gmail.com,256707221152,167, Nebraska,20000
+Arthur,Jaramillo,s2,east,boarding,M,08-Jan-04,ArthurJaramillo@gmail.com,256707221153,168, Maryland,20000
+Guadalupe,Glover,s4,west,boarding,F,12-Nov-01,GuadalupeGlover@gmail.com,256707221154,169, North Dakota,20000
+Mack,Parker,s5,south,day,F,16-Sep-04,MackParker@gmail.com,256707221155,170, Nevada,20000
+Aubrey,Weeks,s6,north,day,F,29-Jun-00,AubreyWeeks@gmail.com,256707221156,171, South Carolina,20000
+Anders,Pratt,s1,east,boarding,M,29-Apr-03,AndersPratt@gmail.com,256707221157,172, North Dakota,20000
+Ailani,Shaffer,s3,west,day,F,27-Jan-01,AilaniShaffer@gmail.com,256707221158,173, Arkansas,20000
+Dexter,Tran,s6,south,boarding,M,21-Oct-02,DexterTran@gmail.com,256707221159,174, Vermont,20000
+Kylie,Warren,s4,north,boarding,M,25-Sep-04,KylieWarren@gmail.com,256707221160,175, New Jersey,20000
+Abel,Watts,s1,east,boarding,M,03-Jun-01,AbelWatts@gmail.com,256707221161,176, North Dakota,20000
+Melissa,Calderon,s2,west,day,F,02-Jan-04,MelissaCalderon@gmail.com,256707221162,177, Indiana,20000
+Oakley,Higgins,s4,south,day,M,16-Jul-00,OakleyHiggins@gmail.com,256707221163,178, Montana,20000
+Leighton,Schroeder,s5,north,boarding,F,09-Mar-02,LeightonSchroeder@gmail.com,256707221164,179, Georgia,20000
+Izaiah,Santiago,s6,east,day,M,08-Dec-03,IzaiahSantiago@gmail.com,256707221165,180, Connecticut,20000
+Nyla,Hail,s1,west,boarding,M,10-Feb-01,NylaHail@gmail.com,256707221166,181, Nevada,20000
+Hector,Shepherd,s3,south,boarding,M,14-Oct-04,HectorShepherd@gmail.com,256707221167,182, Minnesota,20000
+Katalina,Castaneda,s6,north,boarding,M,22-May-01,KatalinaCastaneda@gmail.com,256707221168,183, Delaware,20000
+Collin,Johnston,s4,east,day,F,06-Aug-00,CollinJohnston@gmail.com,256707221169,184, Ohio,20000
+Laila,Rubio,s1,west,day,M,18-Apr-03,LailaRubio@gmail.com,256707221170,185, Alabama,20000
+Titan,King,s2,south,boarding,F,06-Jan-01,TitanKing@gmail.com,256707221171,186, Connecticut,20000
+Victoria,Kim,s4,north,day,F,20-Oct-02,VictoriaKim@gmail.com,256707221172,187, Vermont,20000
+Roman,Chavez,s5,east,boarding,F,30-Sep-04,RomanChavez@gmail.com,256707221173,188, North Dakota,20000
+Nevaeh,Doyle,s6,west,boarding,M,10-Jul-01,NevaehDoyle@gmail.com,256707221174,189, Wisconsin,20000
+Kashton,Burnett,s1,south,boarding,F,27-Dec-03,KashtonBurnett@gmail.com,256707221175,190, New York,20000
+Emberly,Maxwell,s3,north,day,M,10-Sep-00,EmberlyMaxwell@gmail.com,256707221176,191, Georgia,20000
+Eden,Hubbard,s6,east,day,M,20-Mar-02,EdenHubbard@gmail.com,256707221177,192, Kansas,20000
+Rosie,Sullivan,s4,west,boarding,M,26-Nov-03,RosieSullivan@gmail.com,256707221178,193, Idaho,20000
+Evan,Lu,s1,south,day,F,10-Feb-01,EvanLu@gmail.com,256707221179,194, Idaho,20000
+Emani,Marsh,s2,north,boarding,M,06-Nov-04,EmaniMarsh@gmail.com,256707221180,195, Arizona,20000
+Bo,Rice,s4,east,boarding,F,15-Jul-00,BoRice@gmail.com,256707221181,196, New Mexico,20000
+Ada,Lowery,s5,west,boarding,M,10-Apr-03,AdaLowery@gmail.com,256707221182,197, Ohio,20000
+Jaxxon,Avery,s6,south,day,M,12-Jan-01,JaxxonAvery@gmail.com,256707221183,198, Arkansas,20000
+Meghan,Coffey,s1,north,day,M,05-Oct-02,MeghanCoffey@gmail.com,256707221184,199, Tennessee,20000
+Kody,Hunter,s3,east,boarding,M,19-Sep-04,KodyHunter@gmail.com,256707221185,200, California,20000
+Khloe,Schmidt,s6,west,day,F,03-Jun-01,KhloeSchmidt@gmail.com,256707221186,201, Georgia,20000
+Zayden,Rosario,s4,south,boarding,M,24-Jan-04,ZaydenRosario@gmail.com,256707221187,202, Massachusetts,20000
+Louisa,Crawford,s1,north,boarding,F,21-Jul-00,LouisaCrawford@gmail.com,256707221188,203, Alabama,20000
+Kevin,Porter,s2,east,boarding,F,11-Mar-02,KevinPorter@gmail.com,256707221189,204, Nevada,20000
+Ryleigh,Carrillo,s4,west,day,F,16-Dec-03,RyleighCarrillo@gmail.com,256707221190,205, Kentucky,20000
+Wade,Marin,s5,south,day,M,24-Feb-01,WadeMarin@gmail.com,256707221191,206, Oklahoma,20000
+Celia,Grant,s6,north,boarding,F,29-Oct-04,CeliaGrant@gmail.com,256707221192,207, Pennsylvania,20000
+Leon,Molina,s1,east,day,M,03-May-01,LeonMolina@gmail.com,256707221193,208, South Carolina,20000
+Alexandria,Schmidt,s3,west,boarding,M,04-Jan-04,AlexandriaSchmidt@gmail.com,256707221194,209, Mississippi,20000
+Zayden,Walton,s6,south,boarding,M,09-Aug-00,ZaydenWalton@gmail.com,256707221195,210, Arizona,20000
+Scarlet,Petersen,s4,north,boarding,F,23-Apr-02,ScarletPetersen@gmail.com,256707221196,211, Hawaii,20000
+Samson,Mitchell,s1,east,day,M,15-Jan-04,SamsonMitchell@gmail.com,256707221197,212, Maryland,20000
+Willow,Nguyen,s2,west,day,F,13-Nov-01,WillowNguyen@gmail.com,256707221198,213, Kansas,20000
+Gabriel,Villarreal,s4,south,boarding,M,27-Sep-04,GabrielVillarreal@gmail.com,256707221199,214, North Dakota,20000
+Jazlyn,Chen,s5,north,day,M,03-Jul-00,JazlynChen@gmail.com,256707221200,215, Maryland,20000
+Emmanuel,Holt,s6,east,boarding,M,12-Apr-03,EmmanuelHolt@gmail.com,256707221201,216, Utah,20000
+Adelynn,Newman,s1,west,boarding,M,02-Feb-01,AdelynnNewman@gmail.com,256707221202,217, New Mexico,20000
+Anderson,Ramos,s3,south,boarding,F,17-Oct-02,AndersonRamos@gmail.com,256707221203,218, Connecticut,20000
+Alice,Kaur,s6,north,day,M,28-Sep-04,AliceKaur@gmail.com,256707221204,219, Virginia,20000
+Augustine,Luna,s4,east,day,F,20-Jun-01,AugustineLuna@gmail.com,256707221205,220, Utah,20000
+Journey,Shepherd,s1,west,boarding,F,11-Jan-04,JourneyShepherd@gmail.com,256707221206,221, Texas,20000
+Ronald,Zhang,s2,south,day,F,18-Jul-00,RonaldZhang@gmail.com,256707221207,222, Oklahoma,20000
+Sarai,Valentine,s4,north,boarding,M,18-Mar-02,SaraiValentine@gmail.com,256707221208,223, Texas,20000
+Demetrius,Blevins,s5,east,boarding,F,10-Nov-03,DemetriusBlevins@gmail.com,256707221209,224, Iowa,20000
+Aila,Beltran,s6,west,boarding,M,05-Feb-01,AilaBeltran@gmail.com,256707221210,225, Wyoming,20000
+Ricky,Ingram,s1,south,day,M,25-Sep-04,RickyIngram@gmail.com,256707221211,226, Illinois,20000
+Katie,Stone,s3,north,day,M,09-May-01,KatieStone@gmail.com,256707221212,227, New Hampshire,20000
+Finn,Hart,s6,east,boarding,F,30-Dec-03,FinnHart@gmail.com,256707221213,228, Nevada,20000
+Gemma,Bentley,s4,west,day,M,24-Aug-00,GemmaBentley@gmail.com,256707221214,229, Oklahoma,20000
+Randy,Brown,s1,south,boarding,F,02-Apr-02,RandyBrown@gmail.com,256707221215,230, Oregon,20000
+Charlotte,Wong,s2,north,boarding,M,29-Nov-03,CharlotteWong@gmail.com,256707221216,231, Oregon,20000
+Walter,Cole,s4,east,boarding,M,20-Feb-01,WalterCole@gmail.com,256707221217,232, Kansas,20000
+Margaret,Hayden,s5,west,day,M,08-Oct-04,MargaretHayden@gmail.com,256707221218,233, Oregon,20000
+Leroy,Wolfe,s6,south,day,M,27-Jun-01,LeroyWolfe@gmail.com,256707221219,234, California,20000
+Hallie,Duffy,s1,north,boarding,F,28-Jan-04,HallieDuffy@gmail.com,256707221220,235, Indiana,20000
+Kyng,Short,s3,east,day,M,09-Jul-00,KyngShort@gmail.com,256707221221,236, Minnesota,20000
+Cheyenne,Parra,s6,west,boarding,F,15-Mar-02,CheyenneParra@gmail.com,256707221222,237, Kentucky,20000
+Davion,Meza,s4,south,boarding,F,04-Dec-03,DavionMeza@gmail.com,256707221223,238, Alaska,20000
+Rosa,Henderson,s1,north,boarding,F,23-Feb-01,RosaHenderson@gmail.com,256707221224,239, Colorado,20000
+Beau,Levy,s2,east,day,M,07-Nov-04,BeauLevy@gmail.com,256707221225,240, South Dakota,20000
+Flora,Novak,s4,west,day,F,14-Jul-01,FloraNovak@gmail.com,256707221226,241, North Dakota,20000
+Bishop,Phan,s5,south,boarding,M,10-Apr-04,BishopPhan@gmail.com,256707221227,242, California,20000
+Elsa,Campbell,s6,north,day,M,19-Aug-00,ElsaCampbell@gmail.com,256707221228,243, Idaho,20000
+Christopher,Kennedy,s1,east,boarding,M,23-Apr-02,ChristopherKennedy@gmail.com,256707221229,244, Nevada,20000
+Brianna,Frederick,s3,west,boarding,F,15-Jan-04,BriannaFrederick@gmail.com,256707221230,245, Virginia,20000
+Kase,Atkins,s6,south,boarding,M,20-Nov-01,KaseAtkins@gmail.com,256707221231,246, Vermont,20000
+Mina,Haynes,s4,north,day,F,17-Sep-04,MinaHaynes@gmail.com,256707221232,247, Pennsylvania,20000
+Kason,Roy,s1,east,day,M,06-Jul-00,KasonRoy@gmail.com,256707221233,248, Tennessee,20000
+Savanna,Wilkinson,s2,west,boarding,M,07-Apr-03,SavannaWilkinson@gmail.com,256707221234,249, Louisiana,20000
+Leonard,Singh,s4,south,day,M,25-Jan-01,LeonardSingh@gmail.com,256707221235,250, Maryland,20000
+Vivienne,Bonilla,s5,north,boarding,M,11-Oct-02,VivienneBonilla@gmail.com,256707221236,251, Maine,20000
+Aden,Johnson,s6,east,boarding,F,02-Aug-04,AdenJohnson@gmail.com,256707221237,252, Alabama,20000
+Emma,Valenzuela,s1,west,boarding,M,14-May-01,EmmaValenzuela@gmail.com,256707221238,253, Rhode Island,20000
+Jamari,Spears,s3,south,day,F,28-Dec-03,JamariSpears@gmail.com,256707221239,254, Louisiana,20000
+Isabela,Chandler,s6,north,day,F,20-Jul-00,IsabelaChandler@gmail.com,256707221240,255, Colorado,20000
+Royal,Blackwell,s4,east,boarding,F,19-Mar-02,RoyalBlackwell@gmail.com,256707221241,256, New York,20000
+Saoirse,Dodson,s1,west,day,M,05-Nov-03,SaoirseDodson@gmail.com,256707221242,257, Mississippi,20000
+Seven,Mays,s2,south,boarding,F,03-Feb-01,SevenMays@gmail.com,256707221243,258, Washington,20000
+Denisse,Stanton,s4,north,boarding,M,12-Sep-04,DenisseStanton@gmail.com,256707221244,259, Arkansas,20000
+Zyair,Buck,s5,east,boarding,M,23-Jun-00,ZyairBuck@gmail.com,256707221245,260, Connecticut,20000
+Livia,Hodge,s6,west,day,M,17-Apr-03,LiviaHodge@gmail.com,256707221246,261, Wisconsin,20000
+Reign,Neal,s1,south,day,F,08-Jan-01,ReignNeal@gmail.com,256707221247,262, Nevada,20000
+Talia,Delarosa,s3,north,boarding,M,10-Oct-02,TaliaDelarosa@gmail.com,256707221248,263, Washington,20000
+Osiris,Jarvis,s6,east,day,F,14-Aug-04,OsirisJarvis@gmail.com,256707221249,264, North Dakota,20000
+Elisabeth,Lucero,s4,west,boarding,M,01-Jun-01,ElisabethLucero@gmail.com,256707221250,265, Missouri,20000
+Felipe,Hickman,s1,south,boarding,M,19-Dec-03,FelipeHickman@gmail.com,256707221251,266, New York,20000
+Scarlette,Lopez,s2,north,boarding,M,26-Aug-00,ScarletteLopez@gmail.com,256707221252,267, Tennessee,20000
+Michael,Harrison,s4,east,day,M,02-Apr-02,MichaelHarrison@gmail.com,256707221253,268, Arkansas,20000
+Jasmine,Butler,s5,west,day,F,09-Nov-03,JasmineButler@gmail.com,256707221254,269, Montana,20000
+Ryder,Benton,s6,south,boarding,M,15-Feb-01,RyderBenton@gmail.com,256707221255,270, South Dakota,20000
+Anais,Lowe,s1,north,day,F,22-Sep-04,AnaisLowe@gmail.com,256707221256,271, Arkansas,20000
+Julius,Lawson,s3,east,boarding,F,05-Jul-00,JuliusLawson@gmail.com,256707221257,272, New Jersey,20000
+Phoebe,Davis,s6,west,boarding,F,23-Apr-03,PhoebeDavis@gmail.com,256707221258,273, Florida,20000
+Lucas,Bender,s4,south,boarding,M,16-Jan-01,LucasBender@gmail.com,256707221259,274, Massachusetts,20000
+Lilyana,McCullough,s1,north,day,F,18-Oct-02,LilyanaMcCullough@gmail.com,256707221260,275, Iowa,20000
+Briar,Klein,s2,east,day,M,10-Sep-04,BriarKlein@gmail.com,256707221261,276, Michigan,20000
+Elianna,Rowe,s4,west,boarding,M,08-Jun-01,EliannaRowe@gmail.com,256707221262,277, Idaho,20000
+Kamden,Peralta,s5,south,day,M,04-Jan-04,KamdenPeralta@gmail.com,256707221263,278, Alabama,20000
+Malayah,Vaughn,s6,north,boarding,F,14-Jul-00,MalayahVaughn@gmail.com,256707221264,279, Utah,20000
+Remy,Chavez,s1,east,boarding,M,01-Mar-02,RemyChavez@gmail.com,256707221265,280, Rhode Island,20000
+Nevaeh,Stanley,s3,west,boarding,F,19-Nov-03,NevaehStanley@gmail.com,256707221266,281, Wisconsin,20000
+Manuel,Flynn,s6,south,day,M,27-Feb-01,ManuelFlynn@gmail.com,256707221267,282, North Dakota,20000
+Dorothy,Odom,s4,north,day,M,05-Oct-04,DorothyOdom@gmail.com,256707221268,283, Maryland,20000
+Kylian,Frye,s1,east,boarding,M,10-May-01,KylianFrye@gmail.com,256707221269,284, Indiana,20000
+Raya,Willis,s2,west,day,M,09-Dec-03,RayaWillis@gmail.com,256707221270,285, Arizona,20000
+Remington,Palmer,s4,south,boarding,F,21-Aug-00,RemingtonPalmer@gmail.com,256707221271,286, Washington,20000
+Juniper,Daniels,s5,north,boarding,M,13-Apr-02,JuniperDaniels@gmail.com,256707221272,287, Rhode Island,20000
+Xander,Hale,s6,east,boarding,F,08-Jan-04,XanderHale@gmail.com,256707221273,288, Delaware,20000
+Brinley,Moran,s1,west,day,F,12-Nov-01,BrinleyMoran@gmail.com,256707221274,289, Wyoming,20000
+Tate,Cochran,s3,south,day,F,16-Sep-04,TateCochran@gmail.com,256707221275,290, Tennessee,20000
+Alma,Wallace,s6,north,boarding,M,29-Jun-00,AlmaWallace@gmail.com,256707221276,291, Oregon,20000
+Chase,Gross,s4,east,day,F,29-Apr-03,ChaseGross@gmail.com,256707221277,292, Ohio,20000
+Angel,Saunders,s1,west,boarding,M,27-Jan-01,AngelSaunders@gmail.com,256707221278,293, New Mexico,20000
+Kasen,Singleton,s2,south,boarding,M,21-Oct-02,KasenSingleton@gmail.com,256707221279,294, Wisconsin,20000
+Malaysia,Greer,s4,north,boarding,M,25-Sep-04,MalaysiaGreer@gmail.com,256707221280,295, Wyoming,20000
+Koda,Trujillo,s5,east,day,F,03-Jun-01,KodaTrujillo@gmail.com,256707221281,296, Kansas,20000
+Danielle,Salinas,s6,west,day,M,02-Jan-04,DanielleSalinas@gmail.com,256707221282,297, Missouri,20000
+Edgar,Palacios,s1,south,boarding,F,16-Jul-00,EdgarPalacios@gmail.com,256707221283,298, Virginia,20000
+Bria,Grant,s3,north,day,M,09-Mar-02,BriaGrant@gmail.com,256707221284,299, Connecticut,20000
+Leon,Hurst,s6,east,boarding,M,08-Dec-03,LeonHurst@gmail.com,256707221285,300, Kansas,20000
+Adalee,Guerra,s4,west,boarding,M,10-Feb-01,AdaleeGuerra@gmail.com,256707221286,301, Delaware,20000
+Leland,Ponce,s1,south,boarding,M,14-Oct-04,LelandPonce@gmail.com,256707221287,302, Oklahoma,20000
+Aileen,Harvey,s2,north,day,F,22-May-01,AileenHarvey@gmail.com,256707221288,303, Tennessee,20000
+Cayden,Tran,s4,east,day,M,06-Aug-00,CaydenTran@gmail.com,256707221289,304, Texas,20000
+Kylie,Cantu,s5,west,boarding,F,18-Apr-03,KylieCantu@gmail.com,256707221290,305, Massachusetts,20000
+Anakin,Bauer,s6,south,day,F,06-Jan-01,AnakinBauer@gmail.com,256707221291,306, Michigan,20000
+Haley,Fitzgerald,s1,north,boarding,F,20-Oct-02,HaleyFitzgerald@gmail.com,256707221292,307, California,20000
+Peyton,Rojas,s3,east,boarding,M,30-Sep-04,PeytonRojas@gmail.com,256707221293,308, Iowa,20000
+Adaline,Armstrong,s6,west,boarding,F,10-Jul-01,AdalineArmstrong@gmail.com,256707221294,309, Pennsylvania,20000
+Grant,Craig,s4,south,day,M,27-Dec-03,GrantCraig@gmail.com,256707221295,310, Ohio,20000
+Brynn,Savage,s1,north,day,M,10-Sep-00,BrynnSavage@gmail.com,256707221296,311, Alaska,20000
+Keaton,Pierce,s2,east,boarding,M,20-Mar-02,KeatonPierce@gmail.com,256707221297,312, Colorado,20000
+Arabella,Ellis,s4,west,day,F,26-Nov-03,ArabellaEllis@gmail.com,256707221298,313, Michigan,20000
+Cole,Brewer,s5,south,boarding,M,10-Feb-01,ColeBrewer@gmail.com,256707221299,314, North Carolina,20000
+Thea,Saunders,s6,north,boarding,F,06-Nov-04,TheaSaunders@gmail.com,256707221300,315, Colorado,20000
+Kasen,Schneider,s1,east,boarding,M,15-Jul-00,KasenSchneider@gmail.com,256707221301,316, Indiana,20000
+Delaney,Doyle,s3,west,day,M,05-Oct-02,DelaneyDoyle@gmail.com,256707221302,317, Wisconsin,20000
+Kashton,Hendricks,s6,south,day,M,19-Sep-04,KashtonHendricks@gmail.com,256707221303,318, Oklahoma,20000
+Dani,Lamb,s4,north,boarding,M,03-Jun-01,DaniLamb@gmail.com,256707221304,319, Wyoming,20000
+Kaysen,Michael,s1,east,day,F,24-Jan-04,KaysenMichael@gmail.com,256707221305,320, Iowa,20000
+Aubriella,Merritt,s2,west,boarding,M,21-Jul-00,AubriellaMerritt@gmail.com,256707221306,321, Maryland,20000
+Colten,Villalobos,s4,south,boarding,F,11-Mar-02,ColtenVillalobos@gmail.com,256707221307,322, Alaska,20000
+Zoya,Preston,s5,north,boarding,F,16-Dec-03,ZoyaPreston@gmail.com,256707221308,323, Michigan,20000
+Vincenzo,Stephenson,s6,east,day,F,24-Feb-01,VincenzoStephenson@gmail.com,256707221309,324, New Jersey,20000
+Khaleesi,Ayala,s1,west,day,M,29-Oct-04,KhaleesiAyala@gmail.com,256707221310,325, West Virginia,20000
+Tanner,Wilkinson,s3,south,boarding,F,03-May-01,TannerWilkinson@gmail.com,256707221311,326, Iowa,20000
+Siena,Miles,s6,north,day,M,04-Jan-04,SienaMiles@gmail.com,256707221312,327, Utah,20000
+Jared,Murphy,s4,east,boarding,M,09-Aug-00,JaredMurphy@gmail.com,256707221313,328, Alabama,20000
+Bella,Jacobson,s1,west,boarding,M,23-Apr-02,BellaJacobson@gmail.com,256707221314,329, Wisconsin,20000
+Legacy,Robles,s2,south,boarding,F,15-Jan-04,LegacyRobles@gmail.com,256707221315,330, Alaska,20000
+Felicity,Yang,s4,north,day,M,13-Nov-01,FelicityYang@gmail.com,256707221316,331, West Virginia,20000
+Malcolm,Barron,s5,east,day,F,27-Sep-04,MalcolmBarron@gmail.com,256707221317,332, Virginia,20000
+Anya,Bell,s6,west,boarding,M,03-Jul-00,AnyaBell@gmail.com,256707221318,333, New Mexico,20000
+Emmett,Salinas,s1,south,day,M,12-Apr-03,EmmettSalinas@gmail.com,256707221319,334, Iowa,20000
+Royalty,Bullock,s3,north,boarding,M,02-Feb-01,RoyaltyBullock@gmail.com,256707221320,335, Louisiana,20000
+Ben,Garza,s6,east,boarding,M,17-Oct-02,BenGarza@gmail.com,256707221321,336, Michigan,20000
+River,Hurley,s4,west,boarding,F,28-Sep-04,RiverHurley@gmail.com,256707221322,337, New Hampshire,20000
+Van,Pena,s1,south,day,M,20-Jun-01,VanPena@gmail.com,256707221323,338, Texas,20000
+Rachel,Rodgers,s2,north,day,F,11-Jan-04,RachelRodgers@gmail.com,256707221324,339, Wyoming,20000
+Mathias,Moon,s4,east,boarding,F,18-Jul-00,MathiasMoon@gmail.com,256707221325,340, Wisconsin,20000
+Naya,Adkins,s5,west,day,F,18-Mar-02,NayaAdkins@gmail.com,256707221326,341, Maryland,20000
+Kylo,Hanna,s6,south,boarding,M,10-Nov-03,KyloHanna@gmail.com,256707221327,342, New Hampshire,20000
+Cynthia,Herrera,s1,north,boarding,F,05-Feb-01,CynthiaHerrera@gmail.com,256707221328,343, Illinois,20000
+River,Santana,s3,east,boarding,M,25-Sep-04,RiverSantana@gmail.com,256707221329,344, Maine,20000
+Myra,Rhodes,s6,west,day,M,09-May-01,MyraRhodes@gmail.com,256707221330,345, Tennessee,20000
+Titus,Correa,s4,south,day,M,30-Dec-03,TitusCorrea@gmail.com,256707221331,346, Wisconsin,20000
+Valery,Vu,s1,north,boarding,F,24-Aug-00,ValeryVu@gmail.com,256707221332,347, Alaska,20000
+Kamdyn,Tyler,s2,east,day,M,02-Apr-02,KamdynTyler@gmail.com,256707221333,348, Louisiana,20000
+Helena,Beck,s4,west,boarding,F,29-Nov-03,HelenaBeck@gmail.com,256707221334,349, Georgia,20000
+Eduardo,Moore,s5,south,boarding,M,20-Feb-01,EduardoMoore@gmail.com,256707221335,350, Georgia,20000
+Emily,Clayton,s6,north,boarding,M,08-Oct-04,EmilyClayton@gmail.com,256707221336,351, Indiana,20000
+Boston,Henderson,s1,east,day,M,27-Jun-01,BostonHenderson@gmail.com,256707221337,352, Michigan,20000
+Maria,Graham,s3,west,day,M,28-Jan-04,MariaGraham@gmail.com,256707221338,353, West Virginia,20000
+Giovanni,Klein,s6,south,boarding,F,09-Jul-00,GiovanniKlein@gmail.com,256707221339,354, Florida,20000
+Elianna,Ross,s4,north,day,M,15-Mar-02,EliannaRoss@gmail.com,256707221340,355, Arkansas,20000
+Wesley,Frost,s1,east,boarding,F,04-Dec-03,WesleyFrost@gmail.com,256707221341,356, Iowa,20000
+Paula,Randolph,s2,west,boarding,F,23-Feb-01,PaulaRandolph@gmail.com,256707221342,357, Arizona,20000
+Eugene,Torres,s4,south,boarding,F,07-Nov-04,EugeneTorres@gmail.com,256707221343,358, Minnesota,20000
+Violet,Smith,s5,north,day,M,14-Jul-01,VioletSmith@gmail.com,256707221344,359, Missouri,20000
+Liam,Becker,s6,east,day,F,10-Apr-04,LiamBecker@gmail.com,256707221345,360, Pennsylvania,20000
+Laura,Travis,s1,west,boarding,M,19-Aug-00,LauraTravis@gmail.com,256707221346,361, Rhode Island,20000
+Willie,Miranda,s3,south,day,M,23-Apr-02,WillieMiranda@gmail.com,256707221347,362, Oklahoma,20000
+Amina,Meadows,s6,north,boarding,M,15-Jan-04,AminaMeadows@gmail.com,256707221348,363, Nevada,20000
+Wayne,Vaughn,s4,east,boarding,F,20-Nov-01,WayneVaughn@gmail.com,256707221349,364, Indiana,20000
+Reign,Hodge,s1,west,boarding,M,17-Sep-04,ReignHodge@gmail.com,256707221350,365, Connecticut,20000
+Reign,Lowe,s2,south,day,F,06-Jul-00,ReignLowe@gmail.com,256707221351,366, Wisconsin,20000
+Amari,Wolfe,s4,north,day,M,07-Apr-03,AmariWolfe@gmail.com,256707221352,367, Texas,20000
+Donovan,Nash,s5,east,boarding,M,25-Jan-01,DonovanNash@gmail.com,256707221353,368, Massachusetts,20000
+Novah,Gilbert,s6,west,day,M,11-Oct-02,NovahGilbert@gmail.com,256707221354,369, Delaware,20000
+Tobias,Archer,s1,south,boarding,M,02-Aug-04,TobiasArcher@gmail.com,256707221355,370, Iowa,20000
+Kadence,Wilkinson,s3,north,boarding,F,14-May-01,KadenceWilkinson@gmail.com,256707221356,371, Indiana,20000
+Leonard,McCoy,s6,east,boarding,M,28-Dec-03,LeonardMcCoy@gmail.com,256707221357,372, Arizona,20000
+Mckenzie,Yu,s4,west,day,F,20-Jul-00,MckenzieYu@gmail.com,256707221358,373, Nebraska,20000
+Bryant,Woodard,s1,south,day,F,19-Mar-02,BryantWoodard@gmail.com,256707221359,374, West Virginia,20000
+Aubrie,Mullins,s2,north,boarding,F,05-Nov-03,AubrieMullins@gmail.com,256707221360,375, Texas,20000
+Allen,Quintana,s4,east,day,M,03-Feb-01,AllenQuintana@gmail.com,256707221361,376, Idaho,20000
+Kenia,Rivas,s5,west,boarding,F,12-Sep-04,KeniaRivas@gmail.com,256707221362,377, Arizona,20000
+Damon,Zhang,s6,south,boarding,M,23-Jun-00,DamonZhang@gmail.com,256707221363,378, New York,20000
+Sarai,Middleton,s1,north,boarding,M,17-Apr-03,SaraiMiddleton@gmail.com,256707221364,379, Colorado,20000
+Misael,Phan,s3,east,day,M,08-Jan-01,MisaelPhan@gmail.com,256707221365,380, Alaska,20000
+Elsa,Schultz,s6,west,day,F,10-Oct-02,ElsaSchultz@gmail.com,256707221366,381, New Jersey,20000
+Cody,Church,s4,south,boarding,M,14-Aug-04,CodyChurch@gmail.com,256707221367,382, Rhode Island,20000
+Ayleen,Farrell,s1,north,day,F,01-Jun-01,AyleenFarrell@gmail.com,256707221368,383, Wyoming,20000
+Ty,Herrera,s2,east,boarding,M,19-Dec-03,TyHerrera@gmail.com,256707221369,384, Indiana,20000
+Ximena,Moreno,s4,west,boarding,M,26-Aug-00,XimenaMoreno@gmail.com,256707221370,385, Delaware,20000
+Myles,Stevens,s5,south,boarding,M,02-Apr-02,MylesStevens@gmail.com,256707221371,386, Massachusetts,20000
+Katherine,Leon,s6,north,day,M,09-Nov-03,KatherineLeon@gmail.com,256707221372,387, Maine,20000
+Marshall,Fleming,s1,east,day,F,15-Feb-01,MarshallFleming@gmail.com,256707221373,388, Minnesota,20000
+Fatima,Duffy,s3,west,boarding,M,22-Sep-04,FatimaDuffy@gmail.com,256707221374,389, Mississippi,20000
+Kyng,Vance,s6,south,day,F,05-Jul-00,KyngVance@gmail.com,256707221375,390, Washington,20000
+Maxine,Howard,s4,north,boarding,F,23-Apr-03,MaxineHoward@gmail.com,256707221376,391, Arizona,20000
+Jeremiah,Giles,s1,east,boarding,F,16-Jan-01,JeremiahGiles@gmail.com,256707221377,392, New Mexico,20000
+Bailee,Harrell,s2,west,boarding,M,18-Oct-02,BaileeHarrell@gmail.com,256707221378,393, New York,20000
+Nelson,Norris,s4,south,day,F,10-Sep-04,NelsonNorris@gmail.com,256707221379,394, Montana,20000
+Arielle,Benton,s5,north,day,M,08-Jun-01,ArielleBenton@gmail.com,256707221380,395, New York,20000
+Jamal,Vu,s6,east,boarding,M,04-Jan-04,JamalVu@gmail.com,256707221381,396, New Hampshire,20000
+Kimora,Frank,s1,west,day,M,14-Jul-00,KimoraFrank@gmail.com,256707221382,397, Arkansas,20000
+Braylen,Morgan,s3,south,boarding,F,01-Mar-02,BraylenMorgan@gmail.com,256707221383,398, South Dakota,20000
+Delilah,Burnett,s6,north,boarding,M,19-Nov-03,DelilahBurnett@gmail.com,256707221384,399, Nebraska,20000
+Davis,Dodson,s4,east,boarding,F,27-Feb-01,DavisDodson@gmail.com,256707221385,400, West Virginia,20000
+Etta,Case,s1,west,day,M,05-Oct-04,EttaCase@gmail.com,256707221386,401, New York,20000
+Bentlee,Hendricks,s2,south,day,M,10-May-01,BentleeHendricks@gmail.com,256707221387,402, Utah,20000
+Dani,Watts,s4,north,boarding,M,09-Dec-03,DaniWatts@gmail.com,256707221388,403, Oregon,20000
+Dakota,Mahoney,s5,east,day,M,21-Aug-00,DakotaMahoney@gmail.com,256707221389,404, Missouri,20000
+Promise,Clay,s6,west,boarding,F,13-Apr-02,PromiseClay@gmail.com,256707221390,405, Ohio,20000
+Yosef,Petersen,s1,south,boarding,M,08-Jan-04,YosefPetersen@gmail.com,256707221391,406, Idaho,20000
+Fernanda,McIntyre,s3,north,boarding,F,12-Nov-01,FernandaMcIntyre@gmail.com,256707221392,407, Vermont,20000
+Eliseo,Dalton,s6,east,day,F,16-Sep-04,EliseoDalton@gmail.com,256707221393,408, Wisconsin,20000
+Lilian,Reyes,s4,west,day,F,29-Jun-00,LilianReyes@gmail.com,256707221394,409, New York,20000
+Eli,Boyd,s1,south,boarding,M,29-Apr-03,EliBoyd@gmail.com,256707221395,410, Virginia,20000
+Georgia,Rubio,s2,north,day,F,27-Jan-01,GeorgiaRubio@gmail.com,256707221396,411, Ohio,20000
+Titan,Lambert,s4,east,boarding,M,21-Oct-02,TitanLambert@gmail.com,256707221397,412, Louisiana,20000
+Nina,Smith,s5,west,boarding,M,25-Sep-04,NinaSmith@gmail.com,256707221398,413, Pennsylvania,20000
+Liam,Pope,s6,south,boarding,M,03-Jun-01,LiamPope@gmail.com,256707221399,414, Nevada,20000
+Aurelia,Strickland,s1,north,day,F,02-Jan-04,AureliaStrickland@gmail.com,256707221400,415, Virginia,20000
+Keegan,Woodard,s3,east,day,M,16-Jul-00,KeeganWoodard@gmail.com,256707221401,416, North Carolina,20000
+Aubrie,Henson,s6,west,boarding,F,09-Mar-02,AubrieHenson@gmail.com,256707221402,417, New Mexico,20000
+Bellamy,Carey,s4,south,day,M,08-Dec-03,BellamyCarey@gmail.com,256707221403,418, Indiana,20000
+Alora,Baker,s1,north,boarding,M,10-Feb-01,AloraBaker@gmail.com,256707221404,419, Kansas,20000
+Ezra,Wolf,s2,east,boarding,M,14-Oct-04,EzraWolf@gmail.com,256707221405,420, Delaware,20000
+Jolene,Kennedy,s4,west,boarding,M,22-May-01,JoleneKennedy@gmail.com,256707221406,421, New York,20000
+Maxwell,Michael,s5,south,day,F,06-Aug-00,MaxwellMichael@gmail.com,256707221407,422, Maryland,20000
+Aubriella,Craig,s6,north,day,M,18-Apr-03,AubriellaCraig@gmail.com,256707221408,423, North Carolina,20000
+Odin,Kelly,s1,east,boarding,F,06-Jan-01,OdinKelly@gmail.com,256707221409,424, Oregon,20000
+Ruby,Huynh,s3,west,day,F,20-Oct-02,RubyHuynh@gmail.com,256707221410,425, Minnesota,20000
+Layton,Colon,s6,south,boarding,F,30-Sep-04,LaytonColon@gmail.com,256707221411,426, Nevada,20000
+Remy,Serrano,s4,north,boarding,M,10-Jul-01,RemySerrano@gmail.com,256707221412,427, Ohio,20000
+Milan,Scott,s1,east,boarding,F,27-Dec-03,MilanScott@gmail.com,256707221413,428, Illinois,20000
+Aurora,Hull,s2,west,day,M,10-Sep-00,AuroraHull@gmail.com,256707221414,429, Maine,20000
+Salem,Hail,s4,south,day,M,20-Mar-02,SalemHail@gmail.com,256707221415,430, Wisconsin,20000
+Lainey,Perry,s5,north,boarding,M,26-Nov-03,LaineyPerry@gmail.com,256707221416,431, Florida,20000
+Waylon,Navarro,s6,east,day,F,10-Feb-01,WaylonNavarro@gmail.com,256707221417,432, Illinois,20000
+Winter,Hamilton,s1,west,boarding,M,06-Nov-04,WinterHamilton@gmail.com,256707221418,433, Oklahoma,20000
+Jason,Peterson,s3,south,boarding,F,15-Jul-00,JasonPeterson@gmail.com,256707221419,434, Idaho,20000
+Caroline,Payne,s6,north,boarding,M,10-Apr-03,CarolinePayne@gmail.com,256707221420,435, Texas,20000
+Edward,Stevenson,s4,east,day,M,12-Jan-01,EdwardStevenson@gmail.com,256707221421,436, Montana,20000
+Regina,Zuniga,s1,west,day,M,05-Oct-02,ReginaZuniga@gmail.com,256707221422,437, South Carolina,20000
+Sincere,O’Connell,s2,south,boarding,M,19-Sep-04,SincereO’Connell@gmail.com,256707221423,438, New York,20000
+Jillian,Ramsey,s4,north,day,F,03-Jun-01,JillianRamsey@gmail.com,256707221424,439, New Mexico,20000
+Luciano,Rivers,s5,east,boarding,M,24-Jan-04,LucianoRivers@gmail.com,256707221425,440, Kansas,20000
+Kiana,Wang,s6,west,boarding,F,21-Jul-00,KianaWang@gmail.com,256707221426,441, Vermont,20000
+Cohen,Huber,s1,south,boarding,F,11-Mar-02,CohenHuber@gmail.com,256707221427,442, Kentucky,20000
+Raquel,McKenzie,s3,north,day,F,16-Dec-03,RaquelMcKenzie@gmail.com,256707221428,443, Massachusetts,20000
+Scott,Tucker,s6,east,day,M,24-Feb-01,ScottTucker@gmail.com,256707221429,444, Arizona,20000
+Esther,Leal,s4,west,boarding,F,29-Oct-04,EstherLeal@gmail.com,256707221430,445, Michigan,20000
+Cedric,Fitzpatrick,s1,south,day,M,03-May-01,CedricFitzpatrick@gmail.com,256707221431,446, New Mexico,20000
+Annabella,Salinas,s2,north,boarding,M,04-Jan-04,AnnabellaSalinas@gmail.com,256707221432,447, North Dakota,20000
+Edgar,Curry,s4,east,boarding,M,09-Aug-00,EdgarCurry@gmail.com,256707221433,448, Oregon,20000
+Alison,Colon,s5,west,boarding,F,23-Apr-02,AlisonColon@gmail.com,256707221434,449, Ohio,20000
+Bruce,Snow,s6,south,day,M,15-Jan-04,BruceSnow@gmail.com,256707221435,450, Rhode Island,20000
+Alexia,Bell,s1,north,day,F,13-Nov-01,AlexiaBell@gmail.com,256707221436,451, Nebraska,20000
+Emmett,Tapia,s3,east,boarding,M,27-Sep-04,EmmettTapia@gmail.com,256707221437,452, Oklahoma,20000
+Michaela,Mack,s6,west,day,M,03-Jul-00,MichaelaMack@gmail.com,256707221438,453, Mississippi,20000
+Esteban,Villanueva,s4,south,boarding,M,12-Apr-03,EstebanVillanueva@gmail.com,256707221439,454, Pennsylvania,20000
+Monroe,Thornton,s1,north,boarding,M,02-Feb-01,MonroeThornton@gmail.com,256707221440,455, Kentucky,20000
+Malik,Hale,s2,east,boarding,F,17-Oct-02,MalikHale@gmail.com,256707221441,456, Indiana,20000
+Brinley,Sandoval,s4,west,day,M,28-Sep-04,BrinleySandoval@gmail.com,256707221442,457, Louisiana,20000
+Brantley,Hawkins,s5,south,day,F,20-Jun-01,BrantleyHawkins@gmail.com,256707221443,458, Delaware,20000
+Ariel,Santiago,s6,north,boarding,F,11-Jan-04,ArielSantiago@gmail.com,256707221444,459, Texas,20000
+Beckham,Pena,s1,east,day,F,18-Jul-00,BeckhamPena@gmail.com,256707221445,460, New Jersey,20000
+Rachel,Dejesus,s3,west,boarding,M,18-Mar-02,RachelDejesus@gmail.com,256707221446,461, New Hampshire,20000
+Rio,Parsons,s6,south,boarding,F,10-Nov-03,RioParsons@gmail.com,256707221447,462, Hawaii,20000
+Maia,Figueroa,s4,north,boarding,M,05-Feb-01,MaiaFigueroa@gmail.com,256707221448,463, New Mexico,20000
+Spencer,Foster,s1,east,day,M,25-Sep-04,SpencerFoster@gmail.com,256707221449,464, Arkansas,
+Brielle,Reyna,,west,day,M,09-May-01,,256707221450,465, Washington,20000
+Reginald,Garza,s4,south,boarding,F,30-Dec-03,ReginaldGarza@gmail.com,256707221451,466, Utah,20000
+River,Roth,s5,north,day,M,24-Aug-00,RiverRoth@gmail.com,256707221452,467, Montana,20000
+Roy,Morris,s6,east,boarding,F,02-Apr-02,RoyMorris@gmail.com,256707221453,468, Utah,20000
+Genesis,Lucas,s1,west,boarding,M,29-Nov-03,GenesisLucas@gmail.com,256707221454,469, Arkansas,20000
+Chance,Knapp,s3,south,boarding,M,20-Feb-01,ChanceKnapp@gmail.com,256707221455,470, South Carolina,20000
+Linda,Sloan,s6,north,day,M,08-Oct-04,LindaSloan@gmail.com,256707221456,471, Utah,20000
+Ocean,Woodward,s4,east,,M,27-Jun-01,OceanWoodward@gmail.com,256707221457,472, New Hampshire,20000
+Drew,Caldwell,s1,west,boarding,F,28-Jan-04,,256707221458,473, Maine,20000
+Rylan,Avila,s2,south,day,M,09-Jul-00,RylanAvila@gmail.com,256707221459,474, Kansas,20000
+Amiyah,Maynard,s4,north,boarding,F,15-Feb-03,AmiyahMaynard@gmail.com,256707221460,475, Ohio,20000
+Landry,Pierce,s5,east,boarding,F,28-Apr-02,LandryPierce@gmail.com,256707221461,476, Iowa,
+Arabella,Boyer,s6,west,boarding,F,03-Nov-01,ArabellaBoyer@gmail.com,,, Minnesota,20000
+Zeke,Madden,s1,south,day,M,09-Jul-00,ZekeMadden@gmail.com,256707221463,478, New Jersey,20000
+Violette,Arroyo,s3,north,day,F,22-Dec-04,VioletteArroyo@gmail.com,256707221464,479, Illinois,20000
+Alberto,Arias,s6,east,boarding,M,18-Aug-03,AlbertoArias@gmail.com,256707221465,480, Georgia,20000
+Aleah,Hale,s4,west,day,M,07-Mar-02,AleahHale@gmail.com,256707221466,481, Massachusetts,20000
+Ezequiel,Mejia,s1,south,boarding,M,02-May-01,EzequielMejia@gmail.com,256707221467,482, Kentucky,20000
+Saylor,Bradford,s2,north,boarding,F,10-Jan-05,SaylorBradford@gmail.com,256707221468,483, Ohio,20000
+Ander,Hood,s4,east,boarding,M,14-Sep-00,AnderHood@gmail.com,256707221469,484, Washington,20000
+Briana,Donaldson,s5,west,day,F,30-Jun-04,BrianaDonaldson@gmail.com,256707221470,485, New Jersey,20000
+Canaan,Gaines,s6,south,day,M,11-Apr-03,CanaanGaines@gmail.com,256707221471,486, Michigan,20000
+Aya,Mayo,s1,north,boarding,M,25-Nov-01,AyaMayo@gmail.com,256707221472,487, Hawaii,20000
+Jericho,Wiley,s3,east,day,M,05-Jul-02,JerichoWiley@gmail.com,256707221473,488, Minnesota,
+Lauryn,McDowell,s6,west,boarding,M,19-Mar-00,LaurynMcDowell@gmail.com,256707221474,489, Alabama,20000
+Lachlan,Avalos,s4,south,boarding,F,08-Aug-04,LachlanAvalos@gmail.com,256707221475,490, Hawaii,20000
+Paloma,Dalton,s1,north,boarding,M,26-Jan-01,PalomaDalton@gmail.com,256707221476,491, New Hampshire,20000
+Fletcher,Gordon,s2,east,day,F,13-Oct-03,FletcherGordon@gmail.com,256707221477,492, Alabama,20000
+Taylor,Blankenship,s4,west,day,F,31-May-00,TaylorBlankenship@gmail.com,256707221478,493, Minnesota,20000
+Ernesto,Fisher,s5,south,boarding,F,24-Feb-04,ErnestoFisher@gmail.com,256707221479,494, South Dakota,20000
+Arya,Bowman,s6,north,day,M,16-Sep-01,AryaBowman@gmail.com,256707221480,495, Florida,20000
+Francisco,Wise,s1,east,boarding,F,29-Jul-02,FranciscoWise@gmail.com,256707221481,496, Minnesota,20000
+Mira,Phillips,s3,west,boarding,M,04-Dec-03,MiraPhillips@gmail.com,256707221482,497, Nebraska,20000
+Andrew,Morgan,s6,south,boarding,M,20-Apr-00,AndrewMorgan@gmail.com,256707221483,498, Kansas,10000
+Delilah,Galvan,s4,north,day,M,09-Jan-05,DelilahGalvan@gmail.com,256707221484,499, Oregon,20000
+Kingsley,Salinas,s1,east,day,F,12-Jun-04,KingsleySalinas@gmail.com,256707221485,500, Hawaii,20000
+Royalty,Patterson,s2,west,boarding,M,01-Nov-01,RoyaltyPatterson@gmail.com,256707221486,501, Pennsylvania,20000
+Amir,Aguilar,s4,south,day,F,23-Aug-00,AmirAguilar@gmail.com,256707221487,502, Oklahoma,20000
+Josie,Perry,s5,north,boarding,M,07-Mar-03,JosiePerry@gmail.com,256707221488,503, Vermont,13000
+Waylon,Johnson,s6,east,boarding,M,15-May-02,WaylonJohnson@gmail.com,256707221489,504, Connecticut,20000
+Emma,Sweeney,s1,west,boarding,M,02-Jan-04,EmmaSweeney@gmail.com,256707221490,505, Wisconsin,20000
+Nixon,Holloway,s3,south,day,M,19-Oct-01,NixonHolloway@gmail.com,256707221491,506, New Mexico,20000
+Mae,Lester,s6,north,day,F,08-Jul-00,MaeLester@gmail.com,256707221492,507, Oregon,20000
+Lee,O’Donnell,s4,east,boarding,M,27-Feb-03,LeeO’Donnell@gmail.com,256707221493,508, Vermont,20000
+Bellamy,Griffin,s1,west,day,F,10-Jan-02,BellamyGriffin@gmail.com,256707221494,509, North Carolina,20000
+Ayden,Alvarado,s2,south,boarding,F,04-Aug-04,AydenAlvarado@gmail.com,256707221495,510, Arkansas,20000
+Blake,Villalobos,s4,north,boarding,F,14-Apr-01,BlakeVillalobos@gmail.com,256707221496,511, North Carolina,20000
+Reuben,Magana,s5,east,boarding,M,26-Oct-00,ReubenMagana@gmail.com,256707221497,512, South Dakota,20000
+Amaris,O’brien,s6,west,day,F,05-Jun-03,AmarisO’brien@gmail.com,256707221498,513, Hawaii,20000
+Riley,Hodges,s1,south,day,M,21-Dec-02,RileyHodges@gmail.com,256707221499,514, Michigan,20000
+Eve,Payne,s3,north,boarding,M,17-Sep-04,EvePayne@gmail.com,256707221500,515, West Virginia,20000
+Edward,Burns,s6,east,day,M,03-Mar-01,EdwardBurns@gmail.com,256707221501,516, Pennsylvania,20000
+Emerson,Leon,s4,west,boarding,F,29-Jul-00,EmersonLeon@gmail.com,256707221502,517, Nebraska,20000
+Marshall,Hanson,s1,south,boarding,M,11-May-03,MarshallHanson@gmail.com,256707221503,518, Connecticut,20000
+Mariana,Ponce,s2,north,boarding,F,08-Nov-02,MarianaPonce@gmail.com,256707221504,519, Louisiana,20000
+Langston,Simon,s4,east,day,M,02-Feb-04,LangstonSimon@gmail.com,256707221505,520, Missouri,20000
+Kalani,Shepherd,s5,west,day,M,18-Aug-01,KalaniShepherd@gmail.com,256707221506,521, Illinois,20000
+Ronald,Yu,s6,south,boarding,M,06-Apr-00,RonaldYu@gmail.com,256707221507,522, Massachusetts,12000
+Navy,Chang,s1,north,day,M,24-Jan-05,NavyChang@gmail.com,256707221508,523, Delaware,20000
+Ari,Frank,s3,east,boarding,F,13-Jun-02,AriFrank@gmail.com,256707221509,524, New Mexico,20000
+Dior,Avery,s6,west,boarding,M,30-Oct-03,DiorAvery@gmail.com,256707221510,525, New Hampshire,20000
+Jakari,Abbott,s4,south,boarding,F,16-Jul-01,JakariAbbott@gmail.com,256707221511,526, Virginia,20000
+Melany,Wu,s1,north,day,F,01-Mar-04,MelanyWu@gmail.com,256707221512,527, North Dakota,20000
+Kyson,Zamora,s2,east,day,F,22-Sep-00,KysonZamora@gmail.com,256707221513,528, Utah,20000
+Sierra,Davenport,s4,west,boarding,M,05-May-02,SierraDavenport@gmail.com,256707221514,529, Florida,19000
+Dariel,Lester,s5,south,day,F,19-Dec-04,DarielLester@gmail.com,256707221515,530, North Dakota,20000
+Averi,Kelley,s6,north,boarding,M,09-Apr-01,AveriKelley@gmail.com,256707221516,531, New Jersey,20000
+Eric,Bartlett,s1,east,boarding,M,28-Jul-03,EricBartlett@gmail.com,256707221517,532, New York,20000
+Aubrielle,Cole,s3,west,boarding,M,15-Jan-02,AubrielleCole@gmail.com,256707221518,533, Virginia,20000
+Nathaniel,Rosales,s6,south,day,F,04-Nov-00,NathanielRosales@gmail.com,256707221519,534, New Mexico,20000
+Kinley,Sanders,s4,north,day,M,20-Jun-04,KinleySanders@gmail.com,256707221520,535, Texas,20000
+Jose,Myers,s1,east,boarding,F,11-Mar-03,JoseMyers@gmail.com,256707221521,536, Kansas,20000
+Lydia,Eaton,s2,west,day,M,26-Aug-01,LydiaEaton@gmail.com,256707221522,537, Colorado,20000
+Leighton,Singleton,s4,south,boarding,M,07-May-00,LeightonSingleton@gmail.com,256707221523,538, Rhode Island,20000
+Malaysia,Ashley,s5,north,boarding,M,17-Feb-04,MalaysiaAshley@gmail.com,256707221524,539, Alabama,20000
+Kylen,Gardner,s6,east,boarding,M,31-Oct-02,KylenGardner@gmail.com,256707221525,540, Nevada,20000
+Jordyn,Dorsey,s1,west,day,F,08-Jul-03,JordynDorsey@gmail.com,256707221526,541, Idaho,20000
+Enoch,Freeman,s3,south,day,M,14-Apr-00,EnochFreeman@gmail.com,256707221527,542, Vermont,20000
+Norah,Baldwin,s6,north,boarding,F,23-Jan-05,NorahBaldwin@gmail.com,256707221528,543, Maryland,20000
+Jaiden,Allen,s4,east,day,F,10-Sep-01,JaidenAllen@gmail.com,256707221529,544, Kansas,20000
+Riley,Small,s1,west,boarding,F,03-Jun-02,RileySmall@gmail.com,256707221530,545, Kansas,20000
+Rudy,Bernal,s2,south,boarding,M,19-Nov-03,RudyBernal@gmail.com,256707221531,546, Delaware,20000
+Emmeline,Leon,s4,north,boarding,F,05-Aug-00,EmmelineLeon@gmail.com,256707221532,547, New Mexico,20000
+Marshall,Herring,s5,east,day,M,29-Mar-04,MarshallHerring@gmail.com,256707221533,548, Idaho,20000
+Denver,Allison,s6,west,day,M,16-Oct-01,DenverAllison@gmail.com,256707221534,549, Idaho,20000
+Dennis,Bartlett,s1,south,boarding,M,01-Jul-03,DennisBartlett@gmail.com,256707221535,550, Vermont,20000
+Aubrielle,Eaton,s3,north,day,F,14-May-02,AubrielleEaton@gmail.com,256707221536,551, Nevada,20000
+Leighton,Mercado,s6,east,boarding,M,09-Dec-04,LeightonMercado@gmail.com,256707221537,552, Pennsylvania,20000
+Mckinley,Ramsey,s4,west,boarding,F,25-Aug-00,MckinleyRamsey@gmail.com,256707221538,553, Pennsylvania,20000
+Luciano,Pugh,s1,south,boarding,M,12-Mar-01,LucianoPugh@gmail.com,256707221539,554, Louisiana,20000
+Landry,Rivera,s2,north,day,M,28-Oct-03,LandryRivera@gmail.com,256707221540,555, Oregon,20000
+Charles,Santana,s4,east,day,M,06-Jul-02,CharlesSantana@gmail.com,256707221541,556, South Carolina,20000
+Myra,Alexander,s5,west,boarding,M,21-Feb-04,MyraAlexander@gmail.com,256707221542,557, Wisconsin,20000
+Kingston,Fox,s6,south,day,F,18-Sep-00,KingstonFox@gmail.com,256707221543,558, New York,20000
+Juliette,Erickson,s1,north,boarding,M,02-Jun-01,JulietteErickson@gmail.com,256707221544,559, Idaho,20000
+Johnny,Cisneros,s3,east,boarding,F,10-Jan-05,JohnnyCisneros@gmail.com,256707221545,560, Indiana,20000
+Janelle,Pineda,s6,west,boarding,F,24-Apr-03,JanellePineda@gmail.com,256707221546,561, Delaware,20000
+Gerardo,Booth,s4,south,day,F,11-Aug-02,GerardoBooth@gmail.com,256707221547,562, Oklahoma,20000
+Zariyah,Gray,s1,north,day,M,07-Dec-00,ZariyahGray@gmail.com,256707221548,563, Indiana,20000
+Nicholas,Molina,s2,east,boarding,F,30-Jan-04,NicholasMolina@gmail.com,256707221549,564, New Hampshire,14000
+Alexandria,Pierce,s4,west,day,M,15-Jul-01,AlexandriaPierce@gmail.com,256707221550,565, Wisconsin,20000
+Nicolas,Randall,s5,south,boarding,M,03-Mar-03,NicolasRandall@gmail.com,256707221551,566, Minnesota,20000
+Christina,Singleton,s6,north,boarding,M,20-Oct-04,ChristinaSingleton@gmail.com,256707221552,567, Iowa,20000
+Landyn,Dean,s1,east,boarding,F,05-Jun-00,LandynDean@gmail.com,256707221553,568, Nevada,20000
+Julianna,Ayers,s3,west,day,M,23-Feb-02,JuliannaAyers@gmail.com,256707221554,569, Montana,20000
+Ulises,Douglas,s6,south,day,F,09-Nov-03,UlisesDouglas@gmail.com,256707221555,570, Vermont,20000
+Aniyah,Dixon,s4,north,boarding,M,28-Jul-01,AniyahDixon@gmail.com,256707221556,571, Illinois,20000
+Camden,Ferguson,s1,east,day,M,13-Apr-04,CamdenFerguson@gmail.com,256707221557,572, Indiana,20000
+Juliana,Calhoun,s2,west,boarding,M,02-Sep-00,JulianaCalhoun@gmail.com,256707221558,573, Minnesota,20000
+Gary,Nguyen,s4,south,boarding,M,18-May-02,GaryNguyen@gmail.com,256707221559,574, Oklahoma,20000
+Nova,Stewart,s5,north,boarding,F,01-Dec-03,NovaStewart@gmail.com,256707221560,575, Oregon,20000
+Nolan,Savage,s6,east,day,M,16-Aug-01,NolanSavage@gmail.com,256707221561,576, West Virginia,20000
+Louise,Kent,s1,west,day,F,06-Apr-04,LouiseKent@gmail.com,256707221562,577, Montana,20000
+Mekhi,Yoder,s3,south,boarding,F,22-Jan-02,MekhiYoder@gmail.com,256707221563,578, Minnesota,20000
+Emerie,Salazar,s6,north,day,F,08-Jun-00,EmerieSalazar@gmail.com,256707221564,579, New Jersey,20000
+Brody,Pollard,s4,east,boarding,M,25-Feb-03,BrodyPollard@gmail.com,256707221565,580, Connecticut,20000
+Marisol,Potts,s1,west,boarding,F,11-Nov-02,MarisolPotts@gmail.com,256707221566,581, Alaska,20000
+Alfred,Hess,s2,south,boarding,M,04-Aug-04,AlfredHess@gmail.com,256707221567,582, Nebraska,20000
+Kaliyah,Gaines,s4,north,day,M,20-Apr-01,KaliyahGaines@gmail.com,256707221568,583, South Carolina,20000
+Talon,Harding,s5,east,day,M,09-Oct-00,TalonHarding@gmail.com,256707221569,584, Nebraska,20000
+Aniya,Cabrera,s6,west,boarding,F,30-Jun-03,AniyaCabrera@gmail.com,256707221570,585, Virginia,20000
+Cade,Brown,s1,south,day,M,14-Jan-05,CadeBrown@gmail.com,256707221571,586, West Virginia,20000
+Charlotte,McKenzie,s3,north,boarding,F,17-Sep-01,CharlotteMcKenzie@gmail.com,256707221572,587, South Carolina,20000
+Scott,Padilla,s6,east,boarding,M,02-Jun-02,ScottPadilla@gmail.com,256707221573,588, Kentucky,20000
+Maggie,Martinez,s4,west,boarding,M,19-Nov-03,MaggieMartinez@gmail.com,256707221574,589, South Dakota,20000
+Alexander,Hancock,s1,south,day,M,05-Jul-00,AlexanderHancock@gmail.com,256707221575,590, South Carolina,20000
+Katelyn,Reilly,s2,north,day,M,24-Mar-04,KatelynReilly@gmail.com,256707221576,591, Nebraska,20000
+Alvaro,Parker,s4,east,boarding,F,11-Oct-01,AlvaroParker@gmail.com,256707221577,592, Hawaii,20000
+Aubrey,Marks,s5,west,day,M,27-Jan-03,AubreyMarks@gmail.com,256707221578,593, New York,20000
+Amos,Franklin,s6,south,boarding,F,13-Aug-02,AmosFranklin@gmail.com,256707221579,594, Mississippi,20000
+Angela,Lee,s1,north,boarding,F,31-Dec-04,AngelaLee@gmail.com,256707221580,595, Rhode Island,20000
+Jack,Mann,s3,east,boarding,F,16-Jun-01,JackMann@gmail.com,256707221581,596, South Dakota,20000
+Paislee,Barron,s6,west,day,M,03-Mar-00,PaisleeBarron@gmail.com,256707221582,597, Montana,20000
+Dustin,Callahan,s4,south,day,F,22-Oct-03,DustinCallahan@gmail.com,256707221583,598, Kentucky,20000
+Kimber,Molina,s1,north,boarding,M,07-Jul-02,KimberMolina@gmail.com,256707221584,599, Kentucky,20000
+Prince,Holloway,s2,east,day,M,25-Feb-04,PrinceHolloway@gmail.com,256707221585,600, Tennessee,20000
+Mae,Hall,s4,west,boarding,M,19-Aug-00,MaeHall@gmail.com,256707221586,601, Florida,20000
+Thomas,Winters,s5,south,boarding,F,09-Apr-01,ThomasWinters@gmail.com,256707221587,602, Ohio,20000
+Kataleya,McDaniel,s6,north,boarding,M,28-Nov-03,KataleyaMcDaniel@gmail.com,256707221588,603, Missouri,20000
+Major,Thomas,s1,east,day,F,15-Jul-02,MajorThomas@gmail.com,256707221589,604, Florida,20000
+Elizabeth,Harrington,s3,west,day,M,05-Mar-04,ElizabethHarrington@gmail.com,256707221590,605, Rhode Island,20000
+Omari,Ashley,s6,south,boarding,M,21-Sep-00,OmariAshley@gmail.com,256707221591,606, North Carolina,20000
+Khalani,Simon,s4,north,day,M,06-Jun-01,KhalaniSimon@gmail.com,256707221592,607, West Virginia,20000
+Zayne,Kim,s1,east,boarding,M,23-Dec-02,ZayneKim@gmail.com,256707221593,608, Alabama,20000
+Gabriella,Vega,s2,west,boarding,F,08-Nov-03,GabriellaVega@gmail.com,256707221594,609, Nebraska,20000
+Aidan,Huerta,s4,south,boarding,M,01-Apr-00,AidanHuerta@gmail.com,256707221595,610, Nebraska,20000
+Dulce,Salinas,s5,north,day,F,17-Feb-04,DulceSalinas@gmail.com,256707221596,611, Kansas,20000
+Edgar,Short,s6,east,day,F,02-Sep-01,EdgarShort@gmail.com,256707221597,612, New Hampshire,20000
+Cheyenne,Carr,s1,west,boarding,F,18-May-02,CheyenneCarr@gmail.com,256707221598,613, Kentucky,20000
+Kash,Bennett,s3,south,day,M,13-Dec-04,KashBennett@gmail.com,256707221599,614, Minnesota,20000
+Josephine,Thompson,s6,north,boarding,F,29-Jul-00,JosephineThompson@gmail.com,256707221600,615, Virginia,20000
+Theodore,Chavez,s4,east,boarding,M,16-Mar-03,TheodoreChavez@gmail.com,256707221601,616, Arkansas,20000
+Nevaeh,Middleton,s1,west,boarding,M,10-Oct-01,NevaehMiddleton@gmail.com,256707221602,617, Alabama,20000
+Misael,McCoy,s2,south,day,M,26-Jan-04,MisaelMcCoy@gmail.com,256707221603,618, California,20000
+Mckenzie,Collins,s4,north,day,F,07-Aug-02,MckenzieCollins@gmail.com,256707221604,619, Indiana,20000
+Miles,Li,s5,east,boarding,M,22-Apr-00,MilesLi@gmail.com,256707221605,620, Kentucky,20000
+Paige,Cherry,s6,west,day,F,09-Jan-05,PaigeCherry@gmail.com,256707221606,621, Alabama,20000
+Rome,Walsh,s1,south,boarding,M,14-Jun-04,RomeWalsh@gmail.com,256707221607,622, Mississippi,20000
+Leia,Ellis,s3,north,boarding,M,04-Feb-01,LeiaEllis@gmail.com,256707221608,623, South Carolina,20000
+Cole,Jarvis,s6,east,boarding,M,19-Oct-03,ColeJarvis@gmail.com,256707221609,624, Arizona,20000
+Elisabeth,Flynn,s4,west,day,M,08-Jul-01,ElisabethFlynn@gmail.com,256707221610,625, Nebraska,20000
+Kannon,Dejesus,s1,south,day,F,27-Mar-02,KannonDejesus@gmail.com,256707221611,626, Idaho,20000
+Julissa,Cohen,s2,north,boarding,M,11-Nov-00,JulissaCohen@gmail.com,256707221612,627, Texas,20000
+Killian,Riley,s4,east,day,F,30-Aug-03,KillianRiley@gmail.com,256707221613,628, Florida,20000
+Kayla,David,s5,west,boarding,F,17-May-02,KaylaDavid@gmail.com,256707221614,629, Indiana,20000
+Alonso,Blanchard,s6,south,boarding,F,02-Jan-04,AlonsoBlanchard@gmail.com,256707221615,630, Tennessee,20000
+Layne,Weber,s1,north,boarding,M,20-Sep-01,LayneWeber@gmail.com,256707221616,631, Colorado,20000
+Crew,Hayes,s3,east,day,F,06-Jun-00,CrewHayes@gmail.com,256707221617,632, Illinois,20000
+Iris,Kirk,s6,west,day,M,23-Feb-03,IrisKirk@gmail.com,256707221618,633, Massachusetts,20000
+Alessandro,Goodman,s4,south,boarding,M,09-Nov-02,AlessandroGoodman@gmail.com,256707221619,634, Oklahoma,20000
+Carolina,Pineda,s1,north,day,M,05-Aug-04,CarolinaPineda@gmail.com,256707221620,635, Rhode Island,20000
+Gerardo,Lindsey,s2,east,boarding,F,21-Apr-01,GerardoLindsey@gmail.com,256707221621,636, Washington,20000
+Colette,Prince,s4,west,boarding,M,10-Oct-00,ColettePrince@gmail.com,256707221622,637, Minnesota,20000
+Aron,Choi,s5,south,boarding,F,31-Jul-03,AronChoi@gmail.com,256707221623,638, Nevada,20000
+Karla,Valentine,s6,north,day,M,15-Jan-02,KarlaValentine@gmail.com,256707221624,639, Arkansas,20000
+Demetrius,Booth,s1,east,day,M,17-Jun-04,DemetriusBooth@gmail.com,256707221625,640, Oklahoma,20000
+Zariyah,Morton,s3,west,boarding,M,03-Mar-01,ZariyahMorton@gmail.com,256707221626,641, North Carolina,20000
+Roland,Herrera,s6,south,day,M,02-Jan-04,RolandHerrera@gmail.com,256707221627,642, North Carolina,20000
+Ximena,Hicks,s4,north,boarding,F,19-Oct-01,XimenaHicks@gmail.com,256707221628,643, Alaska,20000
+Maddox,Lynch,s1,east,boarding,M,08-Jul-00,MaddoxLynch@gmail.com,256707221629,644, Texas,20000
+Malia,Mejia,s2,west,boarding,F,27-Feb-03,MaliaMejia@gmail.com,256707221630,645, Wyoming,20000
+Atticus,Cole,s4,south,day,F,10-Jan-02,AtticusCole@gmail.com,256707221631,646, Indiana,20000
+Margaret,McKenzie,s5,north,day,F,04-Aug-04,MargaretMcKenzie@gmail.com,256707221632,647, Montana,20000
+Scott,Stein,s6,east,boarding,M,14-Apr-01,ScottStein@gmail.com,256707221633,648, Utah,20000
+Leilany,Rubio,s1,west,day,F,26-Oct-00,LeilanyRubio@gmail.com,256707221634,649, Arkansas,20000
+Titan,O’Donnell,s3,south,boarding,M,05-Jun-03,TitanO’Donnell@gmail.com,256707221635,650, Kentucky,20000
+Bellamy,Norris,s6,north,boarding,M,21-Dec-02,BellamyNorris@gmail.com,256707221636,651, Nevada,20000
+Cairo,Owen,s4,east,boarding,M,17-Sep-04,CairoOwen@gmail.com,256707221637,652, Vermont,20000
+Mikayla,David,s1,west,day,F,03-Mar-01,MikaylaDavid@gmail.com,256707221638,653, Texas,20000
+Alonso,Juarez,s2,south,day,M,29-Jul-00,AlonsoJuarez@gmail.com,256707221639,654, Utah,20000
+Juliet,Ortega,s4,north,boarding,F,11-May-03,JulietOrtega@gmail.com,256707221640,655, Illinois,20000
+Kobe,Montoya,s5,east,day,M,08-Nov-02,KobeMontoya@gmail.com,256707221641,656, Iowa,20000
+Kamryn,Harmon,s6,west,boarding,M,02-Feb-04,KamrynHarmon@gmail.com,256707221642,657, Louisiana,20000
+Roberto,Owen,s1,south,boarding,M,18-Aug-01,RobertoOwen@gmail.com,256707221643,658, Michigan,20000
+Mikayla,Maldonado,s3,north,boarding,M,06-Apr-00,MikaylaMaldonado@gmail.com,256707221644,659, Oregon,20000
+Javier,Stone,s6,east,day,F,24-Jan-05,JavierStone@gmail.com,256707221645,660, Washington,20000
+Catalina,Garrison,s4,west,day,M,13-Jun-02,CatalinaGarrison@gmail.com,256707221646,661, New Hampshire,20000
+Noe,Esparza,s1,south,boarding,F,30-Oct-03,NoeEsparza@gmail.com,256707221647,662, Massachusetts,20000
+Ramona,Jackson,s2,north,day,F,16-Jul-01,RamonaJackson@gmail.com,256707221648,663, Massachusetts,20000
+Sebastian,Anthony,s4,east,boarding,F,01-Mar-04,SebastianAnthony@gmail.com,256707221649,664, Kansas,20000
+Macy,Nolan,s5,west,boarding,M,22-Sep-00,MacyNolan@gmail.com,256707221650,665, Washington,20000
+Maximo,Marks,s6,south,boarding,F,05-May-02,MaximoMarks@gmail.com,256707221651,666, Georgia,20000
+Monica,Guevara,s1,north,day,M,19-Dec-04,MonicaGuevara@gmail.com,256707221652,667, Kentucky,20000
+Tommy,McCarty,s3,east,day,M,09-Apr-01,TommyMcCarty@gmail.com,256707221653,668, Pennsylvania,20000
+Halo,Garrison,s6,west,boarding,M,28-Jul-03,HaloGarrison@gmail.com,256707221654,669, Nevada,20000
+Noe,Bell,s4,south,day,F,15-Jan-02,NoeBell@gmail.com,256707221655,670, Kansas,20000
+Melody,English,s1,north,boarding,M,04-Nov-00,MelodyEnglish@gmail.com,256707221656,671, Nevada,20000
+Junior,Costa,s2,east,boarding,F,20-Jun-04,JuniorCosta@gmail.com,256707221657,672, Massachusetts,20000
+Robin,Le,s4,west,boarding,M,11-Mar-03,RobinLe@gmail.com,256707221658,673, Alabama,20000
+Damien,Espinosa,s5,south,day,M,26-Aug-01,DamienEspinosa@gmail.com,256707221659,674, Rhode Island,20000
+Braylee,Goodwin,s6,north,day,M,07-May-00,BrayleeGoodwin@gmail.com,256707221660,675, Utah,20000
+Kaison,Williamson,s1,east,boarding,M,17-Feb-04,KaisonWilliamson@gmail.com,256707221661,676, Florida,20000
+Catherine,McFarland,s3,west,day,F,31-Oct-02,CatherineMcFarland@gmail.com,256707221662,677, Florida,20000
+Dane,Browning,s6,south,boarding,M,08-Jul-03,DaneBrowning@gmail.com,256707221663,678, South Carolina,20000
+Princess,Ruiz,s4,north,boarding,F,14-Apr-00,PrincessRuiz@gmail.com,256707221664,679, Utah,20000
+Austin,Berger,s1,east,boarding,F,23-Jan-05,AustinBerger@gmail.com,256707221665,680, Oregon,20000
+Laylah,Lawson,s2,west,day,F,10-Sep-01,LaylahLawson@gmail.com,256707221666,681, Wyoming,20000
+Lane,Christensen,s4,south,day,M,03-Jun-02,LaneChristensen@gmail.com,256707221667,682, Alabama,20000
+Carmen,Ayala,s5,north,boarding,F,19-Nov-03,CarmenAyala@gmail.com,256707221668,683, Vermont,20000
+Tanner,Hensley,s6,east,day,M,05-Aug-00,TannerHensley@gmail.com,256707221669,684, West Virginia,20000
+Malaya,Sellers,s1,west,boarding,M,29-Mar-04,MalayaSellers@gmail.com,256707221670,685, Alabama,20000
+Madden,Burns,s3,south,boarding,M,16-Oct-01,MaddenBurns@gmail.com,256707221671,686, Wisconsin,20000
+Emerson,Gill,s6,north,boarding,F,01-Jul-03,EmersonGill@gmail.com,256707221672,687, North Carolina,20000
+Matthias,Hampton,s4,east,day,M,14-May-02,MatthiasHampton@gmail.com,256707221673,688, Mississippi,20000
+Leona,Cline,s1,west,day,F,09-Dec-04,LeonaCline@gmail.com,256707221674,689, New Hampshire,20000
+Cullen,Sheppard,s2,south,boarding,M,25-Aug-00,CullenSheppard@gmail.com,256707221675,690, Florida,20000
+Veda,Friedman,s4,north,day,M,12-Mar-01,VedaFriedman@gmail.com,256707221676,691, Virginia,20000
+Darwin,Vance,s5,east,boarding,M,28-Oct-03,DarwinVance@gmail.com,256707221677,692, Wisconsin,20000
+Maxine,Roach,s6,west,boarding,M,06-Jul-02,MaxineRoach@gmail.com,256707221678,693, Montana,20000
+Caspian,Lowe,s1,south,boarding,F,21-Feb-04,CaspianLowe@gmail.com,256707221679,694, Connecticut,20000
+Amari,Payne,s3,north,day,M,18-Sep-00,AmariPayne@gmail.com,256707221680,695, Alabama,20000
+Edward,Orr,s6,east,day,F,02-Jun-01,EdwardOrr@gmail.com,256707221681,696, Virginia,20000
+Alaiya,Cohen,s4,west,boarding,F,10-Jan-05,AlaiyaCohen@gmail.com,256707221682,697, Washington,20000
+Killian,Lowe,s1,south,day,F,24-Apr-03,KillianLowe@gmail.com,256707221683,698, Missouri,20000
+Amari,Gardner,s2,north,boarding,M,11-Aug-02,AmariGardner@gmail.com,256707221684,699, Vermont,20000
+Alan,Elliott,s4,east,boarding,F,07-Dec-00,AlanElliott@gmail.com,256707221685,700, Hawaii,20000
+Noelle,Morse,s5,west,boarding,M,30-Jan-04,NoelleMorse@gmail.com,256707221686,701, Tennessee,20000
+Bode,Cherry,s6,south,day,M,15-Jul-01,BodeCherry@gmail.com,256707221687,702, Kansas,20000
+Nyomi,Herring,s1,north,day,M,03-Mar-03,NyomiHerring@gmail.com,256707221688,703, Montana,20000
+Henrik,Foster,s3,east,boarding,F,20-Oct-04,HenrikFoster@gmail.com,256707221689,704, Connecticut,20000
+Brielle,Barker,s6,west,day,M,05-Jun-00,BrielleBarker@gmail.com,256707221690,705, North Dakota,20000
+Kade,Hammond,s4,south,boarding,F,23-Feb-02,KadeHammond@gmail.com,256707221691,706, New Hampshire,20000
+Holly,Tapia,s1,north,boarding,M,09-Nov-03,HollyTapia@gmail.com,256707221692,707, Delaware,20000
+Samir,Bailey,s2,east,boarding,M,28-Jul-01,SamirBailey@gmail.com,256707221693,708, Missouri,20000
+Kennedy,Crane,s4,west,day,M,13-Apr-04,KennedyCrane@gmail.com,256707221694,709, West Virginia,20000
+Fox,Keller,s5,south,day,M,02-Sep-00,FoxKeller@gmail.com,256707221695,710, Ohio,20000
+Logan,Stout,s6,north,boarding,F,18-May-02,LoganStout@gmail.com,256707221696,711, Tennessee,20000
+Callahan,Swanson,s1,east,day,M,01-Dec-03,CallahanSwanson@gmail.com,256707221697,712, Connecticut,20000
+Helen,Wyatt,s3,west,boarding,F,16-Aug-01,HelenWyatt@gmail.com,256707221698,713, Montana,20000
+Sam,Owen,s6,south,boarding,F,06-Apr-04,SamOwen@gmail.com,256707221699,714, New Jersey,20000
+Mikayla,Sexton,s4,north,boarding,F,22-Jan-02,MikaylaSexton@gmail.com,256707221700,715, Alabama,20000
+Mylo,Ayers,s1,east,day,M,08-Jun-00,MyloAyers@gmail.com,256707221701,716, Florida,20000
+Simone,Booth,s2,west,day,F,25-Feb-03,SimoneBooth@gmail.com,256707221702,717, New Jersey,20000
+Chaim,Lara,s4,south,boarding,M,11-Nov-02,ChaimLara@gmail.com,256707221703,718, Colorado,20000
+Heidi,Fischer,s5,north,day,M,04-Aug-04,HeidiFischer@gmail.com,256707221704,719, West Virginia,20000
+Leonidas,McClure,s6,east,boarding,M,20-Apr-01,LeonidasMcClure@gmail.com,256707221705,720, Missouri,20000
+Estella,Ward,s1,west,boarding,F,09-Oct-00,EstellaWard@gmail.com,256707221706,721, Arizona,20000
+Jameson,Rojas,s3,south,boarding,M,30-Jun-03,JamesonRojas@gmail.com,256707221707,722, Rhode Island,20000
+Adaline,Portillo,s6,north,day,F,14-Jan-05,AdalinePortillo@gmail.com,256707221708,723, New York,20000
+Wallace,Vaughn,s4,east,day,M,17-Sep-01,WallaceVaughn@gmail.com,256707221709,724, Washington,20000
+Reign,Wong,s1,west,boarding,M,02-Jun-02,ReignWong@gmail.com,256707221710,725, West Virginia,20000
+Walter,Ashley,s2,south,day,M,19-Nov-03,WalterAshley@gmail.com,256707221711,726, Arkansas,20000
+Khalani,Mullen,s4,north,boarding,M,05-Jul-00,KhalaniMullen@gmail.com,256707221712,727, Ohio,20000
+Shepard,Solis,s5,east,boarding,F,24-Mar-04,ShepardSolis@gmail.com,256707221713,728, Arkansas,20000
+Miracle,Hurst,s6,west,boarding,M,11-Oct-01,MiracleHurst@gmail.com,256707221714,729, North Carolina,20000
+Neil,Padilla,s1,south,day,F,27-Jan-03,NeilPadilla@gmail.com,256707221715,730, Wisconsin,20000
+Maggie,Cook,s3,north,day,F,13-Aug-02,MaggieCook@gmail.com,256707221716,731, Maryland,20000
+Ezekiel,Miles,s6,east,boarding,F,31-Dec-04,EzekielMiles@gmail.com,256707221717,732, Michigan,20000
+Alessandra,Hampton,s4,west,day,M,16-Jun-01,AlessandraHampton@gmail.com,256707221718,733, Oregon,20000
+Hank,Porter,s1,south,boarding,F,03-Mar-00,HankPorter@gmail.com,256707221719,734, New Jersey,20000
+Ryleigh,Juarez,s2,north,boarding,M,22-Oct-03,RyleighJuarez@gmail.com,256707221720,735, New Jersey,20000
+Joaquin,Crosby,s4,east,boarding,M,07-Jul-02,JoaquinCrosby@gmail.com,256707221721,736, New Mexico,20000
+Keily,Haley,s5,west,day,M,25-Feb-04,KeilyHaley@gmail.com,256707221722,737, Michigan,20000
+Leif,Logan,s6,south,day,F,19-Aug-00,LeifLogan@gmail.com,256707221723,738, Kentucky,20000
+Kora,McKenzie,s1,north,boarding,M,09-Apr-01,KoraMcKenzie@gmail.com,256707221724,739, Minnesota,20000
+Scott,Boyd,s3,east,day,F,28-Nov-03,ScottBoyd@gmail.com,256707221725,740, Hawaii,20000
+Georgia,Olson,s6,west,boarding,M,15-Jul-02,GeorgiaOlson@gmail.com,256707221726,741, Tennessee,20000
+Malachi,Pittman,s4,south,boarding,M,05-Mar-04,MalachiPittman@gmail.com,256707221727,742, North Carolina,20000
+Marie,Lester,s1,north,boarding,M,21-Sep-00,MarieLester@gmail.com,256707221728,743, Minnesota,20000
+Lee,Burton,s2,east,day,M,06-Jun-01,LeeBurton@gmail.com,256707221729,744, New Jersey,20000
+Miriam,Ho,s4,west,day,F,23-Dec-02,MiriamHo@gmail.com,256707221730,745, Oklahoma,20000
+Morgan,Hanna,s5,south,boarding,M,08-Nov-03,MorganHanna@gmail.com,256707221731,746, Michigan,20000
+Cynthia,Burgess,s6,north,day,F,01-Apr-00,CynthiaBurgess@gmail.com,256707221732,747, Arkansas,20000
+Kolton,Lucas,s1,east,boarding,F,17-Feb-04,KoltonLucas@gmail.com,256707221733,748, Rhode Island,20000
+Phoenix,Valencia,s3,west,boarding,F,02-Sep-01,PhoenixValencia@gmail.com,256707221734,749, New York,20000
+Dax,Chandler,s6,south,boarding,M,18-May-02,DaxChandler@gmail.com,256707221735,750, Virginia,20000
+Viviana,Carter,s4,north,day,F,13-Dec-04,VivianaCarter@gmail.com,256707221736,751, Hawaii,20000
+Maverick,Shannon,s1,east,day,M,29-Jul-00,MaverickShannon@gmail.com,256707221737,752, South Dakota,20000
+Harlee,Charles,s2,west,boarding,M,16-Mar-03,HarleeCharles@gmail.com,256707221738,753, Arizona,20000
+Conrad,Frost,s4,south,day,F,10-Oct-01,ConradFrost@gmail.com,256707221739,754, Delaware,20000
+Paula,Odom,s5,north,boarding,F,26-Jan-04,PaulaOdom@gmail.com,256707221740,755, Virginia,20000
+Kylian,Middleton,s6,east,boarding,M,07-Aug-02,KylianMiddleton@gmail.com,256707221741,756, West Virginia,20000
+Madalyn,Cuevas,s1,west,boarding,F,22-Apr-00,MadalynCuevas@gmail.com,256707221742,757, Idaho,20000
+Brecken,Chambers,s3,south,day,M,09-Jan-05,BreckenChambers@gmail.com,256707221743,758, Minnesota,20000
+Makayla,Hampton,s6,north,day,M,14-Jun-04,MakaylaHampton@gmail.com,256707221744,759, Florida,20000
+Hank,Lin,s4,east,boarding,M,04-Feb-01,HankLin@gmail.com,256707221745,760, North Carolina,20000
+Makenna,Hurst,s1,west,day,M,19-Oct-03,MakennaHurst@gmail.com,256707221746,761, Idaho,20000
+Neil,Mathis,s2,south,boarding,F,08-Jul-01,NeilMathis@gmail.com,256707221747,762, Tennessee,20000
+Anne,Berger,s4,north,boarding,M,27-Mar-02,AnneBerger@gmail.com,256707221748,763, South Carolina,20000
+Byron,Hines,s5,east,boarding,F,11-Nov-00,ByronHines@gmail.com,256707221749,764, Kentucky,20000
+Poppy,Andrews,s6,west,day,F,30-Aug-03,PoppyAndrews@gmail.com,256707221750,765, Georgia,20000
+Lukas,Raymond,s1,south,day,F,17-May-02,LukasRaymond@gmail.com,256707221751,766, Colorado,20000
+Hadlee,Murphy,s3,north,boarding,M,02-Jan-04,HadleeMurphy@gmail.com,256707221752,767, New York,20000
+Cameron,Graham,s6,east,day,F,20-Sep-01,CameronGraham@gmail.com,256707221753,768, Virginia,20000
+Alaia,Cardenas,s4,west,boarding,M,06-Jun-00,AlaiaCardenas@gmail.com,256707221754,769, Nevada,20000
+Johnathan,West,s1,south,boarding,M,23-Feb-03,JohnathanWest@gmail.com,256707221755,770, Connecticut,20000
+Remi,Nelson,s2,north,boarding,M,09-Nov-02,RemiNelson@gmail.com,256707221756,771, Kentucky,20000
+Dylan,McClure,s4,east,day,F,05-Aug-04,DylanMcClure@gmail.com,256707221757,772, Colorado,20000
+Estella,Hayden,s5,west,day,M,21-Apr-01,EstellaHayden@gmail.com,256707221758,773, Arkansas,20000
+Leroy,Perry,s6,south,boarding,F,10-Oct-00,LeroyPerry@gmail.com,256707221759,774, Arizona,20000
+Clara,Carrillo,s1,north,day,M,31-Jul-03,ClaraCarrillo@gmail.com,256707221760,775, Kansas,20000
+Wade,Hurst,s3,east,boarding,M,15-Jan-02,WadeHurst@gmail.com,256707221761,776, New Mexico,20000
+Adalee,Jacobson,s6,west,boarding,M,17-Jun-04,AdaleeJacobson@gmail.com,256707221762,777, New Jersey,20000
+Legacy,Mejia,s4,south,boarding,M,03-Mar-01,LegacyMejia@gmail.com,256707221763,778, New Hampshire,20000
+Saylor,Magana,s1,north,day,F,22-Nov-02,SaylorMagana@gmail.com,256707221764,779, Hawaii,20000
+Rey,Montes,s2,east,day,M,07-Aug-00,ReyMontes@gmail.com,256707221765,780, North Dakota,20000
+Roselyn,Rubio,s4,west,boarding,F,24-Apr-03,RoselynRubio@gmail.com,256707221766,781, Florida,20000
+Titan,Wheeler,s5,south,day,F,12-Jan-05,TitanWheeler@gmail.com,256707221767,782, North Carolina,20000
+Sydney,Yang,s6,north,boarding,F,28-Jun-02,SydneyYang@gmail.com,256707221768,783, Arkansas,20000
+Malcolm,Hinton,s1,east,boarding,M,13-Nov-03,MalcolmHinton@gmail.com,256707221769,784, Florida,20000
+Jaelynn,Robinson,s3,west,boarding,F,03-Jul-01,JaelynnRobinson@gmail.com,256707221770,785, Massachusetts,20000
+Matthew,Yoder,s6,south,day,M,19-Mar-04,MatthewYoder@gmail.com,256707221771,786, South Dakota,20000
+Emerie,Washington,s4,north,day,M,09-Oct-00,EmerieWashington@gmail.com,256707221772,787, North Carolina,20000
+Juan,Bradshaw,s1,east,boarding,M,26-Feb-03,JuanBradshaw@gmail.com,256707221773,788, Texas,20000
+Berkley,Fletcher,s2,west,day,F,11-Aug-02,BerkleyFletcher@gmail.com,256707221774,789, Pennsylvania,20000
+Jay,Ramos,s4,south,boarding,M,05-Dec-04,JayRamos@gmail.com,256707221775,790, Hawaii,20000
+Alice,Ballard,s5,north,boarding,F,21-Jun-01,AliceBallard@gmail.com,256707221776,791, Virginia,20000
+Kenzo,Harrington,s6,east,boarding,M,30-Mar-04,KenzoHarrington@gmail.com,256707221777,792, Alaska,20000
+Legacy,Estrada,s1,west,day,M,15-Oct-01,LegacyEstrada@gmail.com,256707221778,793, Massachusetts,20000
+Phoenix,Gill,s3,south,day,F,01-Jul-03,PhoenixGill@gmail.com,256707221779,794, Hawaii,20000
+Jordan,Butler,s6,north,boarding,M,16-May-02,JordanButler@gmail.com,256707221780,795, Illinois,20000
+Ryder,Magana,s4,east,day,F,10-Dec-03,RyderMagana@gmail.com,256707221781,796, Iowa,20000
+Amaris,Bryant,s1,west,boarding,M,25-Aug-00,AmarisBryant@gmail.com,256707221782,797, Arkansas,20000
+Jonah,Eaton,s2,south,boarding,F,12-Mar-01,JonahEaton@gmail.com,256707221783,798, Washington,20000
+Miley,Malone,s4,north,boarding,F,28-Oct-03,MileyMalone@gmail.com,256707221784,799, Virginia,20000
+Ruben,McLaughlin,s5,east,day,F,06-Jul-02,RubenMcLaughlin@gmail.com,256707221785,800, North Carolina,20000
+Stephanie,Bell,s6,west,day,M,21-Feb-04,StephanieBell@gmail.com,256707221786,801, Nevada,20000
+Emmett,Casey,s1,south,boarding,F,18-Sep-00,EmmettCasey@gmail.com,256707221787,802, Kansas,20000
+Sylvia,James,s3,north,day,F,02-Jun-01,SylviaJames@gmail.com,256707221788,803, West Virginia,20000
+Jaxson,Manning,s6,east,boarding,M,10-Jan-05,JaxsonManning@gmail.com,256707221789,804, Washington,20000
+Jennifer,O’brien,s4,west,boarding,M,24-Apr-03,JenniferO’brien@gmail.com,256707221790,805, North Carolina,20000
+Riley,Person,s1,south,boarding,F,11-Aug-02,RileyPerson@gmail.com,256707221791,806, Maryland,20000
+Dylan,Goodwin,s2,north,day,M,07-Dec-00,DylanGoodwin@gmail.com,256707221792,807, Florida,20000
+Kaison,Dorsey,s4,east,day,F,30-Jan-04,KaisonDorsey@gmail.com,256707221793,808, Kansas,20000
+Addyson,Farrell,s5,west,boarding,M,15-Jul-01,AddysonFarrell@gmail.com,256707221794,809, Arizona,20000
+Ty,Marsh,s6,south,day,M,03-Mar-03,TyMarsh@gmail.com,256707221795,810, Missouri,20000
+Adelina,Charles,s1,north,boarding,M,20-Oct-04,AdelinaCharles@gmail.com,256707221796,811, Maine,20000
+Conrad,Acosta,s3,east,boarding,M,05-Jun-00,ConradAcosta@gmail.com,256707221797,812, South Dakota,20000
+Kaia,Orr,s6,west,boarding,F,23-Feb-02,KaiaOrr@gmail.com,256707221798,813, Kentucky,20000
+Benicio,Gonzales,s4,south,day,M,09-Nov-03,BenicioGonzales@gmail.com,256707221799,814, South Carolina,20000
+Hadley,Mendez,s1,north,day,F,28-Jul-01,HadleyMendez@gmail.com,256707221800,815, New Jersey,20000
+Arthur,Conner,s2,east,boarding,F,13-Apr-04,ArthurConner@gmail.com,256707221801,816, Oregon,20000
+Alondra,Phan,s4,west,day,F,02-Sep-00,AlondraPhan@gmail.com,256707221802,817, Hawaii,20000
+Maison,Arroyo,s5,south,boarding,M,18-May-02,MaisonArroyo@gmail.com,256707221803,818, New Mexico,20000
+Kyra,O’brien,s6,north,boarding,F,01-Dec-03,KyraO’brien@gmail.com,256707221804,819, New Hampshire,20000
+Riley,Harding,s1,east,boarding,M,16-Aug-01,RileyHarding@gmail.com,256707221805,820, New Mexico,20000
+Aniya,Fischer,s3,west,day,M,06-Apr-04,AniyaFischer@gmail.com,256707221806,821, Florida,20000
+Leonidas,Hunt,s6,south,day,M,22-Jan-02,LeonidasHunt@gmail.com,256707221807,822, Alabama,20000
+Genevieve,Chambers,s4,north,boarding,F,08-Jun-00,GenevieveChambers@gmail.com,256707221808,823, New York,20000
+Orion,Villarreal,s1,east,day,M,25-Feb-03,OrionVillarreal@gmail.com,256707221809,824, New Mexico,20000
+Jazlyn,Frederick,s2,west,boarding,F,11-Nov-02,JazlynFrederick@gmail.com,256707221810,825, New Jersey,20000
+Kase,Delacruz,s4,south,boarding,M,04-Aug-04,KaseDelacruz@gmail.com,256707221811,826, Colorado,20000
+Celine,Freeman,s5,north,boarding,M,20-Apr-01,CelineFreeman@gmail.com,256707221812,827, Arizona,20000
+Jayce,Weber,s6,east,day,M,09-Oct-00,JayceWeber@gmail.com,256707221813,828, Kentucky,20000
+Alayah,Olsen,s1,west,day,M,30-Jun-03,AlayahOlsen@gmail.com,256707221814,829, Oklahoma,20000
+Skyler,Phillips,s3,south,boarding,F,14-Jan-05,SkylerPhillips@gmail.com,256707221815,830, Texas,20000
+Naomi,Day,s6,north,day,M,17-Sep-01,NaomiDay@gmail.com,256707221816,831, Illinois,20000
+Kayson,Giles,s4,east,boarding,F,02-Jun-02,KaysonGiles@gmail.com,256707221817,832, Illinois,20000
+Bailee,Palmer,s1,west,boarding,F,19-Nov-03,BaileePalmer@gmail.com,256707221818,833, South Carolina,20000
+Theo,Hayden,s2,south,boarding,F,05-Jul-00,TheoHayden@gmail.com,256707221819,834, Utah,20000
+Avayah,Cook,s4,north,day,M,24-Mar-04,AvayahCook@gmail.com,256707221820,835, Florida,20000
+Ezekiel,Roy,s5,east,day,F,11-Oct-01,EzekielRoy@gmail.com,256707221821,836, Georgia,20000
+Savanna,Sellers,s6,west,boarding,M,27-Jan-03,SavannaSellers@gmail.com,256707221822,837, Wyoming,20000
+Madden,Hutchinson,s1,south,day,M,13-Aug-02,MaddenHutchinson@gmail.com,256707221823,838, West Virginia,20000
+Jamie,Jordan,s3,north,boarding,M,31-Dec-04,JamieJordan@gmail.com,256707221824,839, Kansas,20000
+Sawyer,Lin,s6,east,boarding,F,16-Jun-01,SawyerLin@gmail.com,256707221825,840, Vermont,20000
+Makenna,Mercado,s4,west,boarding,M,03-Mar-00,MakennaMercado@gmail.com,256707221826,841, Arizona,20000
+Abram,Hobbs,s1,south,day,M,22-Oct-03,AbramHobbs@gmail.com,256707221827,842, Maryland,20000
+Lacey,Villegas,s2,north,day,M,07-Jul-02,LaceyVillegas@gmail.com,256707221828,843, New Hampshire,20000
+Clyde,Phan,s4,east,boarding,F,25-Feb-04,ClydePhan@gmail.com,256707221829,844, Pennsylvania,20000
+Elsa,Small,s5,west,day,M,19-Aug-00,ElsaSmall@gmail.com,256707221830,845, Kansas,20000
+Rudy,Sellers,s6,south,boarding,M,09-Apr-01,RudySellers@gmail.com,256707221831,846, Georgia,20000
+Mercy,Bentley,s1,north,boarding,F,28-Nov-03,MercyBentley@gmail.com,256707221832,847, Vermont,20000
+Randy,Bass,,,boarding,M,15-Jul-02,RandyBass@gmail.com,256707221833,848, North Carolina,20000
+Zahra,Gordon,s6,west,day,F,05-Mar-04,ZahraGordon@gmail.com,256707221834,849, Georgia,20000
+Karter,Cook,s4,south,day,F,21-Sep-00,KarterCook@gmail.com,256707221835,850, California,20000
+Aaliyah,Flores,s1,north,boarding,F,06-Jun-01,AaliyahFlores@gmail.com,256707221836,851, Wisconsin,20000
+Lincoln,Farley,s2,east,day,M,23-Dec-02,LincolnFarley@gmail.com,256707221837,852, Arizona,20000
+Wrenley,Phillips,s4,west,boarding,F,08-Nov-03,WrenleyPhillips@gmail.com,256707221838,853, Pennsylvania,20000
+Andrew,Briggs,s5,south,boarding,M,01-Apr-00,AndrewBriggs@gmail.com,256707221839,854, Iowa,20000
+Alia,Horne,s6,north,boarding,M,17-Feb-04,AliaHorne@gmail.com,256707221840,855, North Carolina,20000
+Zev,Hudson,s1,east,day,M,02-Sep-01,ZevHudson@gmail.com,256707221841,856, Rhode Island,20000
+Kamila,Russo,s3,west,day,F,18-May-02,KamilaRusso@gmail.com,256707221842,857, Alaska,20000
+Jamie,Valentine,s6,south,boarding,F,13-Dec-04,JamieValentine@gmail.com,256707221843,858, Oklahoma,20000
+August,Rosario,s4,north,day,M,29-Jul-00,AugustRosario@gmail.com,,859, Montana,20000
+Jedidiah,Potter,s1,east,boarding,M,16-Mar-03,JedidiahPotter@gmail.com,256707221845,860, Mississippi,20000
+Rory,Montgomery,s2,west,boarding,M,10-Oct-01,RoryMontgomery@gmail.com,256707221846,861, Montana,20000
+Maximiliano,Montoya,s4,south,boarding,M,26-Jan-04,MaximilianoMontoya@gmail.com,256707221847,862, Colorado,20000
+Kamryn,Truong,s5,north,day,M,07-Aug-02,KamrynTruong@gmail.com,256707221848,863, New Hampshire,20000
+Ayan,Chan,s6,east,day,F,22-Apr-00,AyanChan@gmail.com,256707221849,864, North Carolina,20000
+Hattie,Castro,s1,west,boarding,M,09-Jan-05,HattieCastro@gmail.com,256707221850,865, Idaho,20000
+Jasper,Savage,s3,south,day,F,14-Jun-04,JasperSavage@gmail.com,256707221851,866, Kentucky,20000
+Louise,Blackburn,s6,north,boarding,F,04-Feb-01,LouiseBlackburn@gmail.com,256707221852,867, South Dakota,20000
+Zahir,Olsen,s4,east,boarding,F,19-Oct-03,ZahirOlsen@gmail.com,256707221853,868, Maine,20000
+Oaklyn,Higgins,s1,west,boarding,M,08-Jul-01,OaklynHiggins@gmail.com,256707221854,869, Virginia,20000
+Sterling,Bryant,s2,south,day,F,27-Mar-02,SterlingBryant@gmail.com,256707221855,870, Virginia,20000
+Parker,Cardenas,s4,north,day,M,11-Nov-00,ParkerCardenas@gmail.com,256707221856,871, Florida,20000
+Johnathan,Waller,s5,east,boarding,M,30-Aug-03,JohnathanWaller@gmail.com,256707221857,872, Iowa,20000
+Whitley,Garrett,s6,west,day,M,17-May-02,WhitleyGarrett@gmail.com,256707221858,873, Rhode Island,20000
+Kairo,Craig,s1,south,boarding,F,02-Jan-04,KairoCraig@gmail.com,256707221859,874, Oklahoma,20000
+Brynn,Peralta,s3,north,boarding,M,20-Sep-01,BrynnPeralta@gmail.com,256707221860,875, Louisiana,20000
+Dangelo,Ford,s6,east,boarding,F,06-Jun-00,DangeloFord@gmail.com,256707221861,876, California,20000
+Alexandra,Boyle,s4,west,day,M,23-Feb-03,AlexandraBoyle@gmail.com,256707221862,877, Vermont,20000
+Robin,Stout,s1,south,day,M,09-Nov-02,RobinStout@gmail.com,256707221863,878, Rhode Island,20000
+Chana,Cisneros,s2,north,boarding,M,05-Aug-04,ChanaCisneros@gmail.com,256707221864,879, Maine,20000
+Alden,Kramer,s4,east,day,M,21-Apr-01,AldenKramer@gmail.com,256707221865,880, Washington,20000
+Hanna,Hayes,s5,west,boarding,F,10-Oct-00,HannaHayes@gmail.com,256707221866,881, Utah,20000
+Legend,Medrano,s6,south,boarding,M,31-Jul-03,LegendMedrano@gmail.com,256707221867,882, Hawaii,20000
+Halle,Taylor,s1,north,boarding,F,15-Jan-02,HalleTaylor@gmail.com,256707221868,883, Maryland,20000
+Jackson,Corona,s3,east,day,F,17-Jun-04,JacksonCorona@gmail.com,256707221869,884, Texas,20000
+Marianna,Harding,s6,west,day,F,03-Mar-01,MariannaHarding@gmail.com,256707221870,885, Montana,20000
+Brodie,Johnson,s4,south,boarding,M,22-Nov-02,BrodieJohnson@gmail.com,256707221871,886, West Virginia,20000
+Emma,Finley,s1,north,day,F,07-Aug-00,EmmaFinley@gmail.com,256707221872,887, Kansas,20000
+Calum,Powers,s2,east,boarding,M,24-Apr-03,CalumPowers@gmail.com,256707221873,888, Maryland,20000
+Michelle,Austin,s4,west,boarding,M,12-Jan-05,MichelleAustin@gmail.com,256707221874,889, Mississippi,20000
+Omar,Gardner,s5,south,boarding,M,28-Jun-02,OmarGardner@gmail.com,256707221875,890, Rhode Island,20000
+Jordyn,Vaughan,s6,north,day,F,13-Nov-03,JordynVaughan@gmail.com,256707221876,891, South Dakota,20000
+Castiel,Morrow,s1,east,day,M,03-Jul-01,CastielMorrow@gmail.com,256707221877,892, Arkansas,20000
+Reyna,Kirby,s3,west,boarding,F,19-Mar-04,ReynaKirby@gmail.com,256707221878,893, Alaska,20000
+Tony,Yates,s6,south,day,M,09-Oct-00,TonyYates@gmail.com,256707221879,894, Delaware,20000
+Charley,Cantu,s4,north,boarding,M,26-Feb-03,CharleyCantu@gmail.com,256707221880,895, Iowa,20000
+Anakin,Day,s1,east,boarding,M,11-Aug-02,AnakinDay@gmail.com,256707221881,896, Florida,20000
+Hayden,Roberson,s2,west,boarding,M,05-Dec-04,HaydenRoberson@gmail.com,256707221882,897, Rhode Island,20000
+Shepherd,Burch,s4,south,day,F,21-Jun-01,ShepherdBurch@gmail.com,256707221883,898, Oklahoma,20000
+Freyja,Hughes,s5,north,day,M,30-Mar-04,FreyjaHughes@gmail.com,256707221884,899, Nebraska,20000
+Everett,Pratt,s6,east,boarding,F,15-Oct-01,EverettPratt@gmail.com,256707221885,900, Oregon,20000
+Ailani,Patrick,s1,west,day,F,01-Jul-03,AilaniPatrick@gmail.com,256707221886,901, Georgia,20000
+Derrick,Vega,s3,south,boarding,F,,DerrickVega@gmail.com,,902, South Carolina,20000
+Dakota,Felix,s6,north,boarding,M,10-Dec-03,DakotaFelix@gmail.com,256707221888,903, Missouri,20000
+Rodney,Koch,s4,east,boarding,F,25-Aug-00,RodneyKoch@gmail.com,256707221889,904, Wyoming,20000
+Milana,Wilkinson,s1,west,day,M,12-Mar-01,MilanaWilkinson@gmail.com,256707221890,905, Washington,15000
+Leonard,Snyder,s2,south,day,M,28-Oct-03,LeonardSnyder@gmail.com,256707221891,906, Colorado,20000
+Callie,Daniels,s4,north,boarding,M,06-Jul-02,CallieDaniels@gmail.com,256707221892,907, New York,20000
+Xander,Harris,s5,east,day,F,21-Feb-04,XanderHarris@gmail.com,256707221893,908, Connecticut,20000
+Penelope,Trevino,s6,west,boarding,M,18-Sep-00,PenelopeTrevino@gmail.com,256707221894,909, New Hampshire,20000
+Jaime,Holt,s1,south,boarding,F,02-Jun-01,JaimeHolt@gmail.com,256707221895,910, Texas,20000
+Adelynn,Nielsen,s3,north,boarding,M,10-Jan-05,AdelynnNielsen@gmail.com,256707221896,911, South Dakota,20000
+Tru,Flores,s6,east,day,M,24-Apr-03,TruFlores@gmail.com,256707221897,912, Oklahoma,20000
+Emilia,Franco,s4,west,day,M,11-Aug-02,EmiliaFranco@gmail.com,256707221898,913, Nebraska,20000
+Gage,Nelson,s1,south,boarding,M,07-Dec-00,GageNelson@gmail.com,256707221899,914, Oklahoma,20000
+Everly,Bradshaw,s2,north,day,F,30-Jan-04,EverlyBradshaw@gmail.com,256707221900,915, Florida,20000
+Emory,Daugherty,s4,east,boarding,M,15-Jul-01,EmoryDaugherty@gmail.com,256707221901,916, Wisconsin,20000
+Magdalena,Villa,s5,west,boarding,F,03-Mar-03,MagdalenaVilla@gmail.com,256707221902,917, Ohio,20000
+Clay,Rice,s6,south,boarding,F,20-Oct-04,ClayRice@gmail.com,256707221903,918, Oklahoma,20000
+Ada,Horn,s1,north,day,F,11-Nov-00,AdaHorn@gmail.com,256707221904,919, Alabama,20000
+Wilson,Ramsey,s3,east,day,M,30-Aug-03,WilsonRamsey@gmail.com,256707221905,920, Iowa,20000
+Lyric,Douglas,s6,west,boarding,F,17-May-02,LyricDouglas@gmail.com,256707221906,921, Oklahoma,20000
+Derek,Rasmussen,s4,south,day,M,02-Jan-04,DerekRasmussen@gmail.com,256707221907,922, Montana,20000
+Esperanza,Orozco,s1,north,boarding,,20-Sep-01,EsperanzaOrozco@gmail.com,256707221908,923, Montana,20000
+Keanu,Alfaro,s2,east,boarding,M,06-Jun-00,KeanuAlfaro@gmail.com,256707221909,924, Nevada,20000
+Yasmin,Winters,s4,west,boarding,F,23-Feb-03,YasminWinters@gmail.com,256707221910,925, Idaho,20000
+Deandre,Drake,s5,south,day,M,09-Nov-02,DeandreDrake@gmail.com,256707221911,926, Kentucky,20000
+Jayleen,Frye,s6,north,day,F,05-Aug-04,JayleenFrye@gmail.com,256707221912,927, Illinois,20000
+Franco,Montes,s1,east,boarding,M,21-Apr-01,FrancoMontes@gmail.com,256707221913,928, South Dakota,20000
+Roselyn,Eaton,s3,west,day,M,10-Oct-00,RoselynEaton@gmail.com,256707221914,929, New Jersey,20000
+Leighton,Chung,s6,south,boarding,M,31-Jul-03,LeightonChung@gmail.com,256707221915,930, Hawaii,20000
+Rivka,Wolfe,s4,north,boarding,M,15-Jan-02,RivkaWolfe@gmail.com,256707221916,931, Kansas,20000
+Donovan,Collier,s1,east,boarding,F,17-Jun-04,DonovanCollier@gmail.com,256707221917,932, Michigan,20000
+Ivory,Valencia,s2,west,day,F,03-Mar-01,IvoryValencia@gmail.com,256707221918,933, Wisconsin,20000
+Dax,Gonzales,s4,south,day,F,22-Nov-02,DaxGonzales@gmail.com,256707221919,934, Arkansas,20000
+Hadley,Johnson,s5,north,boarding,F,07-Aug-00,,256707221920,935, Montana,20000
+Noah,Hess,s6,east,day,F,24-Apr-03,NoahHess@gmail.com,256707221921,936, Colorado,20000
+Kaliyah,Barron,s1,west,boarding,M,12-Jan-05,KaliyahBarron@gmail.com,256707221922,937, Montana,20000
+Dustin,Townsend,s3,south,boarding,F,28-Jun-02,DustinTownsend@gmail.com,256707221923,938, New York,20000
+Azalea,Wilcox,s6,north,boarding,M,13-Nov-03,AzaleaWilcox@gmail.com,256707221924,939, Indiana,20000
+Jerry,Perez,s4,east,day,M,03-Jul-01,JerryPerez@gmail.com,256707221925,940, Georgia,20000
+Eleanor,Gray,s1,west,day,M,19-Mar-04,EleanorGray@gmail.com,256707221926,941, New Mexico,20000
+Nicholas,Serrano,s2,south,boarding,M,09-Oct-00,NicholasSerrano@gmail.com,256707221927,942, North Carolina,20000
+Allie,Salgado,s4,north,day,M,26-Feb-03,AllieSalgado@gmail.com,256707221928,943, Kentucky,20000
+Trace,Koch,s5,east,boarding,F,11-Aug-02,TraceKoch@gmail.com,256707221929,944, Texas,20000
+Milana,Ramsey,s6,west,boarding,M,05-Dec-04,MilanaRamsey@gmail.com,256707221930,945,,20000
+Luciano,Mercado,s1,south,boarding,M,21-Jun-01,LucianoMercado@gmail.com,256707221931,946, Washington,20000
+Mckinley,Ramos,s3,north,day,M,30-Mar-04,MckinleyRamos@gmail.com,256707221932,947, Delaware,20000
+Angel,Fuentes,s6,east,day,F,15-Oct-01,AngelFuentes@gmail.com,256707221933,948, South Carolina,20000
+Madeleine,Warren,s4,west,boarding,F,01-Jul-03,MadeleineWarren@gmail.com,256707221934,949, Delaware,20000
+Abel,Meadows,s1,south,day,M,16-May-02,AbelMeadows@gmail.com,256707221935,950, Delaware,20000
+Pearl,Frazier,s2,north,boarding,F,10-Dec-03,PearlFrazier@gmail.com,256707221936,951, Nebraska,20000
+Callum,Yoder,s4,east,boarding,F,25-Aug-00,CallumYoder@gmail.com,256707221937,952, Arkansas,20000
+Emerie,Combs,s5,west,boarding,F,12-Mar-01,EmerieCombs@gmail.com,256707221938,953, Florida,20000
+Ahmad,Blanchard,s6,south,day,M,28-Oct-03,AhmadBlanchard@gmail.com,256707221939,954, South Dakota,20000
+Layne,Giles,s1,north,day,F,06-Jul-02,LayneGiles@gmail.com,256707221940,955, Minnesota,20000
+Kole,Suarez,s3,east,boarding,M,21-Feb-04,KoleSuarez@gmail.com,256707221941,956, Utah,20000
+Jimena,Nash,s6,west,day,F,18-Sep-00,JimenaNash@gmail.com,256707221942,957, Arizona,20000
+Chandler,Fuentes,s4,south,boarding,M,02-Jun-01,ChandlerFuentes@gmail.com,256707221943,958, Montana,20000
+Madeleine,Brown,s1,north,boarding,F,10-Jan-05,MadeleineBrown@gmail.com,256707221944,959, Missouri,20000
+Elijah,Rogers,s2,east,boarding,M,24-Apr-03,ElijahRogers@gmail.com,256707221945,960, South Carolina,20000
+Madelyn,Carrillo,s4,west,day,F,11-Aug-02,MadelynCarrillo@gmail.com,256707221946,961, Arizona,20000
+Wade,Larson,s5,south,day,M,07-Dec-00,WadeLarson@gmail.com,256707221947,962, South Carolina,20000
+Alayna,Raymond,s6,north,boarding,M,30-Jan-04,AlaynaRaymond@gmail.com,256707221948,963, Oregon,20000
+Maurice,Lindsey,s1,east,day,M,15-Jul-01,MauriceLindsey@gmail.com,256707221949,964, Oregon,20000
+Colette,Armstrong,s3,west,boarding,M,03-Mar-03,ColetteArmstrong@gmail.com,256707221950,965, New Jersey,20000
+Grant,Walsh,s6,south,boarding,F,20-Oct-04,GrantWalsh@gmail.com,256707221951,966, Massachusetts,20000
+Leia,Patel,s4,north,boarding,F,24-Apr-03,LeiaPatel@gmail.com,256707221952,967, Ohio,20000
+Parker,Friedman,s1,east,day,M,11-Aug-02,ParkerFriedman@gmail.com,256707221953,968, Mississippi,20000
+Aspyn,Taylor,s2,west,day,F,07-Dec-00,AspynTaylor@gmail.com,256707221954,969, Pennsylvania,20000
+Jackson,Morton,s4,south,boarding,F,30-Jan-04,JacksonMorton@gmail.com,256707221955,970, Florida,20000
+Mallory,Gill,s5,north,day,M,15-Jul-01,MalloryGill@gmail.com,256707221956,971, Florida,20000
+Matthias,Sharp,s6,east,boarding,F,03-Mar-03,MatthiasSharp@gmail.com,256707221957,972, Hawaii,20000
+Camryn,Fuller,s1,west,boarding,M,20-Oct-04,CamrynFuller@gmail.com,256707221958,973, Minnesota,20000
+Andre,Guerrero,s3,south,boarding,M,04-Dec-03,AndreGuerrero@gmail.com,256707221959,974, Vermont,20000
+Margot,Baker,s6,north,day,M,20-Apr-00,MargotBaker@gmail.com,256707221960,975, Iowa,20000
+Ezra,Johnson,s4,east,day,M,09-Jan-05,EzraJohnson@gmail.com,256707221961,976, Massachusetts,20000
+Emma,Cooper,s1,west,boarding,M,12-Jun-04,EmmaCooper@gmail.com,256707221962,977, Alabama,20000
+Jonathan,O’Connell,s2,south,day,F,01-Nov-01,JonathanO’Connell@gmail.com,256707221963,978, Hawaii,20000
+Jillian,Blackburn,s4,north,boarding,M,23-Aug-00,JillianBlackburn@gmail.com,256707221964,979, Wyoming,20000
+Zahir,McIntosh,s5,east,boarding,M,07-Mar-03,ZahirMcIntosh@gmail.com,256707221965,980, Arkansas,20000
+Gwen,Boyer,s6,west,boarding,M,15-May-02,GwenBoyer@gmail.com,256707221966,981, Utah,20000
+Zeke,Cuevas,s1,south,day,M,02-Jan-04,ZekeCuevas@gmail.com,256707221967,982, South Dakota,20000
+Adele,Wolfe,s3,north,day,F,19-Oct-01,AdeleWolfe@gmail.com,256707221968,983, Wisconsin,20000
+Donovan,Lowe,s6,east,boarding,M,08-Jul-00,DonovanLowe@gmail.com,256707221969,984, Pennsylvania,20000
+Amari,Cook,s4,west,day,F,27-Feb-03,AmariCook@gmail.com,256707221970,985, Georgia,20000
+Ezekiel,Burns,s1,south,boarding,F,10-Jan-02,EzekielBurns@gmail.com,256707221971,986, Missouri,20000
+Emerson,Valentine,s2,north,boarding,F,04-Aug-04,EmersonValentine@gmail.com,256707221972,987, Alaska,20000
+Demetrius,Moon,s4,east,boarding,M,14-Apr-01,DemetriusMoon@gmail.com,256707221973,988, New Mexico,20000
+Naya,Miller,s5,west,day,F,26-Oct-00,NayaMiller@gmail.com,256707221974,989, New Hampshire,20000
+Benjamin,Eaton,s6,,day,M,05-Jun-03,BenjaminEaton@gmail.com,,990, New Hampshire,20000
+Miley,Pennington,s1,north,boarding,F,21-Dec-02,,256707221976,991, Virginia,20000
+Bobby,Salgado,s3,east,,M,17-Sep-04,BobbySalgado@gmail.com,256707221977,992, Virginia,20000
+Avalynn,Knight,s6,west,boarding,F,03-Mar-01,AvalynnKnight@gmail.com,256707221978,993, Illinois,20000
+Beckett,Roman,s4,south,boarding,M,29-Jul-00,BeckettRoman@gmail.com,256707221979,994, Colorado,
+Astrid,Ramos,s1,north,boarding,F,11-May-03,AstridRamos@gmail.com,256707221980,995, Oklahoma,20000
+Angel,Anderson,s2,east,day,F,08-Nov-02,AngelAnderson@gmail.com,256707221981,996, Tennessee,20000
+Ella,Shields,s4,west,day,M,02-Feb-04,EllaShields@gmail.com,256707221982,997, Oregon,20000
+Devon,Alexander,s5,south,boarding,M,18-Aug-01,DevonAlexander@gmail.com,,998, Georgia,20000
+Lyla,Harrell,s6,north,day,M,06-Apr-00,LylaHarrell@gmail.com,256707221984,999, Iowa,20000
+Nelson,Schneider,s1,east,boarding,F,24-Jan-05,NelsonSchneider@gmail.com,256707221985,1000, Illinois,20000

@@ -1,0 +1,962 @@
+first_name,last_name,class,stream,section,sex,Date_of_birth,email,contact,parent_id,address,fees,Year_of_birth
+Layla,Higgins,s1,west,boarding,F,2002-03-15,LaylaHaggins@gmail.com,4261641687,1.0, Utah,20000.0,2002
+Sterling,Arias,s3,south,day,M,2003-07-04,SterlingArias@gmail.com,1560267842,2.0, Washington,20000.0,2003
+Aleah,Cummings,s6,north,day,F,2001-11-22,AleahCummings@gmail.com,7683211467,3.0, Virginia,20000.0,2001
+Brynn,Hopkins,s1,west,day,M,2004-09-09,BrynnHopkins@gmail.com,3667536431,5.0, Iowa,20000.0,2004
+Ali,Beil,s2,south,boarding,M,2000-06-30,AliBeil@gmail.com,3245802237,6.0, North Carolina,20000.0,2000
+Itzel,Kelly,s4,north,boarding,F,2003-04-07,ItzelKelly@gmail.com,4067709808,7.0, Nevada,20000.0,2003
+Cooper,Ryan,s5,east,boarding,M,2001-01-25,CooperRyan@gmail.com,9522301329,8.0, North Carolina,20000.0,2001
+Morgan,Sloan,s6,west,day,F,2002-10-11,MorganSloan@gmail.com,9044957872,9.0, Montana,20000.0,2002
+Ocean,Wright,s1,south,day,M,2004-08-02,OceanWright@gmail.com,3279825125,10.0, Massachusetts,20000.0,2004
+Lily,Kennedy,s3,north,boarding,M,2001-05-14,LilyKennedy@gmail.com,2361473544,11.0, South Dakota,20000.0,2001
+Addilyn,Frost,s4,west,boarding,M,2000-07-20,AddilynFrost@gmail.com,3114582268,13.0, California,20000.0,2000
+Dario,Rodgers,s1,south,boarding,F,2002-03-19,DarioRodgers@gmail.com,8461565433,14.0, Kentucky,20000.0,2002
+Selah,Mullen,s2,north,boarding,M,2003-11-05,SelahMullen@gmail.com,9616948987,15.0, Arizona,20000.0,2003
+Shepard,Lambert,s4,east,day,F,2001-02-03,ShepardLambert@gmail.com,3113322562,16.0, Missouri,20000.0,2001
+Nina,Andrade,s5,west,day,F,2004-09-12,NinaAndrade@gmail.com,6906611603,17.0, Iowa,20000.0,2004
+Grace,Pitts,s1,north,day,M,2003-04-17,GracePitts@gmail.com,1515904371,19.0, Wisconsin,20000.0,2003
+Trey,Velasquez,s3,east,boarding,F,2001-01-08,TreyVelasquez@gmail.com,3624417641,20.0, Idaho,20000.0,2001
+Bowen,Best,s4,south,boarding,M,2004-08-14,BowenBest@gmail.com,4174689011,22.0, Connecticut,20000.0,2004
+Lexie,Small,s1,north,day,M,2001-06-01,LexieSmall@gmail.com,2524787134,23.0, Idaho,10000.0,2001
+Rudy,Decker,s2,east,day,F,2003-12-19,RudyDecker@gmail.com,4328461837,24.0, Iowa,20000.0,2003
+Aleena,Galvan,s4,west,boarding,M,2000-08-26,AleenaGalvan@gmail.com,8718925807,25.0, Ohio,20000.0,2000
+Kingsley,Morrow,s5,south,day,F,2002-04-02,KingsleyMorrow@gmail.com,2254640583,26.0, California,20000.0,2002
+Reyna,Murray,s6,north,boarding,M,2003-11-09,ReynaMurray@gmail.com,9420160546,27.0, Pennsylvania,20000.0,2003
+Ashton,Benton,s1,east,boarding,M,2001-02-15,AshtonBenton@gmail.com,6105680456,28.0, Alaska,20000.0,2001
+Anais,Lam,s3,west,boarding,M,2004-09-22,AnaisLam@gmail.com,6822524494,29.0, Florida,20000.0,2004
+Bodie,Cantrell,s6,south,day,M,2000-07-05,BodieCantrell@gmail.com,8996847493,30.0, Pennsylvania,20000.0,2000
+Yamileth,Wilcox,s4,north,day,F,2003-04-23,YamilethWilcox@gmail.com,6525588779,31.0, Maryland,20000.0,2003
+Jerry,Moody,s1,east,boarding,M,2001-01-16,JerryMoody@gmail.com,8832097115,32.0, South Dakota,20000.0,2001
+Elaine,Parks,s2,west,day,F,2002-10-18,ElaineParks@gmail.com,4543982449,33.0, Massachusetts,20000.0,2002
+Gianni,Marquez,s4,south,boarding,F,2004-09-10,GianniMarquez@gmail.com,8080048346,34.0, Washington,20000.0,2004
+Milani,McCoy,s5,north,boarding,F,2001-06-08,MilaniMcCoy@gmail.com,1043530845,35.0, Idaho,20000.0,2001
+Gwen,Vaughn,s1,west,day,F,2000-07-14,GwenVaughn@gmail.com,3054286124,37.0, South Carolina,20000.0,2000
+Remy,Chapman,s3,south,day,M,2002-03-01,RemyChapman@gmail.com,5628077302,38.0, Missouri,20000.0,2002
+Casen,Sweeney,s4,east,day,M,2001-02-27,CasenSweeney@gmail.com,4175329337,40.0, Nebraska,20000.0,2001
+Yara,Burch,s1,west,boarding,F,2004-10-05,YaraBurch@gmail.com,8273379031,41.0, Florida,20000.0,2004
+Gerald,Clarke,s2,south,boarding,M,2001-05-10,GeraldClarke@gmail.com,7327190195,42.0, Kansas,20000.0,2001
+Kaitlyn,Bowers,s4,north,boarding,F,2003-12-09,KaitlynBowers@gmail.com,9753590764,43.0, Michigan,20000.0,2003
+Dorian,McMahon,s5,east,day,M,2000-08-21,DorianMcMahon@gmail.com,4597660833,44.0, New York,20000.0,2000
+Belen,Gentry,s6,west,day,M,2002-04-13,BelenGentry@gmail.com,7833796578,45.0, New Mexico,20000.0,2002
+Magnus,Callahan,s1,south,boarding,M,2004-01-08,MagnusCallahan@gmail.com,3732319673,46.0, Delaware,20000.0,2004
+Kimber,Le,s3,north,day,M,2001-11-12,KimberLe@gmail.com,3014452038,47.0, Maine,20000.0,2001
+Damien,French,s6,east,boarding,F,2004-09-16,DamienFrench@gmail.com,9728750788,48.0, Oregon,20000.0,2004
+Lorelai,Woods,s4,west,boarding,M,2000-06-29,LorelaiWoods@gmail.com,3943251350,49.0, New Hampshire,20000.0,2000
+Zion,Hughes,s1,south,boarding,F,2003-04-29,ZionHughes@gmail.com,6290834858,50.0, Illinois,20000.0,2003
+Samantha,Weber,s2,north,day,F,2001-01-27,SamanthaWeber@gmail.com,1777940913,51.0, California,20000.0,2001
+Crew,Farmer,s4,east,day,F,2002-10-21,CrewFarmer@gmail.com,5979581121,52.0, Arizona,20000.0,2002
+Madelynn,Perkins,s5,west,boarding,M,2004-09-25,MadelynnPerkins@gmail.com,9570040108,53.0, South Dakota,20000.0,2004
+Kyrie,Barnes,s6,south,day,F,2001-06-03,KyrieBarnes@gmail.com,3092707180,54.0, Missouri,20000.0,2001
+Liliana,Herman,s1,north,boarding,M,2004-01-02,LilianaHerman@gmail.com,6911765426,55.0, Pennsylvania,20000.0,2004
+Shelby,O’brien,s6,west,boarding,M,2002-03-09,ShelbyO’brien@gmail.com,7148821610,57.0, Hawaii,20000.0,2002
+Raelyn,Franklin,s1,north,day,M,2001-02-10,RaelynFranklin@gmail.com,9639040388,59.0, Michigan,20000.0,2001
+Simon,Chandler,s2,east,boarding,F,2004-10-14,SimonChandler@gmail.com,3886900115,60.0, North Dakota,20000.0,2004
+Viviana,Winters,s4,west,day,M,2001-05-22,VivianaWinters@gmail.com,9135842771,61.0, New York,20000.0,2001
+Aubrey,Salas,s6,north,boarding,M,2003-04-18,AubreySalas@gmail.com,7447757695,63.0, Kentucky,20000.0,2003
+Zaiden,Burch,s1,east,boarding,M,2001-01-06,ZaidenBurch@gmail.com,2377913225,64.0, Minnesota,20000.0,2001
+Freyja,Lozano,s3,west,day,F,2002-10-20,FreyjaLozano@gmail.com,7466503682,65.0, South Carolina,20000.0,2002
+Boone,Gallagher,s6,south,day,M,2004-09-30,BooneGallagher@gmail.com,9347574394,66.0, Texas,20000.0,2004
+Elliott,Massey,s4,north,boarding,F,2001-07-10,ElliottMassey@gmail.com,5066609505,67.0, North Dakota,20000.0,2001
+Donald,Trejo,s1,east,day,F,2003-12-27,DonaldTrejo@gmail.com,3473015300,68.0, Washington,20000.0,2003
+Rosalyn,Petersen,s2,west,boarding,F,2000-09-10,RosalynPetersen@gmail.com,1930030824,69.0, Nebraska,20000.0,2000
+Samson,Ortega,s4,south,boarding,M,2002-03-20,SamsonOrtega@gmail.com,1691009661,70.0, Ohio,20000.0,2002
+Lilah,Carlson,s5,north,boarding,F,2003-11-26,LilahCarlson@gmail.com,5500704671,71.0, Louisiana,20000.0,2003
+Ellie,Dougherty,s1,west,day,M,2004-11-06,EllieDougherty@gmail.com,1841926049,73.0, New Hampshire,20000.0,2004
+Brett,Smith,s3,south,boarding,M,2000-07-15,BrettSmith@gmail.com,3027356732,74.0, South Dakota,20000.0,2000
+Olivia,Valencia,s6,north,day,F,2003-04-10,OliviaValencia@gmail.com,7779139949,75.0, Oklahoma,20000.0,2003
+Dax,Sherman,s4,east,boarding,M,2001-01-12,DaxSherman@gmail.com,9864009350,76.0, New Hampshire,20000.0,2001
+Addilyn,Stanton,s1,west,boarding,F,2002-10-05,AddilynStanton@gmail.com,7001075571,77.0, Kansas,20000.0,2002
+Zyair,McGuire,s2,south,boarding,M,2004-09-19,ZyairMcGuire@gmail.com,6324343276,78.0, Missouri,20000.0,2004
+April,Gibbs,s4,north,day,M,2001-06-03,AprilGibbs@gmail.com,6199571457,79.0, Alabama,20000.0,2001
+Deacon,Orozco,s5,east,day,M,2004-01-24,DeaconOrozco@gmail.com,1000135715,80.0, Montana,20000.0,2004
+Renata,Wiley,s6,west,boarding,M,2000-07-21,RenataWiley@gmail.com,9833303945,81.0, New Hampshire,20000.0,2000
+Mathew,Harmon,s1,south,day,F,2002-03-11,MathewHarmon@gmail.com,4550314146,82.0, Nevada,20000.0,2002
+Maren,Shepard,s3,north,boarding,M,2003-12-16,MarenShepard@gmail.com,8474904565,83.0, Idaho,20000.0,2003
+Damari,Richards,s6,east,boarding,F,2001-02-24,DamariRichards@gmail.com,7128684999,84.0, North Carolina,20000.0,2001
+Joseph,Kramer,s1,south,day,F,2001-05-03,JosephKramer@gmail.com,2963796247,86.0, Arizona,20000.0,2001
+Hanna,Benjamin,s2,north,day,M,2004-01-04,HannaBenjamin@gmail.com,9941983284,87.0, Missouri,20000.0,2004
+Kyro,Logan,s4,east,boarding,F,2000-08-09,KyroLogan@gmail.com,9516777013,88.0, Texas,20000.0,2000
+Kora,Reyna,s5,west,day,M,2002-04-23,KoraReyna@gmail.com,5550973339,89.0, Georgia,20000.0,2002
+Xiomara,Patton,s1,north,boarding,M,2001-11-13,XiomaraPatton@gmail.com,7175999635,91.0, New Mexico,20000.0,2001
+Moises,Carr,s3,east,boarding,F,2004-09-27,MoisesCarr@gmail.com,4455819275,92.0, Minnesota,20000.0,2004
+Rowan,Torres,s6,west,day,M,2000-07-03,RowanTorres@gmail.com,7240905550,93.0, Mississippi,20000.0,2000
+Jayden,Ray,s4,south,day,F,2003-04-12,JaydenRay@gmail.com,4843664604,94.0, Massachusetts,20000.0,2003
+Ruth,Frank,s1,north,boarding,M,2001-02-02,RuthFrank@gmail.com,7908776225,95.0, Georgia,20000.0,2001
+Braylen,Martin,s2,east,day,M,2002-10-17,BraylenMartin@gmail.com,9138859793,96.0, Montana,20000.0,2002
+Mila,McCall,s4,west,boarding,M,2004-09-28,MilaMcCall@gmail.com,4080907133,97.0, Idaho,20000.0,2004
+Kiaan,Greene,s5,south,boarding,M,2001-06-20,KiaanGreene@gmail.com,8572727841,98.0, Pennsylvania,20000.0,2001
+Selena,Gibbs,s6,north,boarding,F,2004-01-11,SelenaGibbs@gmail.com,3898401930,99.0, Indiana,20000.0,2004
+Deacon,Delacruz,s1,east,day,M,2000-07-18,DeaconDelacruz@gmail.com,1479232536,100.0, Idaho,20000.0,2000
+Aarav,Dalton,s6,south,boarding,F,2003-11-10,AaravDalton@gmail.com,6099411020,102.0, Montana,20000.0,2003
+Lilian,Paul,s4,north,day,F,2001-02-05,LilianPaul@gmail.com,9278117586,103.0, New Jersey,20000.0,2001
+Noel,Mills,s1,east,boarding,M,2004-09-25,NoelMills@gmail.com,7115655930,104.0, Massachusetts,20000.0,2004
+June,Jones,s2,west,boarding,F,2001-05-09,JuneJones@gmail.com,9266994148,105.0, Michigan,20000.0,2001
+William,Bravo,s4,south,boarding,M,2003-12-30,WilliamBravo@gmail.com,8836789139,106.0, Indiana,20000.0,2003
+Amoura,Blevins,s5,north,day,M,2000-08-24,AmouraBlevins@gmail.com,6507053267,107.0, Illinois,20000.0,2000
+Avi,Cabrera,s6,east,day,M,2002-04-02,AviCabrera@gmail.com,5024354031,108.0, Maine,20000.0,2002
+Daleyza,Olson,s1,west,boarding,F,2003-11-29,DaleyzaOlson@gmail.com,7942380827,109.0, Rhode Island,20000.0,2003
+Malachi,Rosales,s3,south,day,M,2001-02-20,MalachiRosales@gmail.com,3874602559,110.0, Alabama,20000.0,2001
+Della,Simon,s1,west,boarding,M,2004-01-28,DellaSimon@gmail.com,4701345824,113.0, New Hampshire,20000.0,2004
+Zayne,Leal,s2,south,day,M,2000-07-09,ZayneLeal@gmail.com,1030372789,114.0, Mississippi,20000.0,2000
+Murphy,Phan,s4,north,day,M,2002-03-15,MurphyPhan@gmail.com,4143181141,115.0, New Mexico,20000.0,2002
+Maison,Lucas,s5,east,boarding,F,2003-12-04,MaisonLucas@gmail.com,3997824864,116.0, Missouri,20000.0,2003
+Phoenix,Bravo,s6,west,day,M,2001-02-23,PhoenixBravo@gmail.com,1144282425,117.0, Hawaii,20000.0,2001
+Genesis,Collins,s1,south,boarding,F,2004-11-07,GenesisCollins@gmail.com,4397415182,118.0, New Mexico,20000.0,2004
+Kinsley,Rangel,s3,north,boarding,F,2001-07-14,KinsleyRangel@gmail.com,5654274455,119.0, New Jersey,20000.0,2001
+Saint,Odom,s6,east,boarding,F,2004-04-10,SaintOdom@gmail.com,5305697467,120.0, Massachusetts,20000.0,2004
+Laylani,Wiggins,s4,west,day,M,2000-08-19,LaylaniWiggins@gmail.com,3533173425,121.0, Idaho,20000.0,2000
+Aden,Hurst,s4,east,day,M,2001-11-20,AdenHurst@gmail.com,6832571780,124.0, Ohio,20000.0,2001
+Adalee,Espinoza,s5,west,boarding,M,2004-09-17,AdaleeEspinoza@gmail.com,1085704705,125.0, Minnesota,20000.0,2004
+Dallas,Frederick,s6,south,boarding,F,2000-07-06,DallasFrederick@gmail.com,3551095352,126.0, West Virginia,20000.0,2000
+Sariyah,Rojas,s1,north,boarding,M,2003-04-07,SariyahRojas@gmail.com,6289099118,127.0, South Dakota,20000.0,2003
+Colin,McClure,s3,east,day,F,2001-01-25,ColinMcClure@gmail.com,4315705800,128.0, West Virginia,20000.0,2001
+Estella,Gill,s6,west,day,M,2002-10-11,EstellaGill@gmail.com,3374640403,129.0, California,20000.0,2002
+Matthias,Michael,s4,south,boarding,M,2004-08-02,MatthiasMichael@gmail.com,2206295611,130.0, Minnesota,20000.0,2004
+Aubriella,Martin,s1,north,day,M,2001-05-14,AubriellaMartin@gmail.com,7201688793,131.0, New Hampshire,20000.0,2001
+Mateo,Ortiz,s2,east,boarding,M,2003-12-28,MateoOrtiz@gmail.com,5479666818,132.0, Missouri,20000.0,2003
+Anna,Lee,s4,west,boarding,F,2000-07-20,AnnaLee@gmail.com,6788988676,133.0, Hawaii,20000.0,2000
+Jack,McIntosh,s5,south,boarding,M,2002-03-19,JackMcIntosh@gmail.com,6835443054,134.0, New Mexico,20000.0,2002
+Gwen,Parsons,s6,north,day,F,2003-11-05,GwenParsons@gmail.com,5376734672,135.0, Utah,20000.0,2003
+Lewis,Acevedo,s1,east,day,F,2001-02-03,LewisAcevedo@gmail.com,3292163785,136.0, Hawaii,20000.0,2001
+Ashlynn,Pittman,s3,west,boarding,F,2004-09-12,AshlynnPittman@gmail.com,1677383424,137.0, Utah,20000.0,2004
+Valentino,Jimenez,s6,south,day,M,2000-06-23,ValentinoJimenez@gmail.com,3724976974,138.0, Kentucky,20000.0,2000
+Adeline,Valenzuela,s4,north,boarding,F,2003-04-17,AdelineValenzuela@gmail.com,8318605658,139.0, Louisiana,20000.0,2003
+Jamari,Rice,s1,east,boarding,M,2001-01-08,JamariRice@gmail.com,4031787439,140.0, New Hampshire,20000.0,2001
+Ada,Warner,s2,west,boarding,M,2002-10-10,AdaWarner@gmail.com,9884246461,141.0, Arkansas,20000.0,2002
+Jaxton,McCoy,s4,south,day,M,2004-08-14,JaxtonMcCoy@gmail.com,3021529854,142.0, Ohio,20000.0,2004
+Mckenzie,Sanchez,s5,north,day,F,2001-06-01,MckenzieSanchez@gmail.com,1695888601,143.0, Indiana,20000.0,2001
+Joseph,Owen,s6,east,boarding,M,2003-12-19,JosephOwen@gmail.com,1190590019,144.0, Michigan,20000.0,2003
+Mikayla,Savage,s1,west,day,F,2000-08-26,MikaylaSavage@gmail.com,3330696659,145.0, Virginia,20000.0,2000
+Keaton,Grant,s3,south,boarding,M,2002-04-02,KeatonGrant@gmail.com,6211436350,146.0, North Dakota,20000.0,2002
+Khaleesi,Portillo,s4,north,boarding,M,2003-04-23,KhaleesiPortillo@gmail.com,2320643552,151.0, Pennsylvania,20000.0,2003
+Wallace,Arellano,s5,east,day,F,2001-01-16,WallaceArellano@gmail.com,7618482009,152.0, Tennessee,20000.0,2001
+Faye,Hopkins,s6,west,boarding,F,2002-10-18,FayeHopkins@gmail.com,7077018173,153.0, North Dakota,20000.0,2002
+Ali,Vincent,s1,south,boarding,F,2002-09-13,AliVincent@gmail.com,8877756627,154.0, Arizona,20000.0,2002
+Allyson,Watson,s3,north,boarding,M,2004-09-10,AllysonWatson@gmail.com,1672787191,155.0, California,20000.0,2004
+Greyson,O’Connell,s6,east,day,F,2004-12-29,GreysonO’Connell@gmail.com,6900379471,156.0, Nevada,20000.0,2004
+Jillian,Lowery,s4,west,day,M,2001-06-08,JillianLowery@gmail.com,5619268296,157.0, West Virginia,20000.0,2001
+Jaxxon,Williams,s1,south,boarding,M,2004-01-04,JaxxonWilliams@gmail.com,9512217106,158.0, Iowa,20000.0,2004
+Ava,Richards,s2,north,day,M,2000-07-14,AvaRichards@gmail.com,6582770489,159.0, Nebraska,20000.0,2000
+Holden,Rios,s4,east,boarding,F,2002-03-01,HoldenRios@gmail.com,2719393790,160.0, Montana,20000.0,2002
+Brooke,Charles,s5,west,boarding,M,2003-11-19,BrookeCharles@gmail.com,2670106100,161.0, Pennsylvania,20000.0,2003
+Conrad,Robinson,s6,south,boarding,F,2001-02-27,ConradRobinson@gmail.com,4837507161,162.0, West Virginia,20000.0,2001
+Nora,Espinosa,s1,north,day,M,2004-10-05,NoraEspinosa@gmail.com,2873091903,163.0, Texas,20000.0,2004
+Khalid,Compton,s3,east,day,M,2001-05-10,KhalidCompton@gmail.com,3940034575,164.0, Arizona,20000.0,2001
+Elina,Barker,s6,west,boarding,M,2003-12-09,ElinaBarker@gmail.com,9305310454,165.0, North Carolina,20000.0,2003
+Kade,Wade,s4,south,day,M,2000-08-21,KadeWade@gmail.com,9168603610,166.0, South Dakota,20000.0,2000
+Evie,Mendez,s1,north,boarding,F,2002-04-13,EvieMendez@gmail.com,7921172958,167.0, Nebraska,20000.0,2002
+Arthur,Jaramillo,s2,east,boarding,M,2004-01-08,ArthurJaramillo@gmail.com,6794071915,168.0, Maryland,20000.0,2004
+Guadalupe,Glover,s4,west,boarding,F,2001-11-12,GuadalupeGlover@gmail.com,4966532251,169.0, North Dakota,20000.0,2001
+Mack,Parker,s5,south,day,F,2004-09-16,MackParker@gmail.com,9705308861,170.0, Nevada,20000.0,2004
+Aubrey,Weeks,s6,north,day,F,2000-06-29,AubreyWeeks@gmail.com,1192745268,171.0, South Carolina,20000.0,2000
+Anders,Pratt,s1,east,boarding,M,2003-04-29,AndersPratt@gmail.com,7168426501,172.0, North Dakota,20000.0,2003
+Ailani,Shaffer,s3,west,day,F,2001-01-27,AilaniShaffer@gmail.com,7018658726,173.0, Arkansas,20000.0,2001
+Dexter,Tran,s6,south,boarding,M,2002-10-21,DexterTran@gmail.com,8646277152,174.0, Vermont,20000.0,2002
+Kylie,Warren,s4,north,boarding,M,2004-09-25,KylieWarren@gmail.com,8706557765,175.0, New Jersey,20000.0,2004
+Abel,Watts,s1,east,boarding,M,2001-06-03,AbelWatts@gmail.com,5696438580,176.0, North Dakota,20000.0,2001
+Melissa,Calderon,s2,west,day,F,2004-01-02,MelissaCalderon@gmail.com,5584251805,177.0, Indiana,20000.0,2004
+Oakley,Higgins,s4,south,day,M,2000-07-16,OakleyHiggins@gmail.com,7459701590,178.0, Montana,20000.0,2000
+Leighton,Schroeder,s5,north,boarding,F,2002-03-09,LeightonSchroeder@gmail.com,3541013496,179.0, Georgia,20000.0,2002
+Izaiah,Santiago,s6,east,day,M,2003-12-08,IzaiahSantiago@gmail.com,6357406559,180.0, Connecticut,20000.0,2003
+Nyla,Hail,s1,west,boarding,M,2001-02-10,NylaHail@gmail.com,9928050547,181.0, Nevada,20000.0,2001
+Hector,Shepherd,s3,south,boarding,M,2004-10-14,HectorShepherd@gmail.com,5725240700,182.0, Minnesota,20000.0,2004
+Katalina,Castaneda,s6,north,boarding,M,2001-05-22,KatalinaCastaneda@gmail.com,3262020352,183.0, Delaware,20000.0,2001
+Collin,Johnston,s4,east,day,F,2000-08-06,CollinJohnston@gmail.com,2223248552,184.0, Ohio,20000.0,2000
+Laila,Rubio,s1,west,day,M,2003-04-18,LailaRubio@gmail.com,8661065468,185.0, Alabama,20000.0,2003
+Titan,King,s2,south,boarding,F,2001-01-06,TitanKing@gmail.com,3612882101,186.0, Connecticut,20000.0,2001
+Victoria,Kim,s4,north,day,F,2002-10-20,VictoriaKim@gmail.com,1854319359,187.0, Vermont,20000.0,2002
+Roman,Chavez,s5,east,boarding,F,2004-09-30,RomanChavez@gmail.com,8298592290,188.0, North Dakota,20000.0,2004
+Nevaeh,Doyle,s6,west,boarding,M,2001-07-10,NevaehDoyle@gmail.com,7535700452,189.0, Wisconsin,20000.0,2001
+Kashton,Burnett,s1,south,boarding,F,2003-12-27,KashtonBurnett@gmail.com,7000620420,190.0, New York,20000.0,2003
+Emberly,Maxwell,s3,north,day,M,2000-09-10,EmberlyMaxwell@gmail.com,6365558766,191.0, Georgia,20000.0,2000
+Eden,Hubbard,s6,east,day,M,2002-03-20,EdenHubbard@gmail.com,7462969147,192.0, Kansas,20000.0,2002
+Rosie,Sullivan,s4,west,boarding,M,2003-11-26,RosieSullivan@gmail.com,2079421416,193.0, Idaho,20000.0,2003
+Evan,Lu,s1,south,day,F,2001-02-10,EvanLu@gmail.com,5849508458,194.0, Idaho,20000.0,2001
+Emani,Marsh,s2,north,boarding,M,2004-11-06,EmaniMarsh@gmail.com,5917577225,195.0, Arizona,20000.0,2004
+Bo,Rice,s4,east,boarding,F,2000-07-15,BoRice@gmail.com,5282233176,196.0, New Mexico,20000.0,2000
+Ada,Lowery,s5,west,boarding,M,2003-04-10,AdaLowery@gmail.com,3563765996,197.0, Ohio,20000.0,2003
+Jaxxon,Avery,s6,south,day,M,2001-01-12,JaxxonAvery@gmail.com,9103352783,198.0, Arkansas,20000.0,2001
+Meghan,Coffey,s1,north,day,M,2002-10-05,MeghanCoffey@gmail.com,4074312051,199.0, Tennessee,20000.0,2002
+Kody,Hunter,s3,east,boarding,M,2004-09-19,KodyHunter@gmail.com,4078219930,200.0, California,20000.0,2004
+Khloe,Schmidt,s6,west,day,F,2001-06-03,KhloeSchmidt@gmail.com,4141623688,201.0, Georgia,20000.0,2001
+Zayden,Rosario,s4,south,boarding,M,2004-01-24,ZaydenRosario@gmail.com,2501635937,202.0, Massachusetts,20000.0,2004
+Louisa,Crawford,s1,north,boarding,F,2000-07-21,LouisaCrawford@gmail.com,2307704069,203.0, Alabama,20000.0,2000
+Kevin,Porter,s2,east,boarding,F,2002-03-11,KevinPorter@gmail.com,4317280710,204.0, Nevada,20000.0,2002
+Ryleigh,Carrillo,s4,west,day,F,2003-12-16,RyleighCarrillo@gmail.com,9680478221,205.0, Kentucky,20000.0,2003
+Wade,Marin,s5,south,day,M,2001-02-24,WadeMarin@gmail.com,5494230565,206.0, Oklahoma,20000.0,2001
+Celia,Grant,s6,north,boarding,F,2004-10-29,CeliaGrant@gmail.com,7749958741,207.0, Pennsylvania,20000.0,2004
+Leon,Molina,s1,east,day,M,2001-05-03,LeonMolina@gmail.com,2511942845,208.0, South Carolina,20000.0,2001
+Alexandria,Schmidt,s3,west,boarding,M,2004-01-04,AlexandriaSchmidt@gmail.com,7662488134,209.0, Mississippi,20000.0,2004
+Zayden,Walton,s6,south,boarding,M,2000-08-09,ZaydenWalton@gmail.com,9867816276,210.0, Arizona,20000.0,2000
+Scarlet,Petersen,s4,north,boarding,F,2002-04-23,ScarletPetersen@gmail.com,4471051423,211.0, Hawaii,20000.0,2002
+Samson,Mitchell,s1,east,day,M,2004-01-15,SamsonMitchell@gmail.com,3487836496,212.0, Maryland,20000.0,2004
+Willow,Nguyen,s2,west,day,F,2001-11-13,WillowNguyen@gmail.com,5157358353,213.0, Kansas,20000.0,2001
+Gabriel,Villarreal,s4,south,boarding,M,2004-09-27,GabrielVillarreal@gmail.com,2787423213,214.0, North Dakota,20000.0,2004
+Jazlyn,Chen,s5,north,day,M,2000-07-03,JazlynChen@gmail.com,1363943101,215.0, Maryland,20000.0,2000
+Emmanuel,Holt,s6,east,boarding,M,2003-04-12,EmmanuelHolt@gmail.com,4647126445,216.0, Utah,20000.0,2003
+Adelynn,Newman,s1,west,boarding,M,2001-02-02,AdelynnNewman@gmail.com,1246248070,217.0, New Mexico,20000.0,2001
+Anderson,Ramos,s3,south,boarding,F,2002-10-17,AndersonRamos@gmail.com,3422114509,218.0, Connecticut,20000.0,2002
+Alice,Kaur,s6,north,day,M,2004-09-28,AliceKaur@gmail.com,4333547019,219.0, Virginia,20000.0,2004
+Augustine,Luna,s4,east,day,F,2001-06-20,AugustineLuna@gmail.com,1529068399,220.0, Utah,20000.0,2001
+Journey,Shepherd,s1,west,boarding,F,2004-01-11,JourneyShepherd@gmail.com,9620405157,221.0, Texas,20000.0,2004
+Ronald,Zhang,s2,south,day,F,2000-07-18,RonaldZhang@gmail.com,2578596149,222.0, Oklahoma,20000.0,2000
+Sarai,Valentine,s4,north,boarding,M,2002-03-18,SaraiValentine@gmail.com,5422706934,223.0, Texas,20000.0,2002
+Demetrius,Blevins,s5,east,boarding,F,2003-11-10,DemetriusBlevins@gmail.com,4118924603,224.0, Iowa,20000.0,2003
+Aila,Beltran,s6,west,boarding,M,2001-02-05,AilaBeltran@gmail.com,5364526411,225.0, Wyoming,20000.0,2001
+Ricky,Ingram,s1,south,day,M,2004-09-25,RickyIngram@gmail.com,9494682642,226.0, Illinois,20000.0,2004
+Katie,Stone,s3,north,day,M,2001-05-09,KatieStone@gmail.com,2791065516,227.0, New Hampshire,20000.0,2001
+Finn,Hart,s6,east,boarding,F,2003-12-30,FinnHart@gmail.com,1085965774,228.0, Nevada,20000.0,2003
+Gemma,Bentley,s4,west,day,M,2000-08-24,GemmaBentley@gmail.com,2047474996,229.0, Oklahoma,20000.0,2000
+Randy,Brown,s1,south,boarding,F,2002-04-02,RandyBrown@gmail.com,9746158227,230.0, Oregon,20000.0,2002
+Charlotte,Wong,s2,north,boarding,M,2003-11-29,CharlotteWong@gmail.com,9531676275,231.0, Oregon,20000.0,2003
+Walter,Cole,s4,east,boarding,M,2001-02-20,WalterCole@gmail.com,8976665313,232.0, Kansas,20000.0,2001
+Margaret,Hayden,s5,west,day,M,2004-10-08,MargaretHayden@gmail.com,9886787376,233.0, Oregon,20000.0,2004
+Leroy,Wolfe,s6,south,day,M,2001-06-27,LeroyWolfe@gmail.com,5352875197,234.0, California,20000.0,2001
+Hallie,Duffy,s1,north,boarding,F,2004-01-28,HallieDuffy@gmail.com,1772989881,235.0, Indiana,20000.0,2004
+Kyng,Short,s3,east,day,M,2000-07-09,KyngShort@gmail.com,9496537375,236.0, Minnesota,20000.0,2000
+Cheyenne,Parra,s6,west,boarding,F,2002-03-15,CheyenneParra@gmail.com,4095189034,237.0, Kentucky,20000.0,2002
+Davion,Meza,s4,south,boarding,F,2003-12-04,DavionMeza@gmail.com,8870198759,238.0, Alaska,20000.0,2003
+Rosa,Henderson,s1,north,boarding,F,2001-02-23,RosaHenderson@gmail.com,6368011328,239.0, Colorado,20000.0,2001
+Beau,Levy,s2,east,day,M,2004-11-07,BeauLevy@gmail.com,1819144762,240.0, South Dakota,20000.0,2004
+Flora,Novak,s4,west,day,F,2001-07-14,FloraNovak@gmail.com,5460643782,241.0, North Dakota,20000.0,2001
+Bishop,Phan,s5,south,boarding,M,2004-04-10,BishopPhan@gmail.com,1730734345,242.0, California,20000.0,2004
+Elsa,Campbell,s6,north,day,M,2000-08-19,ElsaCampbell@gmail.com,9574316185,243.0, Idaho,20000.0,2000
+Christopher,Kennedy,s1,east,boarding,M,2002-04-23,ChristopherKennedy@gmail.com,8701976223,244.0, Nevada,20000.0,2002
+Brianna,Frederick,s3,west,boarding,F,2004-01-15,BriannaFrederick@gmail.com,5857936997,245.0, Virginia,20000.0,2004
+Kase,Atkins,s6,south,boarding,M,2001-11-20,KaseAtkins@gmail.com,6248895216,246.0, Vermont,20000.0,2001
+Mina,Haynes,s4,north,day,F,2004-09-17,MinaHaynes@gmail.com,3171210916,247.0, Pennsylvania,20000.0,2004
+Kason,Roy,s1,east,day,M,2000-07-06,KasonRoy@gmail.com,5647612317,248.0, Tennessee,20000.0,2000
+Savanna,Wilkinson,s2,west,boarding,M,2003-04-07,SavannaWilkinson@gmail.com,5814307632,249.0, Louisiana,20000.0,2003
+Leonard,Singh,s4,south,day,M,2001-01-25,LeonardSingh@gmail.com,1669377484,250.0, Maryland,20000.0,2001
+Vivienne,Bonilla,s5,north,boarding,M,2002-10-11,VivienneBonilla@gmail.com,8562715980,251.0, Maine,20000.0,2002
+Aden,Johnson,s6,east,boarding,F,2004-08-02,AdenJohnson@gmail.com,6787732943,252.0, Alabama,20000.0,2004
+Emma,Valenzuela,s1,west,boarding,M,2001-05-14,EmmaValenzuela@gmail.com,8406572237,253.0, Rhode Island,20000.0,2001
+Jamari,Spears,s3,south,day,F,2003-12-28,JamariSpears@gmail.com,2362275979,254.0, Louisiana,20000.0,2003
+Isabela,Chandler,s6,north,day,F,2000-07-20,IsabelaChandler@gmail.com,6972582301,255.0, Colorado,20000.0,2000
+Royal,Blackwell,s4,east,boarding,F,2002-03-19,RoyalBlackwell@gmail.com,3466522302,256.0, New York,20000.0,2002
+Saoirse,Dodson,s1,west,day,M,2003-11-05,SaoirseDodson@gmail.com,5212905783,257.0, Mississippi,20000.0,2003
+Seven,Mays,s2,south,boarding,F,2001-02-03,SevenMays@gmail.com,6898395341,258.0, Washington,20000.0,2001
+Denisse,Stanton,s4,north,boarding,M,2004-09-12,DenisseStanton@gmail.com,6947207193,259.0, Arkansas,20000.0,2004
+Zyair,Buck,s5,east,boarding,M,2000-06-23,ZyairBuck@gmail.com,3443283860,260.0, Connecticut,20000.0,2000
+Livia,Hodge,s6,west,day,M,2003-04-17,LiviaHodge@gmail.com,5534879181,261.0, Wisconsin,20000.0,2003
+Reign,Neal,s1,south,day,F,2001-01-08,ReignNeal@gmail.com,4609382524,262.0, Nevada,20000.0,2001
+Talia,Delarosa,s3,north,boarding,M,2002-10-10,TaliaDelarosa@gmail.com,2040009670,263.0, Washington,20000.0,2002
+Osiris,Jarvis,s6,east,day,F,2004-08-14,OsirisJarvis@gmail.com,1023118678,264.0, North Dakota,20000.0,2004
+Elisabeth,Lucero,s4,west,boarding,M,2001-06-01,ElisabethLucero@gmail.com,4491122085,265.0, Missouri,20000.0,2001
+Felipe,Hickman,s1,south,boarding,M,2003-12-19,FelipeHickman@gmail.com,2232325636,266.0, New York,20000.0,2003
+Scarlette,Lopez,s2,north,boarding,M,2000-08-26,ScarletteLopez@gmail.com,5889493286,267.0, Tennessee,20000.0,2000
+Michael,Harrison,s4,east,day,M,2002-04-02,MichaelHarrison@gmail.com,5504261360,268.0, Arkansas,20000.0,2002
+Jasmine,Butler,s5,west,day,F,2003-11-09,JasmineButler@gmail.com,5245153403,269.0, Montana,20000.0,2003
+Ryder,Benton,s6,south,boarding,M,2001-02-15,RyderBenton@gmail.com,5799886499,270.0, South Dakota,20000.0,2001
+Anais,Lowe,s1,north,day,F,2004-09-22,AnaisLowe@gmail.com,7509134342,271.0, Arkansas,20000.0,2004
+Julius,Lawson,s3,east,boarding,F,2000-07-05,JuliusLawson@gmail.com,2838231182,272.0, New Jersey,20000.0,2000
+Phoebe,Davis,s6,west,boarding,F,2003-04-23,PhoebeDavis@gmail.com,2369697733,273.0, Florida,20000.0,2003
+Lucas,Bender,s4,south,boarding,M,2001-01-16,LucasBender@gmail.com,2088751589,274.0, Massachusetts,20000.0,2001
+Lilyana,McCullough,s1,north,day,F,2002-10-18,LilyanaMcCullough@gmail.com,6426611812,275.0, Iowa,20000.0,2002
+Briar,Klein,s2,east,day,M,2004-09-10,BriarKlein@gmail.com,1757076336,276.0, Michigan,20000.0,2004
+Elianna,Rowe,s4,west,boarding,M,2001-06-08,EliannaRowe@gmail.com,4847037004,277.0, Idaho,20000.0,2001
+Kamden,Peralta,s5,south,day,M,2004-01-04,KamdenPeralta@gmail.com,9828380503,278.0, Alabama,20000.0,2004
+Malayah,Vaughn,s6,north,boarding,F,2000-07-14,MalayahVaughn@gmail.com,2344336409,279.0, Utah,20000.0,2000
+Remy,Chavez,s1,east,boarding,M,2002-03-01,RemyChavez@gmail.com,6734207610,280.0, Rhode Island,20000.0,2002
+Nevaeh,Stanley,s3,west,boarding,F,2003-11-19,NevaehStanley@gmail.com,4897832948,281.0, Wisconsin,20000.0,2003
+Manuel,Flynn,s6,south,day,M,2001-02-27,ManuelFlynn@gmail.com,7254137808,282.0, North Dakota,20000.0,2001
+Dorothy,Odom,s4,north,day,M,2004-10-05,DorothyOdom@gmail.com,6038690861,283.0, Maryland,20000.0,2004
+Kylian,Frye,s1,east,boarding,M,2001-05-10,KylianFrye@gmail.com,6152415812,284.0, Indiana,20000.0,2001
+Raya,Willis,s2,west,day,M,2003-12-09,RayaWillis@gmail.com,8569201023,285.0, Arizona,20000.0,2003
+Remington,Palmer,s4,south,boarding,F,2000-08-21,RemingtonPalmer@gmail.com,7290840071,286.0, Washington,20000.0,2000
+Juniper,Daniels,s5,north,boarding,M,2002-04-13,JuniperDaniels@gmail.com,3418592310,287.0, Rhode Island,20000.0,2002
+Xander,Hale,s6,east,boarding,F,2004-01-08,XanderHale@gmail.com,6935119233,288.0, Delaware,20000.0,2004
+Brinley,Moran,s1,west,day,F,2001-11-12,BrinleyMoran@gmail.com,1596843957,289.0, Wyoming,20000.0,2001
+Tate,Cochran,s3,south,day,F,2004-09-16,TateCochran@gmail.com,5500713874,290.0, Tennessee,20000.0,2004
+Alma,Wallace,s6,north,boarding,M,2000-06-29,AlmaWallace@gmail.com,6251466212,291.0, Oregon,20000.0,2000
+Chase,Gross,s4,east,day,F,2003-04-29,ChaseGross@gmail.com,6514602476,292.0, Ohio,20000.0,2003
+Angel,Saunders,s1,west,boarding,M,2001-01-27,AngelSaunders@gmail.com,5874966216,293.0, New Mexico,20000.0,2001
+Kasen,Singleton,s2,south,boarding,M,2002-10-21,KasenSingleton@gmail.com,4576548502,294.0, Wisconsin,20000.0,2002
+Malaysia,Greer,s4,north,boarding,M,2004-09-25,MalaysiaGreer@gmail.com,3808940039,295.0, Wyoming,20000.0,2004
+Koda,Trujillo,s5,east,day,F,2001-06-03,KodaTrujillo@gmail.com,7588347764,296.0, Kansas,20000.0,2001
+Danielle,Salinas,s6,west,day,M,2004-01-02,DanielleSalinas@gmail.com,3331633528,297.0, Missouri,20000.0,2004
+Edgar,Palacios,s1,south,boarding,F,2000-07-16,EdgarPalacios@gmail.com,2730357250,298.0, Virginia,20000.0,2000
+Bria,Grant,s3,north,day,M,2002-03-09,BriaGrant@gmail.com,3461281800,299.0, Connecticut,20000.0,2002
+Leon,Hurst,s6,east,boarding,M,2003-12-08,LeonHurst@gmail.com,1656833060,300.0, Kansas,20000.0,2003
+Adalee,Guerra,s4,west,boarding,M,2001-02-10,AdaleeGuerra@gmail.com,4214825589,301.0, Delaware,20000.0,2001
+Leland,Ponce,s1,south,boarding,M,2004-10-14,LelandPonce@gmail.com,4219936335,302.0, Oklahoma,20000.0,2004
+Aileen,Harvey,s2,north,day,F,2001-05-22,AileenHarvey@gmail.com,3249494556,303.0, Tennessee,20000.0,2001
+Cayden,Tran,s4,east,day,M,2000-08-06,CaydenTran@gmail.com,2017451935,304.0, Texas,20000.0,2000
+Kylie,Cantu,s5,west,boarding,F,2003-04-18,KylieCantu@gmail.com,1018185196,305.0, Massachusetts,20000.0,2003
+Anakin,Bauer,s6,south,day,F,2001-01-06,AnakinBauer@gmail.com,1395744683,306.0, Michigan,20000.0,2001
+Haley,Fitzgerald,s1,north,boarding,F,2002-10-20,HaleyFitzgerald@gmail.com,9580480476,307.0, California,20000.0,2002
+Peyton,Rojas,s3,east,boarding,M,2004-09-30,PeytonRojas@gmail.com,5014817753,308.0, Iowa,20000.0,2004
+Adaline,Armstrong,s6,west,boarding,F,2001-07-10,AdalineArmstrong@gmail.com,5647426697,309.0, Pennsylvania,20000.0,2001
+Grant,Craig,s4,south,day,M,2003-12-27,GrantCraig@gmail.com,4483371717,310.0, Ohio,20000.0,2003
+Brynn,Savage,s1,north,day,M,2000-09-10,BrynnSavage@gmail.com,5931813917,311.0, Alaska,20000.0,2000
+Keaton,Pierce,s2,east,boarding,M,2002-03-20,KeatonPierce@gmail.com,5940871897,312.0, Colorado,20000.0,2002
+Arabella,Ellis,s4,west,day,F,2003-11-26,ArabellaEllis@gmail.com,8174731665,313.0, Michigan,20000.0,2003
+Cole,Brewer,s5,south,boarding,M,2001-02-10,ColeBrewer@gmail.com,8306372043,314.0, North Carolina,20000.0,2001
+Thea,Saunders,s6,north,boarding,F,2004-11-06,TheaSaunders@gmail.com,2256651438,315.0, Colorado,20000.0,2004
+Kasen,Schneider,s1,east,boarding,M,2000-07-15,KasenSchneider@gmail.com,2059493385,316.0, Indiana,20000.0,2000
+Delaney,Doyle,s3,west,day,M,2002-10-05,DelaneyDoyle@gmail.com,7822414077,317.0, Wisconsin,20000.0,2002
+Kashton,Hendricks,s6,south,day,M,2004-09-19,KashtonHendricks@gmail.com,4010649521,318.0, Oklahoma,20000.0,2004
+Dani,Lamb,s4,north,boarding,M,2001-06-03,DaniLamb@gmail.com,5437250783,319.0, Wyoming,20000.0,2001
+Kaysen,Michael,s1,east,day,F,2004-01-24,KaysenMichael@gmail.com,9678694799,320.0, Iowa,20000.0,2004
+Aubriella,Merritt,s2,west,boarding,M,2000-07-21,AubriellaMerritt@gmail.com,8240677069,321.0, Maryland,20000.0,2000
+Colten,Villalobos,s4,south,boarding,F,2002-03-11,ColtenVillalobos@gmail.com,5439792067,322.0, Alaska,20000.0,2002
+Zoya,Preston,s5,north,boarding,F,2003-12-16,ZoyaPreston@gmail.com,9794362793,323.0, Michigan,20000.0,2003
+Vincenzo,Stephenson,s6,east,day,F,2001-02-24,VincenzoStephenson@gmail.com,7638767529,324.0, New Jersey,20000.0,2001
+Khaleesi,Ayala,s1,west,day,M,2004-10-29,KhaleesiAyala@gmail.com,6615139170,325.0, West Virginia,20000.0,2004
+Tanner,Wilkinson,s3,south,boarding,F,2001-05-03,TannerWilkinson@gmail.com,3845424585,326.0, Iowa,20000.0,2001
+Siena,Miles,s6,north,day,M,2004-01-04,SienaMiles@gmail.com,7871027265,327.0, Utah,20000.0,2004
+Jared,Murphy,s4,east,boarding,M,2000-08-09,JaredMurphy@gmail.com,3642841418,328.0, Alabama,20000.0,2000
+Bella,Jacobson,s1,west,boarding,M,2002-04-23,BellaJacobson@gmail.com,9842573429,329.0, Wisconsin,20000.0,2002
+Legacy,Robles,s2,south,boarding,F,2004-01-15,LegacyRobles@gmail.com,9102348133,330.0, Alaska,20000.0,2004
+Felicity,Yang,s4,north,day,M,2001-11-13,FelicityYang@gmail.com,7124788052,331.0, West Virginia,20000.0,2001
+Malcolm,Barron,s5,east,day,F,2004-09-27,MalcolmBarron@gmail.com,8853970369,332.0, Virginia,20000.0,2004
+Anya,Bell,s6,west,boarding,M,2000-07-03,AnyaBell@gmail.com,2979751187,333.0, New Mexico,20000.0,2000
+Emmett,Salinas,s1,south,day,M,2003-04-12,EmmettSalinas@gmail.com,4023080992,334.0, Iowa,20000.0,2003
+Royalty,Bullock,s3,north,boarding,M,2001-02-02,RoyaltyBullock@gmail.com,5414075674,335.0, Louisiana,20000.0,2001
+Ben,Garza,s6,east,boarding,M,2002-10-17,BenGarza@gmail.com,2007578835,336.0, Michigan,20000.0,2002
+River,Hurley,s4,west,boarding,F,2004-09-28,RiverHurley@gmail.com,5854535302,337.0, New Hampshire,20000.0,2004
+Van,Pena,s1,south,day,M,2001-06-20,VanPena@gmail.com,6363346879,338.0, Texas,20000.0,2001
+Rachel,Rodgers,s2,north,day,F,2004-01-11,RachelRodgers@gmail.com,1722781586,339.0, Wyoming,20000.0,2004
+Mathias,Moon,s4,east,boarding,F,2000-07-18,MathiasMoon@gmail.com,6481542281,340.0, Wisconsin,20000.0,2000
+Naya,Adkins,s5,west,day,F,2002-03-18,NayaAdkins@gmail.com,2654740557,341.0, Maryland,20000.0,2002
+Kylo,Hanna,s6,south,boarding,M,2003-11-10,KyloHanna@gmail.com,9817169604,342.0, New Hampshire,20000.0,2003
+Cynthia,Herrera,s1,north,boarding,F,2001-02-05,CynthiaHerrera@gmail.com,3128913992,343.0, Illinois,20000.0,2001
+River,Santana,s3,east,boarding,M,2004-09-25,RiverSantana@gmail.com,4743438870,344.0, Maine,20000.0,2004
+Myra,Rhodes,s6,west,day,M,2001-05-09,MyraRhodes@gmail.com,1899603536,345.0, Tennessee,20000.0,2001
+Titus,Correa,s4,south,day,M,2003-12-30,TitusCorrea@gmail.com,9498572452,346.0, Wisconsin,20000.0,2003
+Valery,Vu,s1,north,boarding,F,2000-08-24,ValeryVu@gmail.com,2839099260,347.0, Alaska,20000.0,2000
+Kamdyn,Tyler,s2,east,day,M,2002-04-02,KamdynTyler@gmail.com,9384501365,348.0, Louisiana,20000.0,2002
+Helena,Beck,s4,west,boarding,F,2003-11-29,HelenaBeck@gmail.com,8815726306,349.0, Georgia,20000.0,2003
+Eduardo,Moore,s5,south,boarding,M,2001-02-20,EduardoMoore@gmail.com,8346468404,350.0, Georgia,20000.0,2001
+Emily,Clayton,s6,north,boarding,M,2004-10-08,EmilyClayton@gmail.com,9261625156,351.0, Indiana,20000.0,2004
+Boston,Henderson,s1,east,day,M,2001-06-27,BostonHenderson@gmail.com,4601988080,352.0, Michigan,20000.0,2001
+Maria,Graham,s3,west,day,M,2004-01-28,MariaGraham@gmail.com,7687395280,353.0, West Virginia,20000.0,2004
+Giovanni,Klein,s6,south,boarding,F,2000-07-09,GiovanniKlein@gmail.com,5396587728,354.0, Florida,20000.0,2000
+Elianna,Ross,s4,north,day,M,2002-03-15,EliannaRoss@gmail.com,4081176370,355.0, Arkansas,20000.0,2002
+Wesley,Frost,s1,east,boarding,F,2003-12-04,WesleyFrost@gmail.com,5707941569,356.0, Iowa,20000.0,2003
+Paula,Randolph,s2,west,boarding,F,2001-02-23,PaulaRandolph@gmail.com,7052811652,357.0, Arizona,20000.0,2001
+Eugene,Torres,s4,south,boarding,F,2004-11-07,EugeneTorres@gmail.com,2154593505,358.0, Minnesota,20000.0,2004
+Violet,Smith,s5,north,day,M,2001-07-14,VioletSmith@gmail.com,4336893142,359.0, Missouri,20000.0,2001
+Liam,Becker,s6,east,day,F,2004-04-10,LiamBecker@gmail.com,1684916305,360.0, Pennsylvania,20000.0,2004
+Laura,Travis,s1,west,boarding,M,2000-08-19,LauraTravis@gmail.com,8373660175,361.0, Rhode Island,20000.0,2000
+Willie,Miranda,s3,south,day,M,2002-04-23,WillieMiranda@gmail.com,1433666991,362.0, Oklahoma,20000.0,2002
+Amina,Meadows,s6,north,boarding,M,2004-01-15,AminaMeadows@gmail.com,6821666318,363.0, Nevada,20000.0,2004
+Wayne,Vaughn,s4,east,boarding,F,2001-11-20,WayneVaughn@gmail.com,4013559211,364.0, Indiana,20000.0,2001
+Reign,Hodge,s1,west,boarding,M,2004-09-17,ReignHodge@gmail.com,4565289007,365.0, Connecticut,20000.0,2004
+Reign,Lowe,s2,south,day,F,2000-07-06,ReignLowe@gmail.com,5966689718,366.0, Wisconsin,20000.0,2000
+Amari,Wolfe,s4,north,day,M,2003-04-07,AmariWolfe@gmail.com,6418158073,367.0, Texas,20000.0,2003
+Donovan,Nash,s5,east,boarding,M,2001-01-25,DonovanNash@gmail.com,1356856049,368.0, Massachusetts,20000.0,2001
+Novah,Gilbert,s6,west,day,M,2002-10-11,NovahGilbert@gmail.com,5554501612,369.0, Delaware,20000.0,2002
+Tobias,Archer,s1,south,boarding,M,2004-08-02,TobiasArcher@gmail.com,4288579562,370.0, Iowa,20000.0,2004
+Kadence,Wilkinson,s3,north,boarding,F,2001-05-14,KadenceWilkinson@gmail.com,5137444425,371.0, Indiana,20000.0,2001
+Leonard,McCoy,s6,east,boarding,M,2003-12-28,LeonardMcCoy@gmail.com,1612666122,372.0, Arizona,20000.0,2003
+Mckenzie,Yu,s4,west,day,F,2000-07-20,MckenzieYu@gmail.com,2778669679,373.0, Nebraska,20000.0,2000
+Bryant,Woodard,s1,south,day,F,2002-03-19,BryantWoodard@gmail.com,6881990609,374.0, West Virginia,20000.0,2002
+Aubrie,Mullins,s2,north,boarding,F,2003-11-05,AubrieMullins@gmail.com,9270780789,375.0, Texas,20000.0,2003
+Allen,Quintana,s4,east,day,M,2001-02-03,AllenQuintana@gmail.com,7616209003,376.0, Idaho,20000.0,2001
+Kenia,Rivas,s5,west,boarding,F,2004-09-12,KeniaRivas@gmail.com,9841206486,377.0, Arizona,20000.0,2004
+Damon,Zhang,s6,south,boarding,M,2000-06-23,DamonZhang@gmail.com,3505918293,378.0, New York,20000.0,2000
+Sarai,Middleton,s1,north,boarding,M,2003-04-17,SaraiMiddleton@gmail.com,3884194356,379.0, Colorado,20000.0,2003
+Misael,Phan,s3,east,day,M,2001-01-08,MisaelPhan@gmail.com,3774971899,380.0, Alaska,20000.0,2001
+Elsa,Schultz,s6,west,day,F,2002-10-10,ElsaSchultz@gmail.com,3957847712,381.0, New Jersey,20000.0,2002
+Cody,Church,s4,south,boarding,M,2004-08-14,CodyChurch@gmail.com,2356581351,382.0, Rhode Island,20000.0,2004
+Ayleen,Farrell,s1,north,day,F,2001-06-01,AyleenFarrell@gmail.com,2481971889,383.0, Wyoming,20000.0,2001
+Ty,Herrera,s2,east,boarding,M,2003-12-19,TyHerrera@gmail.com,2774319639,384.0, Indiana,20000.0,2003
+Ximena,Moreno,s4,west,boarding,M,2000-08-26,XimenaMoreno@gmail.com,7953194450,385.0, Delaware,20000.0,2000
+Myles,Stevens,s5,south,boarding,M,2002-04-02,MylesStevens@gmail.com,7752557724,386.0, Massachusetts,20000.0,2002
+Katherine,Leon,s6,north,day,M,2003-11-09,KatherineLeon@gmail.com,4065579431,387.0, Maine,20000.0,2003
+Marshall,Fleming,s1,east,day,F,2001-02-15,MarshallFleming@gmail.com,8456592236,388.0, Minnesota,20000.0,2001
+Fatima,Duffy,s3,west,boarding,M,2004-09-22,FatimaDuffy@gmail.com,5869878070,389.0, Mississippi,20000.0,2004
+Kyng,Vance,s6,south,day,F,2000-07-05,KyngVance@gmail.com,9267701863,390.0, Washington,20000.0,2000
+Maxine,Howard,s4,north,boarding,F,2003-04-23,MaxineHoward@gmail.com,8854192784,391.0, Arizona,20000.0,2003
+Jeremiah,Giles,s1,east,boarding,F,2001-01-16,JeremiahGiles@gmail.com,9566859490,392.0, New Mexico,20000.0,2001
+Bailee,Harrell,s2,west,boarding,M,2002-10-18,BaileeHarrell@gmail.com,1339114651,393.0, New York,20000.0,2002
+Nelson,Norris,s4,south,day,F,2004-09-10,NelsonNorris@gmail.com,3620553145,394.0, Montana,20000.0,2004
+Arielle,Benton,s5,north,day,M,2001-06-08,ArielleBenton@gmail.com,5423706116,395.0, New York,20000.0,2001
+Jamal,Vu,s6,east,boarding,M,2004-01-04,JamalVu@gmail.com,6901669496,396.0, New Hampshire,20000.0,2004
+Kimora,Frank,s1,west,day,M,2000-07-14,KimoraFrank@gmail.com,2961960549,397.0, Arkansas,20000.0,2000
+Braylen,Morgan,s3,south,boarding,F,2002-03-01,BraylenMorgan@gmail.com,8500264716,398.0, South Dakota,20000.0,2002
+Delilah,Burnett,s6,north,boarding,M,2003-11-19,DelilahBurnett@gmail.com,4049349704,399.0, Nebraska,20000.0,2003
+Davis,Dodson,s4,east,boarding,F,2001-02-27,DavisDodson@gmail.com,2672849815,400.0, West Virginia,20000.0,2001
+Etta,Case,s1,west,day,M,2004-10-05,EttaCase@gmail.com,8518351624,401.0, New York,20000.0,2004
+Bentlee,Hendricks,s2,south,day,M,2001-05-10,BentleeHendricks@gmail.com,2640388110,402.0, Utah,20000.0,2001
+Dani,Watts,s4,north,boarding,M,2003-12-09,DaniWatts@gmail.com,2902113328,403.0, Oregon,20000.0,2003
+Dakota,Mahoney,s5,east,day,M,2000-08-21,DakotaMahoney@gmail.com,2447747589,404.0, Missouri,20000.0,2000
+Promise,Clay,s6,west,boarding,F,2002-04-13,PromiseClay@gmail.com,7171012283,405.0, Ohio,20000.0,2002
+Yosef,Petersen,s1,south,boarding,M,2004-01-08,YosefPetersen@gmail.com,7188154792,406.0, Idaho,20000.0,2004
+Fernanda,McIntyre,s3,north,boarding,F,2001-11-12,FernandaMcIntyre@gmail.com,5074463982,407.0, Vermont,20000.0,2001
+Eliseo,Dalton,s6,east,day,F,2004-09-16,EliseoDalton@gmail.com,7090600864,408.0, Wisconsin,20000.0,2004
+Lilian,Reyes,s4,west,day,F,2000-06-29,LilianReyes@gmail.com,1284788654,409.0, New York,20000.0,2000
+Eli,Boyd,s1,south,boarding,M,2003-04-29,EliBoyd@gmail.com,5022942594,410.0, Virginia,20000.0,2003
+Georgia,Rubio,s2,north,day,F,2001-01-27,GeorgiaRubio@gmail.com,6431321553,411.0, Ohio,20000.0,2001
+Titan,Lambert,s4,east,boarding,M,2002-10-21,TitanLambert@gmail.com,6320472225,412.0, Louisiana,20000.0,2002
+Nina,Smith,s5,west,boarding,M,2004-09-25,NinaSmith@gmail.com,4272030596,413.0, Pennsylvania,20000.0,2004
+Liam,Pope,s6,south,boarding,M,2001-06-03,LiamPope@gmail.com,6844418259,414.0, Nevada,20000.0,2001
+Aurelia,Strickland,s1,north,day,F,2004-01-02,AureliaStrickland@gmail.com,1864829660,415.0, Virginia,20000.0,2004
+Keegan,Woodard,s3,east,day,M,2000-07-16,KeeganWoodard@gmail.com,6295174374,416.0, North Carolina,20000.0,2000
+Aubrie,Henson,s6,west,boarding,F,2002-03-09,AubrieHenson@gmail.com,3830488213,417.0, New Mexico,20000.0,2002
+Bellamy,Carey,s4,south,day,M,2003-12-08,BellamyCarey@gmail.com,2484784221,418.0, Indiana,20000.0,2003
+Alora,Baker,s1,north,boarding,M,2001-02-10,AloraBaker@gmail.com,6590543723,419.0, Kansas,20000.0,2001
+Ezra,Wolf,s2,east,boarding,M,2004-10-14,EzraWolf@gmail.com,8983872744,420.0, Delaware,20000.0,2004
+Jolene,Kennedy,s4,west,boarding,M,2001-05-22,JoleneKennedy@gmail.com,1864990085,421.0, New York,20000.0,2001
+Maxwell,Michael,s5,south,day,F,2000-08-06,MaxwellMichael@gmail.com,6729113207,422.0, Maryland,20000.0,2000
+Aubriella,Craig,s6,north,day,M,2003-04-18,AubriellaCraig@gmail.com,1189584907,423.0, North Carolina,20000.0,2003
+Odin,Kelly,s1,east,boarding,F,2001-01-06,OdinKelly@gmail.com,2034654205,424.0, Oregon,20000.0,2001
+Ruby,Huynh,s3,west,day,F,2002-10-20,RubyHuynh@gmail.com,3280079605,425.0, Minnesota,20000.0,2002
+Layton,Colon,s6,south,boarding,F,2004-09-30,LaytonColon@gmail.com,4502314964,426.0, Nevada,20000.0,2004
+Remy,Serrano,s4,north,boarding,M,2001-07-10,RemySerrano@gmail.com,6819698999,427.0, Ohio,20000.0,2001
+Milan,Scott,s1,east,boarding,F,2003-12-27,MilanScott@gmail.com,8368658007,428.0, Illinois,20000.0,2003
+Aurora,Hull,s2,west,day,M,2000-09-10,AuroraHull@gmail.com,4613799410,429.0, Maine,20000.0,2000
+Salem,Hail,s4,south,day,M,2002-03-20,SalemHail@gmail.com,6793375319,430.0, Wisconsin,20000.0,2002
+Lainey,Perry,s5,north,boarding,M,2003-11-26,LaineyPerry@gmail.com,7457449915,431.0, Florida,20000.0,2003
+Waylon,Navarro,s6,east,day,F,2001-02-10,WaylonNavarro@gmail.com,1658225247,432.0, Illinois,20000.0,2001
+Winter,Hamilton,s1,west,boarding,M,2004-11-06,WinterHamilton@gmail.com,6072874166,433.0, Oklahoma,20000.0,2004
+Jason,Peterson,s3,south,boarding,F,2000-07-15,JasonPeterson@gmail.com,8580088986,434.0, Idaho,20000.0,2000
+Caroline,Payne,s6,north,boarding,M,2003-04-10,CarolinePayne@gmail.com,9361700815,435.0, Texas,20000.0,2003
+Edward,Stevenson,s4,east,day,M,2001-01-12,EdwardStevenson@gmail.com,1736573903,436.0, Montana,20000.0,2001
+Regina,Zuniga,s1,west,day,M,2002-10-05,ReginaZuniga@gmail.com,6732602207,437.0, South Carolina,20000.0,2002
+Sincere,O’Connell,s2,south,boarding,M,2004-09-19,SincereO’Connell@gmail.com,2111636608,438.0, New York,20000.0,2004
+Jillian,Ramsey,s4,north,day,F,2001-06-03,JillianRamsey@gmail.com,9848805656,439.0, New Mexico,20000.0,2001
+Luciano,Rivers,s5,east,boarding,M,2004-01-24,LucianoRivers@gmail.com,5346013236,440.0, Kansas,20000.0,2004
+Kiana,Wang,s6,west,boarding,F,2000-07-21,KianaWang@gmail.com,8868472278,441.0, Vermont,20000.0,2000
+Cohen,Huber,s1,south,boarding,F,2002-03-11,CohenHuber@gmail.com,1679725191,442.0, Kentucky,20000.0,2002
+Raquel,McKenzie,s3,north,day,F,2003-12-16,RaquelMcKenzie@gmail.com,8721840794,443.0, Massachusetts,20000.0,2003
+Scott,Tucker,s6,east,day,M,2001-02-24,ScottTucker@gmail.com,2546054131,444.0, Arizona,20000.0,2001
+Esther,Leal,s4,west,boarding,F,2004-10-29,EstherLeal@gmail.com,7462317159,445.0, Michigan,20000.0,2004
+Cedric,Fitzpatrick,s1,south,day,M,2001-05-03,CedricFitzpatrick@gmail.com,5281746444,446.0, New Mexico,20000.0,2001
+Annabella,Salinas,s2,north,boarding,M,2004-01-04,AnnabellaSalinas@gmail.com,8203913195,447.0, North Dakota,20000.0,2004
+Edgar,Curry,s4,east,boarding,M,2000-08-09,EdgarCurry@gmail.com,9913984189,448.0, Oregon,20000.0,2000
+Alison,Colon,s5,west,boarding,F,2002-04-23,AlisonColon@gmail.com,9896695138,449.0, Ohio,20000.0,2002
+Bruce,Snow,s6,south,day,M,2004-01-15,BruceSnow@gmail.com,9403388746,450.0, Rhode Island,20000.0,2004
+Alexia,Bell,s1,north,day,F,2001-11-13,AlexiaBell@gmail.com,4221988455,451.0, Nebraska,20000.0,2001
+Emmett,Tapia,s3,east,boarding,M,2004-09-27,EmmettTapia@gmail.com,7855610445,452.0, Oklahoma,20000.0,2004
+Michaela,Mack,s6,west,day,M,2000-07-03,MichaelaMack@gmail.com,4251624815,453.0, Mississippi,20000.0,2000
+Esteban,Villanueva,s4,south,boarding,M,2003-04-12,EstebanVillanueva@gmail.com,1027602806,454.0, Pennsylvania,20000.0,2003
+Monroe,Thornton,s1,north,boarding,M,2001-02-02,MonroeThornton@gmail.com,9957571620,455.0, Kentucky,20000.0,2001
+Malik,Hale,s2,east,boarding,F,2002-10-17,MalikHale@gmail.com,6154571941,456.0, Indiana,20000.0,2002
+Brinley,Sandoval,s4,west,day,M,2004-09-28,BrinleySandoval@gmail.com,9607554638,457.0, Louisiana,20000.0,2004
+Brantley,Hawkins,s5,south,day,F,2001-06-20,BrantleyHawkins@gmail.com,6991554109,458.0, Delaware,20000.0,2001
+Ariel,Santiago,s6,north,boarding,F,2004-01-11,ArielSantiago@gmail.com,6246592457,459.0, Texas,20000.0,2004
+Beckham,Pena,s1,east,day,F,2000-07-18,BeckhamPena@gmail.com,7331461861,460.0, New Jersey,20000.0,2000
+Rachel,Dejesus,s3,west,boarding,M,2002-03-18,RachelDejesus@gmail.com,4822600492,461.0, New Hampshire,20000.0,2002
+Rio,Parsons,s6,south,boarding,F,2003-11-10,RioParsons@gmail.com,7464210452,462.0, Hawaii,20000.0,2003
+Maia,Figueroa,s4,north,boarding,M,2001-02-05,MaiaFigueroa@gmail.com,8773604293,463.0, New Mexico,20000.0,2001
+Reginald,Garza,s4,south,boarding,F,2003-12-30,ReginaldGarza@gmail.com,1267827780,466.0, Utah,20000.0,2003
+River,Roth,s5,north,day,M,2000-08-24,RiverRoth@gmail.com,2098375969,467.0, Montana,20000.0,2000
+Roy,Morris,s6,east,boarding,F,2002-04-02,RoyMorris@gmail.com,8249118323,468.0, Utah,20000.0,2002
+Genesis,Lucas,s1,west,boarding,M,2003-11-29,GenesisLucas@gmail.com,3366073511,469.0, Arkansas,20000.0,2003
+Chance,Knapp,s3,south,boarding,M,2001-02-20,ChanceKnapp@gmail.com,8019585629,470.0, South Carolina,20000.0,2001
+Linda,Sloan,s6,north,day,M,2004-10-08,LindaSloan@gmail.com,1600703462,471.0, Utah,20000.0,2004
+Rylan,Avila,s2,south,day,M,2000-07-09,RylanAvila@gmail.com,7829382405,474.0, Kansas,20000.0,2000
+Amiyah,Maynard,s4,north,boarding,F,2003-02-15,AmiyahMaynard@gmail.com,1651284975,475.0, Ohio,20000.0,2003
+Zeke,Madden,s1,south,day,M,2000-07-09,ZekeMadden@gmail.com,7306894008,478.0, New Jersey,20000.0,2000
+Violette,Arroyo,s3,north,day,F,2004-12-22,VioletteArroyo@gmail.com,7519763103,479.0, Illinois,20000.0,2004
+Alberto,Arias,s6,east,boarding,M,2003-08-18,AlbertoArias@gmail.com,2908241895,480.0, Georgia,20000.0,2003
+Aleah,Hale,s4,west,day,M,2002-03-07,AleahHale@gmail.com,4444114321,481.0, Massachusetts,20000.0,2002
+Ezequiel,Mejia,s1,south,boarding,M,2001-05-02,EzequielMejia@gmail.com,8475489825,482.0, Kentucky,20000.0,2001
+Saylor,Bradford,s2,north,boarding,F,2005-01-10,SaylorBradford@gmail.com,4726497117,483.0, Ohio,20000.0,2005
+Ander,Hood,s4,east,boarding,M,2000-09-14,AnderHood@gmail.com,1238789758,484.0, Washington,20000.0,2000
+Briana,Donaldson,s5,west,day,F,2004-06-30,BrianaDonaldson@gmail.com,3167074547,485.0, New Jersey,20000.0,2004
+Canaan,Gaines,s6,south,day,M,2003-04-11,CanaanGaines@gmail.com,1774155411,486.0, Michigan,20000.0,2003
+Aya,Mayo,s1,north,boarding,M,2001-11-25,AyaMayo@gmail.com,3568218108,487.0, Hawaii,20000.0,2001
+Lauryn,McDowell,s6,west,boarding,M,2000-03-19,LaurynMcDowell@gmail.com,6407293617,489.0, Alabama,20000.0,2000
+Lachlan,Avalos,s4,south,boarding,F,2004-08-08,LachlanAvalos@gmail.com,9369667473,490.0, Hawaii,20000.0,2004
+Paloma,Dalton,s1,north,boarding,M,2001-01-26,PalomaDalton@gmail.com,1729194104,491.0, New Hampshire,20000.0,2001
+Fletcher,Gordon,s2,east,day,F,2003-10-13,FletcherGordon@gmail.com,2642175062,492.0, Alabama,20000.0,2003
+Taylor,Blankenship,s4,west,day,F,2000-05-31,TaylorBlankenship@gmail.com,4386928888,493.0, Minnesota,20000.0,2000
+Ernesto,Fisher,s5,south,boarding,F,2004-02-24,ErnestoFisher@gmail.com,6648982076,494.0, South Dakota,20000.0,2004
+Arya,Bowman,s6,north,day,M,2001-09-16,AryaBowman@gmail.com,8617525507,495.0, Florida,20000.0,2001
+Francisco,Wise,s1,east,boarding,F,2002-07-29,FranciscoWise@gmail.com,3977966288,496.0, Minnesota,20000.0,2002
+Mira,Phillips,s3,west,boarding,M,2003-12-04,MiraPhillips@gmail.com,4714288274,497.0, Nebraska,20000.0,2003
+Andrew,Morgan,s6,south,boarding,M,2000-04-20,AndrewMorgan@gmail.com,8981605948,498.0, Kansas,10000.0,2000
+Delilah,Galvan,s4,north,day,M,2005-01-09,DelilahGalvan@gmail.com,8790710739,499.0, Oregon,20000.0,2005
+Kingsley,Salinas,s1,east,day,F,2004-06-12,KingsleySalinas@gmail.com,4076991231,500.0, Hawaii,20000.0,2004
+Royalty,Patterson,s2,west,boarding,M,2001-11-01,RoyaltyPatterson@gmail.com,9444712037,501.0, Pennsylvania,20000.0,2001
+Amir,Aguilar,s4,south,day,F,2000-08-23,AmirAguilar@gmail.com,6243314464,502.0, Oklahoma,20000.0,2000
+Josie,Perry,s5,north,boarding,M,2003-03-07,JosiePerry@gmail.com,9185596276,503.0, Vermont,13000.0,2003
+Waylon,Johnson,s6,east,boarding,M,2002-05-15,WaylonJohnson@gmail.com,1018063949,504.0, Connecticut,20000.0,2002
+Emma,Sweeney,s1,west,boarding,M,2004-01-02,EmmaSweeney@gmail.com,4622799032,505.0, Wisconsin,20000.0,2004
+Nixon,Holloway,s3,south,day,M,2001-10-19,NixonHolloway@gmail.com,3222095292,506.0, New Mexico,20000.0,2001
+Mae,Lester,s6,north,day,F,2000-07-08,MaeLester@gmail.com,4130078723,507.0, Oregon,20000.0,2000
+Lee,O’Donnell,s4,east,boarding,M,2003-02-27,LeeO’Donnell@gmail.com,7893862298,508.0, Vermont,20000.0,2003
+Bellamy,Griffin,s1,west,day,F,2002-01-10,BellamyGriffin@gmail.com,6732622839,509.0, North Carolina,20000.0,2002
+Ayden,Alvarado,s2,south,boarding,F,2004-08-04,AydenAlvarado@gmail.com,2807225183,510.0, Arkansas,20000.0,2004
+Blake,Villalobos,s4,north,boarding,F,2001-04-14,BlakeVillalobos@gmail.com,1206397588,511.0, North Carolina,20000.0,2001
+Reuben,Magana,s5,east,boarding,M,2000-10-26,ReubenMagana@gmail.com,7491513560,512.0, South Dakota,20000.0,2000
+Amaris,O’brien,s6,west,day,F,2003-06-05,AmarisO’brien@gmail.com,3168681450,513.0, Hawaii,20000.0,2003
+Riley,Hodges,s1,south,day,M,2002-12-21,RileyHodges@gmail.com,4153702432,514.0, Michigan,20000.0,2002
+Eve,Payne,s3,north,boarding,M,2004-09-17,EvePayne@gmail.com,2764400986,515.0, West Virginia,20000.0,2004
+Edward,Burns,s6,east,day,M,2001-03-03,EdwardBurns@gmail.com,1011568186,516.0, Pennsylvania,20000.0,2001
+Emerson,Leon,s4,west,boarding,F,2000-07-29,EmersonLeon@gmail.com,7996252346,517.0, Nebraska,20000.0,2000
+Marshall,Hanson,s1,south,boarding,M,2003-05-11,MarshallHanson@gmail.com,4556087974,518.0, Connecticut,20000.0,2003
+Mariana,Ponce,s2,north,boarding,F,2002-11-08,MarianaPonce@gmail.com,8625382785,519.0, Louisiana,20000.0,2002
+Langston,Simon,s4,east,day,M,2004-02-02,LangstonSimon@gmail.com,4995099154,520.0, Missouri,20000.0,2004
+Kalani,Shepherd,s5,west,day,M,2001-08-18,KalaniShepherd@gmail.com,6067759929,521.0, Illinois,20000.0,2001
+Ronald,Yu,s6,south,boarding,M,2000-04-06,RonaldYu@gmail.com,4837665441,522.0, Massachusetts,12000.0,2000
+Navy,Chang,s1,north,day,M,2005-01-24,NavyChang@gmail.com,7387611387,523.0, Delaware,20000.0,2005
+Ari,Frank,s3,east,boarding,F,2002-06-13,AriFrank@gmail.com,4955179704,524.0, New Mexico,20000.0,2002
+Dior,Avery,s6,west,boarding,M,2003-10-30,DiorAvery@gmail.com,2642247831,525.0, New Hampshire,20000.0,2003
+Jakari,Abbott,s4,south,boarding,F,2001-07-16,JakariAbbott@gmail.com,2719520743,526.0, Virginia,20000.0,2001
+Melany,Wu,s1,north,day,F,2004-03-01,MelanyWu@gmail.com,3757280874,527.0, North Dakota,20000.0,2004
+Kyson,Zamora,s2,east,day,F,2000-09-22,KysonZamora@gmail.com,8579386698,528.0, Utah,20000.0,2000
+Sierra,Davenport,s4,west,boarding,M,2002-05-05,SierraDavenport@gmail.com,8201500019,529.0, Florida,19000.0,2002
+Dariel,Lester,s5,south,day,F,2004-12-19,DarielLester@gmail.com,9926921779,530.0, North Dakota,20000.0,2004
+Averi,Kelley,s6,north,boarding,M,2001-04-09,AveriKelley@gmail.com,9983108038,531.0, New Jersey,20000.0,2001
+Eric,Bartlett,s1,east,boarding,M,2003-07-28,EricBartlett@gmail.com,4118937586,532.0, New York,20000.0,2003
+Aubrielle,Cole,s3,west,boarding,M,2002-01-15,AubrielleCole@gmail.com,3711303882,533.0, Virginia,20000.0,2002
+Nathaniel,Rosales,s6,south,day,F,2000-11-04,NathanielRosales@gmail.com,4419545503,534.0, New Mexico,20000.0,2000
+Kinley,Sanders,s4,north,day,M,2004-06-20,KinleySanders@gmail.com,7784951219,535.0, Texas,20000.0,2004
+Jose,Myers,s1,east,boarding,F,2003-03-11,JoseMyers@gmail.com,1348836679,536.0, Kansas,20000.0,2003
+Lydia,Eaton,s2,west,day,M,2001-08-26,LydiaEaton@gmail.com,5468265621,537.0, Colorado,20000.0,2001
+Leighton,Singleton,s4,south,boarding,M,2000-05-07,LeightonSingleton@gmail.com,5993886185,538.0, Rhode Island,20000.0,2000
+Malaysia,Ashley,s5,north,boarding,M,2004-02-17,MalaysiaAshley@gmail.com,2865776030,539.0, Alabama,20000.0,2004
+Kylen,Gardner,s6,east,boarding,M,2002-10-31,KylenGardner@gmail.com,6731985134,540.0, Nevada,20000.0,2002
+Jordyn,Dorsey,s1,west,day,F,2003-07-08,JordynDorsey@gmail.com,4687314258,541.0, Idaho,20000.0,2003
+Enoch,Freeman,s3,south,day,M,2000-04-14,EnochFreeman@gmail.com,7038665826,542.0, Vermont,20000.0,2000
+Norah,Baldwin,s6,north,boarding,F,2005-01-23,NorahBaldwin@gmail.com,4783455884,543.0, Maryland,20000.0,2005
+Jaiden,Allen,s4,east,day,F,2001-09-10,JaidenAllen@gmail.com,7239703583,544.0, Kansas,20000.0,2001
+Riley,Small,s1,west,boarding,F,2002-06-03,RileySmall@gmail.com,3051551900,545.0, Kansas,20000.0,2002
+Rudy,Bernal,s2,south,boarding,M,2003-11-19,RudyBernal@gmail.com,7797413270,546.0, Delaware,20000.0,2003
+Emmeline,Leon,s4,north,boarding,F,2000-08-05,EmmelineLeon@gmail.com,1590131527,547.0, New Mexico,20000.0,2000
+Marshall,Herring,s5,east,day,M,2004-03-29,MarshallHerring@gmail.com,4770946515,548.0, Idaho,20000.0,2004
+Denver,Allison,s6,west,day,M,2001-10-16,DenverAllison@gmail.com,2847412181,549.0, Idaho,20000.0,2001
+Dennis,Bartlett,s1,south,boarding,M,2003-07-01,DennisBartlett@gmail.com,4456891994,550.0, Vermont,20000.0,2003
+Aubrielle,Eaton,s3,north,day,F,2002-05-14,AubrielleEaton@gmail.com,7676439433,551.0, Nevada,20000.0,2002
+Leighton,Mercado,s6,east,boarding,M,2004-12-09,LeightonMercado@gmail.com,8443537088,552.0, Pennsylvania,20000.0,2004
+Mckinley,Ramsey,s4,west,boarding,F,2000-08-25,MckinleyRamsey@gmail.com,5318320819,553.0, Pennsylvania,20000.0,2000
+Luciano,Pugh,s1,south,boarding,M,2001-03-12,LucianoPugh@gmail.com,4530693875,554.0, Louisiana,20000.0,2001
+Landry,Rivera,s2,north,day,M,2003-10-28,LandryRivera@gmail.com,4985425329,555.0, Oregon,20000.0,2003
+Charles,Santana,s4,east,day,M,2002-07-06,CharlesSantana@gmail.com,1681121649,556.0, South Carolina,20000.0,2002
+Myra,Alexander,s5,west,boarding,M,2004-02-21,MyraAlexander@gmail.com,5553294607,557.0, Wisconsin,20000.0,2004
+Kingston,Fox,s6,south,day,F,2000-09-18,KingstonFox@gmail.com,3885949601,558.0, New York,20000.0,2000
+Juliette,Erickson,s1,north,boarding,M,2001-06-02,JulietteErickson@gmail.com,2597937390,559.0, Idaho,20000.0,2001
+Johnny,Cisneros,s3,east,boarding,F,2005-01-10,JohnnyCisneros@gmail.com,3298434773,560.0, Indiana,20000.0,2005
+Janelle,Pineda,s6,west,boarding,F,2003-04-24,JanellePineda@gmail.com,8643471956,561.0, Delaware,20000.0,2003
+Gerardo,Booth,s4,south,day,F,2002-08-11,GerardoBooth@gmail.com,9081748045,562.0, Oklahoma,20000.0,2002
+Zariyah,Gray,s1,north,day,M,2000-12-07,ZariyahGray@gmail.com,9556300639,563.0, Indiana,20000.0,2000
+Nicholas,Molina,s2,east,boarding,F,2004-01-30,NicholasMolina@gmail.com,1463122072,564.0, New Hampshire,14000.0,2004
+Alexandria,Pierce,s4,west,day,M,2001-07-15,AlexandriaPierce@gmail.com,6099757281,565.0, Wisconsin,20000.0,2001
+Nicolas,Randall,s5,south,boarding,M,2003-03-03,NicolasRandall@gmail.com,2396718079,566.0, Minnesota,20000.0,2003
+Christina,Singleton,s6,north,boarding,M,2004-10-20,ChristinaSingleton@gmail.com,4120089527,567.0, Iowa,20000.0,2004
+Landyn,Dean,s1,east,boarding,F,2000-06-05,LandynDean@gmail.com,8845734164,568.0, Nevada,20000.0,2000
+Julianna,Ayers,s3,west,day,M,2002-02-23,JuliannaAyers@gmail.com,7003173070,569.0, Montana,20000.0,2002
+Ulises,Douglas,s6,south,day,F,2003-11-09,UlisesDouglas@gmail.com,5581415265,570.0, Vermont,20000.0,2003
+Aniyah,Dixon,s4,north,boarding,M,2001-07-28,AniyahDixon@gmail.com,9506263107,571.0, Illinois,20000.0,2001
+Camden,Ferguson,s1,east,day,M,2004-04-13,CamdenFerguson@gmail.com,7175344240,572.0, Indiana,20000.0,2004
+Juliana,Calhoun,s2,west,boarding,M,2000-09-02,JulianaCalhoun@gmail.com,9214713530,573.0, Minnesota,20000.0,2000
+Gary,Nguyen,s4,south,boarding,M,2002-05-18,GaryNguyen@gmail.com,8909148314,574.0, Oklahoma,20000.0,2002
+Nova,Stewart,s5,north,boarding,F,2003-12-01,NovaStewart@gmail.com,2257000987,575.0, Oregon,20000.0,2003
+Nolan,Savage,s6,east,day,M,2001-08-16,NolanSavage@gmail.com,1324356434,576.0, West Virginia,20000.0,2001
+Louise,Kent,s1,west,day,F,2004-04-06,LouiseKent@gmail.com,9182687337,577.0, Montana,20000.0,2004
+Mekhi,Yoder,s3,south,boarding,F,2002-01-22,MekhiYoder@gmail.com,2966009701,578.0, Minnesota,20000.0,2002
+Emerie,Salazar,s6,north,day,F,2000-06-08,EmerieSalazar@gmail.com,7447931834,579.0, New Jersey,20000.0,2000
+Brody,Pollard,s4,east,boarding,M,2003-02-25,BrodyPollard@gmail.com,8216134655,580.0, Connecticut,20000.0,2003
+Marisol,Potts,s1,west,boarding,F,2002-11-11,MarisolPotts@gmail.com,9293922220,581.0, Alaska,20000.0,2002
+Alfred,Hess,s2,south,boarding,M,2004-08-04,AlfredHess@gmail.com,6945125147,582.0, Nebraska,20000.0,2004
+Kaliyah,Gaines,s4,north,day,M,2001-04-20,KaliyahGaines@gmail.com,6625518823,583.0, South Carolina,20000.0,2001
+Talon,Harding,s5,east,day,M,2000-10-09,TalonHarding@gmail.com,4230270956,584.0, Nebraska,20000.0,2000
+Aniya,Cabrera,s6,west,boarding,F,2003-06-30,AniyaCabrera@gmail.com,1260249403,585.0, Virginia,20000.0,2003
+Cade,Brown,s1,south,day,M,2005-01-14,CadeBrown@gmail.com,5332213160,586.0, West Virginia,20000.0,2005
+Charlotte,McKenzie,s3,north,boarding,F,2001-09-17,CharlotteMcKenzie@gmail.com,3244164944,587.0, South Carolina,20000.0,2001
+Scott,Padilla,s6,east,boarding,M,2002-06-02,ScottPadilla@gmail.com,7438870355,588.0, Kentucky,20000.0,2002
+Maggie,Martinez,s4,west,boarding,M,2003-11-19,MaggieMartinez@gmail.com,4832887075,589.0, South Dakota,20000.0,2003
+Alexander,Hancock,s1,south,day,M,2000-07-05,AlexanderHancock@gmail.com,5919885829,590.0, South Carolina,20000.0,2000
+Katelyn,Reilly,s2,north,day,M,2004-03-24,KatelynReilly@gmail.com,5699685494,591.0, Nebraska,20000.0,2004
+Alvaro,Parker,s4,east,boarding,F,2001-10-11,AlvaroParker@gmail.com,4692570781,592.0, Hawaii,20000.0,2001
+Aubrey,Marks,s5,west,day,M,2003-01-27,AubreyMarks@gmail.com,1193188945,593.0, New York,20000.0,2003
+Amos,Franklin,s6,south,boarding,F,2002-08-13,AmosFranklin@gmail.com,1885324578,594.0, Mississippi,20000.0,2002
+Angela,Lee,s1,north,boarding,F,2004-12-31,AngelaLee@gmail.com,7267007945,595.0, Rhode Island,20000.0,2004
+Jack,Mann,s3,east,boarding,F,2001-06-16,JackMann@gmail.com,3964115242,596.0, South Dakota,20000.0,2001
+Paislee,Barron,s6,west,day,M,2000-03-03,PaisleeBarron@gmail.com,1051463455,597.0, Montana,20000.0,2000
+Dustin,Callahan,s4,south,day,F,2003-10-22,DustinCallahan@gmail.com,5561701745,598.0, Kentucky,20000.0,2003
+Kimber,Molina,s1,north,boarding,M,2002-07-07,KimberMolina@gmail.com,4818324985,599.0, Kentucky,20000.0,2002
+Prince,Holloway,s2,east,day,M,2004-02-25,PrinceHolloway@gmail.com,7337466490,600.0, Tennessee,20000.0,2004
+Mae,Hall,s4,west,boarding,M,2000-08-19,MaeHall@gmail.com,2174582312,601.0, Florida,20000.0,2000
+Thomas,Winters,s5,south,boarding,F,2001-04-09,ThomasWinters@gmail.com,1077306742,602.0, Ohio,20000.0,2001
+Kataleya,McDaniel,s6,north,boarding,M,2003-11-28,KataleyaMcDaniel@gmail.com,5759110842,603.0, Missouri,20000.0,2003
+Major,Thomas,s1,east,day,F,2002-07-15,MajorThomas@gmail.com,5244896133,604.0, Florida,20000.0,2002
+Elizabeth,Harrington,s3,west,day,M,2004-03-05,ElizabethHarrington@gmail.com,3914394281,605.0, Rhode Island,20000.0,2004
+Omari,Ashley,s6,south,boarding,M,2000-09-21,OmariAshley@gmail.com,4845261678,606.0, North Carolina,20000.0,2000
+Khalani,Simon,s4,north,day,M,2001-06-06,KhalaniSimon@gmail.com,7293906956,607.0, West Virginia,20000.0,2001
+Zayne,Kim,s1,east,boarding,M,2002-12-23,ZayneKim@gmail.com,6344668565,608.0, Alabama,20000.0,2002
+Gabriella,Vega,s2,west,boarding,F,2003-11-08,GabriellaVega@gmail.com,4052185944,609.0, Nebraska,20000.0,2003
+Aidan,Huerta,s4,south,boarding,M,2000-04-01,AidanHuerta@gmail.com,4918876657,610.0, Nebraska,20000.0,2000
+Dulce,Salinas,s5,north,day,F,2004-02-17,DulceSalinas@gmail.com,1916697014,611.0, Kansas,20000.0,2004
+Edgar,Short,s6,east,day,F,2001-09-02,EdgarShort@gmail.com,5272626646,612.0, New Hampshire,20000.0,2001
+Cheyenne,Carr,s1,west,boarding,F,2002-05-18,CheyenneCarr@gmail.com,3502213902,613.0, Kentucky,20000.0,2002
+Kash,Bennett,s3,south,day,M,2004-12-13,KashBennett@gmail.com,1628949283,614.0, Minnesota,20000.0,2004
+Josephine,Thompson,s6,north,boarding,F,2000-07-29,JosephineThompson@gmail.com,4930806532,615.0, Virginia,20000.0,2000
+Theodore,Chavez,s4,east,boarding,M,2003-03-16,TheodoreChavez@gmail.com,9946444828,616.0, Arkansas,20000.0,2003
+Nevaeh,Middleton,s1,west,boarding,M,2001-10-10,NevaehMiddleton@gmail.com,3056106357,617.0, Alabama,20000.0,2001
+Misael,McCoy,s2,south,day,M,2004-01-26,MisaelMcCoy@gmail.com,8836726944,618.0, California,20000.0,2004
+Mckenzie,Collins,s4,north,day,F,2002-08-07,MckenzieCollins@gmail.com,8000462443,619.0, Indiana,20000.0,2002
+Miles,Li,s5,east,boarding,M,2000-04-22,MilesLi@gmail.com,1828682485,620.0, Kentucky,20000.0,2000
+Paige,Cherry,s6,west,day,F,2005-01-09,PaigeCherry@gmail.com,3368476792,621.0, Alabama,20000.0,2005
+Rome,Walsh,s1,south,boarding,M,2004-06-14,RomeWalsh@gmail.com,5526708502,622.0, Mississippi,20000.0,2004
+Leia,Ellis,s3,north,boarding,M,2001-02-04,LeiaEllis@gmail.com,9487567278,623.0, South Carolina,20000.0,2001
+Cole,Jarvis,s6,east,boarding,M,2003-10-19,ColeJarvis@gmail.com,4551281604,624.0, Arizona,20000.0,2003
+Elisabeth,Flynn,s4,west,day,M,2001-07-08,ElisabethFlynn@gmail.com,8639748921,625.0, Nebraska,20000.0,2001
+Kannon,Dejesus,s1,south,day,F,2002-03-27,KannonDejesus@gmail.com,7398496820,626.0, Idaho,20000.0,2002
+Julissa,Cohen,s2,north,boarding,M,2000-11-11,JulissaCohen@gmail.com,1563207828,627.0, Texas,20000.0,2000
+Killian,Riley,s4,east,day,F,2003-08-30,KillianRiley@gmail.com,9603810653,628.0, Florida,20000.0,2003
+Kayla,David,s5,west,boarding,F,2002-05-17,KaylaDavid@gmail.com,3519456132,629.0, Indiana,20000.0,2002
+Alonso,Blanchard,s6,south,boarding,F,2004-01-02,AlonsoBlanchard@gmail.com,1660984153,630.0, Tennessee,20000.0,2004
+Layne,Weber,s1,north,boarding,M,2001-09-20,LayneWeber@gmail.com,4892114257,631.0, Colorado,20000.0,2001
+Crew,Hayes,s3,east,day,F,2000-06-06,CrewHayes@gmail.com,6319007424,632.0, Illinois,20000.0,2000
+Iris,Kirk,s6,west,day,M,2003-02-23,IrisKirk@gmail.com,5207254708,633.0, Massachusetts,20000.0,2003
+Alessandro,Goodman,s4,south,boarding,M,2002-11-09,AlessandroGoodman@gmail.com,1620004460,634.0, Oklahoma,20000.0,2002
+Carolina,Pineda,s1,north,day,M,2004-08-05,CarolinaPineda@gmail.com,6418533810,635.0, Rhode Island,20000.0,2004
+Gerardo,Lindsey,s2,east,boarding,F,2001-04-21,GerardoLindsey@gmail.com,6944283308,636.0, Washington,20000.0,2001
+Colette,Prince,s4,west,boarding,M,2000-10-10,ColettePrince@gmail.com,5195566189,637.0, Minnesota,20000.0,2000
+Aron,Choi,s5,south,boarding,F,2003-07-31,AronChoi@gmail.com,3947464533,638.0, Nevada,20000.0,2003
+Karla,Valentine,s6,north,day,M,2002-01-15,KarlaValentine@gmail.com,5935751905,639.0, Arkansas,20000.0,2002
+Demetrius,Booth,s1,east,day,M,2004-06-17,DemetriusBooth@gmail.com,8260044578,640.0, Oklahoma,20000.0,2004
+Zariyah,Morton,s3,west,boarding,M,2001-03-03,ZariyahMorton@gmail.com,8232737162,641.0, North Carolina,20000.0,2001
+Roland,Herrera,s6,south,day,M,2004-01-02,RolandHerrera@gmail.com,3074043540,642.0, North Carolina,20000.0,2004
+Ximena,Hicks,s4,north,boarding,F,2001-10-19,XimenaHicks@gmail.com,8912557930,643.0, Alaska,20000.0,2001
+Maddox,Lynch,s1,east,boarding,M,2000-07-08,MaddoxLynch@gmail.com,7141766332,644.0, Texas,20000.0,2000
+Malia,Mejia,s2,west,boarding,F,2003-02-27,MaliaMejia@gmail.com,1503396646,645.0, Wyoming,20000.0,2003
+Atticus,Cole,s4,south,day,F,2002-01-10,AtticusCole@gmail.com,9854709276,646.0, Indiana,20000.0,2002
+Margaret,McKenzie,s5,north,day,F,2004-08-04,MargaretMcKenzie@gmail.com,8634034363,647.0, Montana,20000.0,2004
+Scott,Stein,s6,east,boarding,M,2001-04-14,ScottStein@gmail.com,5760687906,648.0, Utah,20000.0,2001
+Leilany,Rubio,s1,west,day,F,2000-10-26,LeilanyRubio@gmail.com,6753147850,649.0, Arkansas,20000.0,2000
+Titan,O’Donnell,s3,south,boarding,M,2003-06-05,TitanO’Donnell@gmail.com,4401478249,650.0, Kentucky,20000.0,2003
+Bellamy,Norris,s6,north,boarding,M,2002-12-21,BellamyNorris@gmail.com,8150127423,651.0, Nevada,20000.0,2002
+Cairo,Owen,s4,east,boarding,M,2004-09-17,CairoOwen@gmail.com,1229415093,652.0, Vermont,20000.0,2004
+Mikayla,David,s1,west,day,F,2001-03-03,MikaylaDavid@gmail.com,5086349275,653.0, Texas,20000.0,2001
+Alonso,Juarez,s2,south,day,M,2000-07-29,AlonsoJuarez@gmail.com,7620595503,654.0, Utah,20000.0,2000
+Juliet,Ortega,s4,north,boarding,F,2003-05-11,JulietOrtega@gmail.com,3458016907,655.0, Illinois,20000.0,2003
+Kobe,Montoya,s5,east,day,M,2002-11-08,KobeMontoya@gmail.com,9289136759,656.0, Iowa,20000.0,2002
+Kamryn,Harmon,s6,west,boarding,M,2004-02-02,KamrynHarmon@gmail.com,7372623475,657.0, Louisiana,20000.0,2004
+Roberto,Owen,s1,south,boarding,M,2001-08-18,RobertoOwen@gmail.com,9495902387,658.0, Michigan,20000.0,2001
+Mikayla,Maldonado,s3,north,boarding,M,2000-04-06,MikaylaMaldonado@gmail.com,2144852173,659.0, Oregon,20000.0,2000
+Javier,Stone,s6,east,day,F,2005-01-24,JavierStone@gmail.com,5925295897,660.0, Washington,20000.0,2005
+Catalina,Garrison,s4,west,day,M,2002-06-13,CatalinaGarrison@gmail.com,1042052110,661.0, New Hampshire,20000.0,2002
+Noe,Esparza,s1,south,boarding,F,2003-10-30,NoeEsparza@gmail.com,1323470314,662.0, Massachusetts,20000.0,2003
+Ramona,Jackson,s2,north,day,F,2001-07-16,RamonaJackson@gmail.com,9640996822,663.0, Massachusetts,20000.0,2001
+Sebastian,Anthony,s4,east,boarding,F,2004-03-01,SebastianAnthony@gmail.com,5458435538,664.0, Kansas,20000.0,2004
+Macy,Nolan,s5,west,boarding,M,2000-09-22,MacyNolan@gmail.com,9034615412,665.0, Washington,20000.0,2000
+Maximo,Marks,s6,south,boarding,F,2002-05-05,MaximoMarks@gmail.com,4370358763,666.0, Georgia,20000.0,2002
+Monica,Guevara,s1,north,day,M,2004-12-19,MonicaGuevara@gmail.com,9197968459,667.0, Kentucky,20000.0,2004
+Tommy,McCarty,s3,east,day,M,2001-04-09,TommyMcCarty@gmail.com,3681557488,668.0, Pennsylvania,20000.0,2001
+Halo,Garrison,s6,west,boarding,M,2003-07-28,HaloGarrison@gmail.com,5054574324,669.0, Nevada,20000.0,2003
+Noe,Bell,s4,south,day,F,2002-01-15,NoeBell@gmail.com,5216754668,670.0, Kansas,20000.0,2002
+Melody,English,s1,north,boarding,M,2000-11-04,MelodyEnglish@gmail.com,5985908898,671.0, Nevada,20000.0,2000
+Junior,Costa,s2,east,boarding,F,2004-06-20,JuniorCosta@gmail.com,4727022574,672.0, Massachusetts,20000.0,2004
+Robin,Le,s4,west,boarding,M,2003-03-11,RobinLe@gmail.com,8635204744,673.0, Alabama,20000.0,2003
+Damien,Espinosa,s5,south,day,M,2001-08-26,DamienEspinosa@gmail.com,3875752631,674.0, Rhode Island,20000.0,2001
+Braylee,Goodwin,s6,north,day,M,2000-05-07,BrayleeGoodwin@gmail.com,5062708921,675.0, Utah,20000.0,2000
+Kaison,Williamson,s1,east,boarding,M,2004-02-17,KaisonWilliamson@gmail.com,9962203907,676.0, Florida,20000.0,2004
+Catherine,McFarland,s3,west,day,F,2002-10-31,CatherineMcFarland@gmail.com,5800582588,677.0, Florida,20000.0,2002
+Dane,Browning,s6,south,boarding,M,2003-07-08,DaneBrowning@gmail.com,9696151060,678.0, South Carolina,20000.0,2003
+Princess,Ruiz,s4,north,boarding,F,2000-04-14,PrincessRuiz@gmail.com,4247046500,679.0, Utah,20000.0,2000
+Austin,Berger,s1,east,boarding,F,2005-01-23,AustinBerger@gmail.com,3356596577,680.0, Oregon,20000.0,2005
+Laylah,Lawson,s2,west,day,F,2001-09-10,LaylahLawson@gmail.com,9402349381,681.0, Wyoming,20000.0,2001
+Lane,Christensen,s4,south,day,M,2002-06-03,LaneChristensen@gmail.com,7989100336,682.0, Alabama,20000.0,2002
+Carmen,Ayala,s5,north,boarding,F,2003-11-19,CarmenAyala@gmail.com,8484041570,683.0, Vermont,20000.0,2003
+Tanner,Hensley,s6,east,day,M,2000-08-05,TannerHensley@gmail.com,5995323275,684.0, West Virginia,20000.0,2000
+Malaya,Sellers,s1,west,boarding,M,2004-03-29,MalayaSellers@gmail.com,2096300225,685.0, Alabama,20000.0,2004
+Madden,Burns,s3,south,boarding,M,2001-10-16,MaddenBurns@gmail.com,4501561766,686.0, Wisconsin,20000.0,2001
+Emerson,Gill,s6,north,boarding,F,2003-07-01,EmersonGill@gmail.com,3227838186,687.0, North Carolina,20000.0,2003
+Matthias,Hampton,s4,east,day,M,2002-05-14,MatthiasHampton@gmail.com,3772587444,688.0, Mississippi,20000.0,2002
+Leona,Cline,s1,west,day,F,2004-12-09,LeonaCline@gmail.com,9123595655,689.0, New Hampshire,20000.0,2004
+Cullen,Sheppard,s2,south,boarding,M,2000-08-25,CullenSheppard@gmail.com,4803697019,690.0, Florida,20000.0,2000
+Veda,Friedman,s4,north,day,M,2001-03-12,VedaFriedman@gmail.com,8418357104,691.0, Virginia,20000.0,2001
+Darwin,Vance,s5,east,boarding,M,2003-10-28,DarwinVance@gmail.com,1256080298,692.0, Wisconsin,20000.0,2003
+Maxine,Roach,s6,west,boarding,M,2002-07-06,MaxineRoach@gmail.com,7730966787,693.0, Montana,20000.0,2002
+Caspian,Lowe,s1,south,boarding,F,2004-02-21,CaspianLowe@gmail.com,8757249141,694.0, Connecticut,20000.0,2004
+Amari,Payne,s3,north,day,M,2000-09-18,AmariPayne@gmail.com,9408520247,695.0, Alabama,20000.0,2000
+Edward,Orr,s6,east,day,F,2001-06-02,EdwardOrr@gmail.com,5809784660,696.0, Virginia,20000.0,2001
+Alaiya,Cohen,s4,west,boarding,F,2005-01-10,AlaiyaCohen@gmail.com,5441058422,697.0, Washington,20000.0,2005
+Killian,Lowe,s1,south,day,F,2003-04-24,KillianLowe@gmail.com,1163105062,698.0, Missouri,20000.0,2003
+Amari,Gardner,s2,north,boarding,M,2002-08-11,AmariGardner@gmail.com,3213395294,699.0, Vermont,20000.0,2002
+Alan,Elliott,s4,east,boarding,F,2000-12-07,AlanElliott@gmail.com,5243186750,700.0, Hawaii,20000.0,2000
+Noelle,Morse,s5,west,boarding,M,2004-01-30,NoelleMorse@gmail.com,2108807674,701.0, Tennessee,20000.0,2004
+Bode,Cherry,s6,south,day,M,2001-07-15,BodeCherry@gmail.com,5978824134,702.0, Kansas,20000.0,2001
+Nyomi,Herring,s1,north,day,M,2003-03-03,NyomiHerring@gmail.com,9495407837,703.0, Montana,20000.0,2003
+Henrik,Foster,s3,east,boarding,F,2004-10-20,HenrikFoster@gmail.com,9499729161,704.0, Connecticut,20000.0,2004
+Brielle,Barker,s6,west,day,M,2000-06-05,BrielleBarker@gmail.com,4028805719,705.0, North Dakota,20000.0,2000
+Kade,Hammond,s4,south,boarding,F,2002-02-23,KadeHammond@gmail.com,6734057784,706.0, New Hampshire,20000.0,2002
+Holly,Tapia,s1,north,boarding,M,2003-11-09,HollyTapia@gmail.com,3313611646,707.0, Delaware,20000.0,2003
+Samir,Bailey,s2,east,boarding,M,2001-07-28,SamirBailey@gmail.com,1152590314,708.0, Missouri,20000.0,2001
+Kennedy,Crane,s4,west,day,M,2004-04-13,KennedyCrane@gmail.com,8270693976,709.0, West Virginia,20000.0,2004
+Fox,Keller,s5,south,day,M,2000-09-02,FoxKeller@gmail.com,2997808586,710.0, Ohio,20000.0,2000
+Logan,Stout,s6,north,boarding,F,2002-05-18,LoganStout@gmail.com,4375820528,711.0, Tennessee,20000.0,2002
+Callahan,Swanson,s1,east,day,M,2003-12-01,CallahanSwanson@gmail.com,5612536959,712.0, Connecticut,20000.0,2003
+Helen,Wyatt,s3,west,boarding,F,2001-08-16,HelenWyatt@gmail.com,9296080540,713.0, Montana,20000.0,2001
+Sam,Owen,s6,south,boarding,F,2004-04-06,SamOwen@gmail.com,2251849478,714.0, New Jersey,20000.0,2004
+Mikayla,Sexton,s4,north,boarding,F,2002-01-22,MikaylaSexton@gmail.com,8157791667,715.0, Alabama,20000.0,2002
+Mylo,Ayers,s1,east,day,M,2000-06-08,MyloAyers@gmail.com,6823166986,716.0, Florida,20000.0,2000
+Simone,Booth,s2,west,day,F,2003-02-25,SimoneBooth@gmail.com,8650016784,717.0, New Jersey,20000.0,2003
+Chaim,Lara,s4,south,boarding,M,2002-11-11,ChaimLara@gmail.com,7875829447,718.0, Colorado,20000.0,2002
+Heidi,Fischer,s5,north,day,M,2004-08-04,HeidiFischer@gmail.com,1225518772,719.0, West Virginia,20000.0,2004
+Leonidas,McClure,s6,east,boarding,M,2001-04-20,LeonidasMcClure@gmail.com,7861396064,720.0, Missouri,20000.0,2001
+Estella,Ward,s1,west,boarding,F,2000-10-09,EstellaWard@gmail.com,2816779085,721.0, Arizona,20000.0,2000
+Jameson,Rojas,s3,south,boarding,M,2003-06-30,JamesonRojas@gmail.com,3255845514,722.0, Rhode Island,20000.0,2003
+Adaline,Portillo,s6,north,day,F,2005-01-14,AdalinePortillo@gmail.com,3785742574,723.0, New York,20000.0,2005
+Wallace,Vaughn,s4,east,day,M,2001-09-17,WallaceVaughn@gmail.com,1836101448,724.0, Washington,20000.0,2001
+Reign,Wong,s1,west,boarding,M,2002-06-02,ReignWong@gmail.com,1524504211,725.0, West Virginia,20000.0,2002
+Walter,Ashley,s2,south,day,M,2003-11-19,WalterAshley@gmail.com,4122858638,726.0, Arkansas,20000.0,2003
+Khalani,Mullen,s4,north,boarding,M,2000-07-05,KhalaniMullen@gmail.com,4075964688,727.0, Ohio,20000.0,2000
+Shepard,Solis,s5,east,boarding,F,2004-03-24,ShepardSolis@gmail.com,8723665527,728.0, Arkansas,20000.0,2004
+Miracle,Hurst,s6,west,boarding,M,2001-10-11,MiracleHurst@gmail.com,2669828105,729.0, North Carolina,20000.0,2001
+Neil,Padilla,s1,south,day,F,2003-01-27,NeilPadilla@gmail.com,1956798414,730.0, Wisconsin,20000.0,2003
+Maggie,Cook,s3,north,day,F,2002-08-13,MaggieCook@gmail.com,4866820364,731.0, Maryland,20000.0,2002
+Ezekiel,Miles,s6,east,boarding,F,2004-12-31,EzekielMiles@gmail.com,2251371669,732.0, Michigan,20000.0,2004
+Alessandra,Hampton,s4,west,day,M,2001-06-16,AlessandraHampton@gmail.com,8125243611,733.0, Oregon,20000.0,2001
+Hank,Porter,s1,south,boarding,F,2000-03-03,HankPorter@gmail.com,9230439618,734.0, New Jersey,20000.0,2000
+Ryleigh,Juarez,s2,north,boarding,M,2003-10-22,RyleighJuarez@gmail.com,1548110898,735.0, New Jersey,20000.0,2003
+Joaquin,Crosby,s4,east,boarding,M,2002-07-07,JoaquinCrosby@gmail.com,4177040053,736.0, New Mexico,20000.0,2002
+Keily,Haley,s5,west,day,M,2004-02-25,KeilyHaley@gmail.com,2249555259,737.0, Michigan,20000.0,2004
+Leif,Logan,s6,south,day,F,2000-08-19,LeifLogan@gmail.com,5099502178,738.0, Kentucky,20000.0,2000
+Kora,McKenzie,s1,north,boarding,M,2001-04-09,KoraMcKenzie@gmail.com,1490609572,739.0, Minnesota,20000.0,2001
+Scott,Boyd,s3,east,day,F,2003-11-28,ScottBoyd@gmail.com,8269832467,740.0, Hawaii,20000.0,2003
+Georgia,Olson,s6,west,boarding,M,2002-07-15,GeorgiaOlson@gmail.com,8245656535,741.0, Tennessee,20000.0,2002
+Malachi,Pittman,s4,south,boarding,M,2004-03-05,MalachiPittman@gmail.com,1794675189,742.0, North Carolina,20000.0,2004
+Marie,Lester,s1,north,boarding,M,2000-09-21,MarieLester@gmail.com,8651450613,743.0, Minnesota,20000.0,2000
+Lee,Burton,s2,east,day,M,2001-06-06,LeeBurton@gmail.com,1726903386,744.0, New Jersey,20000.0,2001
+Miriam,Ho,s4,west,day,F,2002-12-23,MiriamHo@gmail.com,8530474960,745.0, Oklahoma,20000.0,2002
+Morgan,Hanna,s5,south,boarding,M,2003-11-08,MorganHanna@gmail.com,8419074849,746.0, Michigan,20000.0,2003
+Cynthia,Burgess,s6,north,day,F,2000-04-01,CynthiaBurgess@gmail.com,2492677879,747.0, Arkansas,20000.0,2000
+Kolton,Lucas,s1,east,boarding,F,2004-02-17,KoltonLucas@gmail.com,9782827557,748.0, Rhode Island,20000.0,2004
+Phoenix,Valencia,s3,west,boarding,F,2001-09-02,PhoenixValencia@gmail.com,9676195160,749.0, New York,20000.0,2001
+Dax,Chandler,s6,south,boarding,M,2002-05-18,DaxChandler@gmail.com,9689759108,750.0, Virginia,20000.0,2002
+Viviana,Carter,s4,north,day,F,2004-12-13,VivianaCarter@gmail.com,9888639498,751.0, Hawaii,20000.0,2004
+Maverick,Shannon,s1,east,day,M,2000-07-29,MaverickShannon@gmail.com,3143283137,752.0, South Dakota,20000.0,2000
+Harlee,Charles,s2,west,boarding,M,2003-03-16,HarleeCharles@gmail.com,7495335610,753.0, Arizona,20000.0,2003
+Conrad,Frost,s4,south,day,F,2001-10-10,ConradFrost@gmail.com,8182631640,754.0, Delaware,20000.0,2001
+Paula,Odom,s5,north,boarding,F,2004-01-26,PaulaOdom@gmail.com,1231123787,755.0, Virginia,20000.0,2004
+Kylian,Middleton,s6,east,boarding,M,2002-08-07,KylianMiddleton@gmail.com,3073142083,756.0, West Virginia,20000.0,2002
+Madalyn,Cuevas,s1,west,boarding,F,2000-04-22,MadalynCuevas@gmail.com,3031791332,757.0, Idaho,20000.0,2000
+Brecken,Chambers,s3,south,day,M,2005-01-09,BreckenChambers@gmail.com,6229748679,758.0, Minnesota,20000.0,2005
+Makayla,Hampton,s6,north,day,M,2004-06-14,MakaylaHampton@gmail.com,9477826022,759.0, Florida,20000.0,2004
+Hank,Lin,s4,east,boarding,M,2001-02-04,HankLin@gmail.com,7144530258,760.0, North Carolina,20000.0,2001
+Makenna,Hurst,s1,west,day,M,2003-10-19,MakennaHurst@gmail.com,5538986577,761.0, Idaho,20000.0,2003
+Neil,Mathis,s2,south,boarding,F,2001-07-08,NeilMathis@gmail.com,8273140930,762.0, Tennessee,20000.0,2001
+Anne,Berger,s4,north,boarding,M,2002-03-27,AnneBerger@gmail.com,9668730895,763.0, South Carolina,20000.0,2002
+Byron,Hines,s5,east,boarding,F,2000-11-11,ByronHines@gmail.com,1698428454,764.0, Kentucky,20000.0,2000
+Poppy,Andrews,s6,west,day,F,2003-08-30,PoppyAndrews@gmail.com,2851892220,765.0, Georgia,20000.0,2003
+Lukas,Raymond,s1,south,day,F,2002-05-17,LukasRaymond@gmail.com,8347722838,766.0, Colorado,20000.0,2002
+Hadlee,Murphy,s3,north,boarding,M,2004-01-02,HadleeMurphy@gmail.com,2360467132,767.0, New York,20000.0,2004
+Cameron,Graham,s6,east,day,F,2001-09-20,CameronGraham@gmail.com,5544371558,768.0, Virginia,20000.0,2001
+Alaia,Cardenas,s4,west,boarding,M,2000-06-06,AlaiaCardenas@gmail.com,4790064708,769.0, Nevada,20000.0,2000
+Johnathan,West,s1,south,boarding,M,2003-02-23,JohnathanWest@gmail.com,6913948357,770.0, Connecticut,20000.0,2003
+Remi,Nelson,s2,north,boarding,M,2002-11-09,RemiNelson@gmail.com,9296983748,771.0, Kentucky,20000.0,2002
+Dylan,McClure,s4,east,day,F,2004-08-05,DylanMcClure@gmail.com,7938842594,772.0, Colorado,20000.0,2004
+Estella,Hayden,s5,west,day,M,2001-04-21,EstellaHayden@gmail.com,5910785181,773.0, Arkansas,20000.0,2001
+Leroy,Perry,s6,south,boarding,F,2000-10-10,LeroyPerry@gmail.com,9814067268,774.0, Arizona,20000.0,2000
+Clara,Carrillo,s1,north,day,M,2003-07-31,ClaraCarrillo@gmail.com,1271482158,775.0, Kansas,20000.0,2003
+Wade,Hurst,s3,east,boarding,M,2002-01-15,WadeHurst@gmail.com,2750315376,776.0, New Mexico,20000.0,2002
+Adalee,Jacobson,s6,west,boarding,M,2004-06-17,AdaleeJacobson@gmail.com,8811966995,777.0, New Jersey,20000.0,2004
+Legacy,Mejia,s4,south,boarding,M,2001-03-03,LegacyMejia@gmail.com,3682632006,778.0, New Hampshire,20000.0,2001
+Saylor,Magana,s1,north,day,F,2002-11-22,SaylorMagana@gmail.com,3667822708,779.0, Hawaii,20000.0,2002
+Rey,Montes,s2,east,day,M,2000-08-07,ReyMontes@gmail.com,5988894729,780.0, North Dakota,20000.0,2000
+Roselyn,Rubio,s4,west,boarding,F,2003-04-24,RoselynRubio@gmail.com,8102758933,781.0, Florida,20000.0,2003
+Titan,Wheeler,s5,south,day,F,2005-01-12,TitanWheeler@gmail.com,1891919446,782.0, North Carolina,20000.0,2005
+Sydney,Yang,s6,north,boarding,F,2002-06-28,SydneyYang@gmail.com,1384389057,783.0, Arkansas,20000.0,2002
+Malcolm,Hinton,s1,east,boarding,M,2003-11-13,MalcolmHinton@gmail.com,6255416632,784.0, Florida,20000.0,2003
+Jaelynn,Robinson,s3,west,boarding,F,2001-07-03,JaelynnRobinson@gmail.com,2818430484,785.0, Massachusetts,20000.0,2001
+Matthew,Yoder,s6,south,day,M,2004-03-19,MatthewYoder@gmail.com,4124066413,786.0, South Dakota,20000.0,2004
+Emerie,Washington,s4,north,day,M,2000-10-09,EmerieWashington@gmail.com,3908076113,787.0, North Carolina,20000.0,2000
+Juan,Bradshaw,s1,east,boarding,M,2003-02-26,JuanBradshaw@gmail.com,5313504850,788.0, Texas,20000.0,2003
+Berkley,Fletcher,s2,west,day,F,2002-08-11,BerkleyFletcher@gmail.com,8450327163,789.0, Pennsylvania,20000.0,2002
+Jay,Ramos,s4,south,boarding,M,2004-12-05,JayRamos@gmail.com,2152603153,790.0, Hawaii,20000.0,2004
+Alice,Ballard,s5,north,boarding,F,2001-06-21,AliceBallard@gmail.com,3222979238,791.0, Virginia,20000.0,2001
+Kenzo,Harrington,s6,east,boarding,M,2004-03-30,KenzoHarrington@gmail.com,1866071419,792.0, Alaska,20000.0,2004
+Legacy,Estrada,s1,west,day,M,2001-10-15,LegacyEstrada@gmail.com,9598374336,793.0, Massachusetts,20000.0,2001
+Phoenix,Gill,s3,south,day,F,2003-07-01,PhoenixGill@gmail.com,3634152455,794.0, Hawaii,20000.0,2003
+Jordan,Butler,s6,north,boarding,M,2002-05-16,JordanButler@gmail.com,7369332849,795.0, Illinois,20000.0,2002
+Ryder,Magana,s4,east,day,F,2003-12-10,RyderMagana@gmail.com,6778129111,796.0, Iowa,20000.0,2003
+Amaris,Bryant,s1,west,boarding,M,2000-08-25,AmarisBryant@gmail.com,7039779994,797.0, Arkansas,20000.0,2000
+Jonah,Eaton,s2,south,boarding,F,2001-03-12,JonahEaton@gmail.com,8246876338,798.0, Washington,20000.0,2001
+Miley,Malone,s4,north,boarding,F,2003-10-28,MileyMalone@gmail.com,6844133761,799.0, Virginia,20000.0,2003
+Ruben,McLaughlin,s5,east,day,F,2002-07-06,RubenMcLaughlin@gmail.com,8375850275,800.0, North Carolina,20000.0,2002
+Stephanie,Bell,s6,west,day,M,2004-02-21,StephanieBell@gmail.com,7340385755,801.0, Nevada,20000.0,2004
+Emmett,Casey,s1,south,boarding,F,2000-09-18,EmmettCasey@gmail.com,1426372022,802.0, Kansas,20000.0,2000
+Sylvia,James,s3,north,day,F,2001-06-02,SylviaJames@gmail.com,9868246654,803.0, West Virginia,20000.0,2001
+Jaxson,Manning,s6,east,boarding,M,2005-01-10,JaxsonManning@gmail.com,8224461912,804.0, Washington,20000.0,2005
+Jennifer,O’brien,s4,west,boarding,M,2003-04-24,JenniferO’brien@gmail.com,4008158710,805.0, North Carolina,20000.0,2003
+Riley,Person,s1,south,boarding,F,2002-08-11,RileyPerson@gmail.com,8302701192,806.0, Maryland,20000.0,2002
+Dylan,Goodwin,s2,north,day,M,2000-12-07,DylanGoodwin@gmail.com,1363526628,807.0, Florida,20000.0,2000
+Kaison,Dorsey,s4,east,day,F,2004-01-30,KaisonDorsey@gmail.com,5042596589,808.0, Kansas,20000.0,2004
+Addyson,Farrell,s5,west,boarding,M,2001-07-15,AddysonFarrell@gmail.com,4805097759,809.0, Arizona,20000.0,2001
+Ty,Marsh,s6,south,day,M,2003-03-03,TyMarsh@gmail.com,8091915612,810.0, Missouri,20000.0,2003
+Adelina,Charles,s1,north,boarding,M,2004-10-20,AdelinaCharles@gmail.com,2059107990,811.0, Maine,20000.0,2004
+Conrad,Acosta,s3,east,boarding,M,2000-06-05,ConradAcosta@gmail.com,3369240309,812.0, South Dakota,20000.0,2000
+Kaia,Orr,s6,west,boarding,F,2002-02-23,KaiaOrr@gmail.com,1575013582,813.0, Kentucky,20000.0,2002
+Benicio,Gonzales,s4,south,day,M,2003-11-09,BenicioGonzales@gmail.com,2768541163,814.0, South Carolina,20000.0,2003
+Hadley,Mendez,s1,north,day,F,2001-07-28,HadleyMendez@gmail.com,5030440948,815.0, New Jersey,20000.0,2001
+Arthur,Conner,s2,east,boarding,F,2004-04-13,ArthurConner@gmail.com,7526095962,816.0, Oregon,20000.0,2004
+Alondra,Phan,s4,west,day,F,2000-09-02,AlondraPhan@gmail.com,8312242918,817.0, Hawaii,20000.0,2000
+Maison,Arroyo,s5,south,boarding,M,2002-05-18,MaisonArroyo@gmail.com,1047369083,818.0, New Mexico,20000.0,2002
+Kyra,O’brien,s6,north,boarding,F,2003-12-01,KyraO’brien@gmail.com,5136806227,819.0, New Hampshire,20000.0,2003
+Riley,Harding,s1,east,boarding,M,2001-08-16,RileyHarding@gmail.com,3399938364,820.0, New Mexico,20000.0,2001
+Aniya,Fischer,s3,west,day,M,2004-04-06,AniyaFischer@gmail.com,4099893270,821.0, Florida,20000.0,2004
+Leonidas,Hunt,s6,south,day,M,2002-01-22,LeonidasHunt@gmail.com,1519488661,822.0, Alabama,20000.0,2002
+Genevieve,Chambers,s4,north,boarding,F,2000-06-08,GenevieveChambers@gmail.com,2269221681,823.0, New York,20000.0,2000
+Orion,Villarreal,s1,east,day,M,2003-02-25,OrionVillarreal@gmail.com,1163774524,824.0, New Mexico,20000.0,2003
+Jazlyn,Frederick,s2,west,boarding,F,2002-11-11,JazlynFrederick@gmail.com,7369490523,825.0, New Jersey,20000.0,2002
+Kase,Delacruz,s4,south,boarding,M,2004-08-04,KaseDelacruz@gmail.com,2863727435,826.0, Colorado,20000.0,2004
+Celine,Freeman,s5,north,boarding,M,2001-04-20,CelineFreeman@gmail.com,7261229187,827.0, Arizona,20000.0,2001
+Jayce,Weber,s6,east,day,M,2000-10-09,JayceWeber@gmail.com,2921400117,828.0, Kentucky,20000.0,2000
+Alayah,Olsen,s1,west,day,M,2003-06-30,AlayahOlsen@gmail.com,1628982541,829.0, Oklahoma,20000.0,2003
+Skyler,Phillips,s3,south,boarding,F,2005-01-14,SkylerPhillips@gmail.com,9143598331,830.0, Texas,20000.0,2005
+Naomi,Day,s6,north,day,M,2001-09-17,NaomiDay@gmail.com,3908028602,831.0, Illinois,20000.0,2001
+Kayson,Giles,s4,east,boarding,F,2002-06-02,KaysonGiles@gmail.com,8256052352,832.0, Illinois,20000.0,2002
+Bailee,Palmer,s1,west,boarding,F,2003-11-19,BaileePalmer@gmail.com,9238733568,833.0, South Carolina,20000.0,2003
+Theo,Hayden,s2,south,boarding,F,2000-07-05,TheoHayden@gmail.com,4542356061,834.0, Utah,20000.0,2000
+Avayah,Cook,s4,north,day,M,2004-03-24,AvayahCook@gmail.com,4189969294,835.0, Florida,20000.0,2004
+Ezekiel,Roy,s5,east,day,F,2001-10-11,EzekielRoy@gmail.com,6848647513,836.0, Georgia,20000.0,2001
+Savanna,Sellers,s6,west,boarding,M,2003-01-27,SavannaSellers@gmail.com,5024695792,837.0, Wyoming,20000.0,2003
+Madden,Hutchinson,s1,south,day,M,2002-08-13,MaddenHutchinson@gmail.com,3737802309,838.0, West Virginia,20000.0,2002
+Jamie,Jordan,s3,north,boarding,M,2004-12-31,JamieJordan@gmail.com,8943455256,839.0, Kansas,20000.0,2004
+Sawyer,Lin,s6,east,boarding,F,2001-06-16,SawyerLin@gmail.com,4489559740,840.0, Vermont,20000.0,2001
+Makenna,Mercado,s4,west,boarding,M,2000-03-03,MakennaMercado@gmail.com,6557251226,841.0, Arizona,20000.0,2000
+Abram,Hobbs,s1,south,day,M,2003-10-22,AbramHobbs@gmail.com,5618691385,842.0, Maryland,20000.0,2003
+Lacey,Villegas,s2,north,day,M,2002-07-07,LaceyVillegas@gmail.com,1637279865,843.0, New Hampshire,20000.0,2002
+Clyde,Phan,s4,east,boarding,F,2004-02-25,ClydePhan@gmail.com,5991161692,844.0, Pennsylvania,20000.0,2004
+Elsa,Small,s5,west,day,M,2000-08-19,ElsaSmall@gmail.com,8559080229,845.0, Kansas,20000.0,2000
+Rudy,Sellers,s6,south,boarding,M,2001-04-09,RudySellers@gmail.com,8976312618,846.0, Georgia,20000.0,2001
+Mercy,Bentley,s1,north,boarding,F,2003-11-28,MercyBentley@gmail.com,1723713626,847.0, Vermont,20000.0,2003
+Zahra,Gordon,s6,west,day,F,2004-03-05,ZahraGordon@gmail.com,9748690383,849.0, Georgia,20000.0,2004
+Karter,Cook,s4,south,day,F,2000-09-21,KarterCook@gmail.com,1231649991,850.0, California,20000.0,2000
+Aaliyah,Flores,s1,north,boarding,F,2001-06-06,AaliyahFlores@gmail.com,4919047097,851.0, Wisconsin,20000.0,2001
+Lincoln,Farley,s2,east,day,M,2002-12-23,LincolnFarley@gmail.com,7075981368,852.0, Arizona,20000.0,2002
+Wrenley,Phillips,s4,west,boarding,F,2003-11-08,WrenleyPhillips@gmail.com,7422183762,853.0, Pennsylvania,20000.0,2003
+Andrew,Briggs,s5,south,boarding,M,2000-04-01,AndrewBriggs@gmail.com,1598841230,854.0, Iowa,20000.0,2000
+Alia,Horne,s6,north,boarding,M,2004-02-17,AliaHorne@gmail.com,5612308368,855.0, North Carolina,20000.0,2004
+Zev,Hudson,s1,east,day,M,2001-09-02,ZevHudson@gmail.com,3955377885,856.0, Rhode Island,20000.0,2001
+Kamila,Russo,s3,west,day,F,2002-05-18,KamilaRusso@gmail.com,3467421415,857.0, Alaska,20000.0,2002
+Jamie,Valentine,s6,south,boarding,F,2004-12-13,JamieValentine@gmail.com,4865149084,858.0, Oklahoma,20000.0,2004
+Jedidiah,Potter,s1,east,boarding,M,2003-03-16,JedidiahPotter@gmail.com,4661625127,860.0, Mississippi,20000.0,2003
+Rory,Montgomery,s2,west,boarding,M,2001-10-10,RoryMontgomery@gmail.com,4975029441,861.0, Montana,20000.0,2001
+Maximiliano,Montoya,s4,south,boarding,M,2004-01-26,MaximilianoMontoya@gmail.com,2292924726,862.0, Colorado,20000.0,2004
+Kamryn,Truong,s5,north,day,M,2002-08-07,KamrynTruong@gmail.com,7945624587,863.0, New Hampshire,20000.0,2002
+Ayan,Chan,s6,east,day,F,2000-04-22,AyanChan@gmail.com,9933544452,864.0, North Carolina,20000.0,2000
+Hattie,Castro,s1,west,boarding,M,2005-01-09,HattieCastro@gmail.com,5562723308,865.0, Idaho,20000.0,2005
+Jasper,Savage,s3,south,day,F,2004-06-14,JasperSavage@gmail.com,1810974502,866.0, Kentucky,20000.0,2004
+Louise,Blackburn,s6,north,boarding,F,2001-02-04,LouiseBlackburn@gmail.com,6057415167,867.0, South Dakota,20000.0,2001
+Zahir,Olsen,s4,east,boarding,F,2003-10-19,ZahirOlsen@gmail.com,6304159212,868.0, Maine,20000.0,2003
+Oaklyn,Higgins,s1,west,boarding,M,2001-07-08,OaklynHiggins@gmail.com,1641876807,869.0, Virginia,20000.0,2001
+Sterling,Bryant,s2,south,day,F,2002-03-27,SterlingBryant@gmail.com,8197450005,870.0, Virginia,20000.0,2002
+Parker,Cardenas,s4,north,day,M,2000-11-11,ParkerCardenas@gmail.com,7600230934,871.0, Florida,20000.0,2000
+Johnathan,Waller,s5,east,boarding,M,2003-08-30,JohnathanWaller@gmail.com,8803835274,872.0, Iowa,20000.0,2003
+Whitley,Garrett,s6,west,day,M,2002-05-17,WhitleyGarrett@gmail.com,7882923126,873.0, Rhode Island,20000.0,2002
+Kairo,Craig,s1,south,boarding,F,2004-01-02,KairoCraig@gmail.com,9700362280,874.0, Oklahoma,20000.0,2004
+Brynn,Peralta,s3,north,boarding,M,2001-09-20,BrynnPeralta@gmail.com,4171784190,875.0, Louisiana,20000.0,2001
+Dangelo,Ford,s6,east,boarding,F,2000-06-06,DangeloFord@gmail.com,3686095111,876.0, California,20000.0,2000
+Alexandra,Boyle,s4,west,day,M,2003-02-23,AlexandraBoyle@gmail.com,1411156808,877.0, Vermont,20000.0,2003
+Robin,Stout,s1,south,day,M,2002-11-09,RobinStout@gmail.com,5571915447,878.0, Rhode Island,20000.0,2002
+Chana,Cisneros,s2,north,boarding,M,2004-08-05,ChanaCisneros@gmail.com,9037011373,879.0, Maine,20000.0,2004
+Alden,Kramer,s4,east,day,M,2001-04-21,AldenKramer@gmail.com,7832532583,880.0, Washington,20000.0,2001
+Hanna,Hayes,s5,west,boarding,F,2000-10-10,HannaHayes@gmail.com,3319979718,881.0, Utah,20000.0,2000
+Legend,Medrano,s6,south,boarding,M,2003-07-31,LegendMedrano@gmail.com,2504907186,882.0, Hawaii,20000.0,2003
+Halle,Taylor,s1,north,boarding,F,2002-01-15,HalleTaylor@gmail.com,5722678551,883.0, Maryland,20000.0,2002
+Jackson,Corona,s3,east,day,F,2004-06-17,JacksonCorona@gmail.com,1045064299,884.0, Texas,20000.0,2004
+Marianna,Harding,s6,west,day,F,2001-03-03,MariannaHarding@gmail.com,3221421231,885.0, Montana,20000.0,2001
+Brodie,Johnson,s4,south,boarding,M,2002-11-22,BrodieJohnson@gmail.com,3098320302,886.0, West Virginia,20000.0,2002
+Emma,Finley,s1,north,day,F,2000-08-07,EmmaFinley@gmail.com,8774585534,887.0, Kansas,20000.0,2000
+Calum,Powers,s2,east,boarding,M,2003-04-24,CalumPowers@gmail.com,5565838165,888.0, Maryland,20000.0,2003
+Michelle,Austin,s4,west,boarding,M,2005-01-12,MichelleAustin@gmail.com,9771230725,889.0, Mississippi,20000.0,2005
+Omar,Gardner,s5,south,boarding,M,2002-06-28,OmarGardner@gmail.com,7004407914,890.0, Rhode Island,20000.0,2002
+Jordyn,Vaughan,s6,north,day,F,2003-11-13,JordynVaughan@gmail.com,8622685396,891.0, South Dakota,20000.0,2003
+Castiel,Morrow,s1,east,day,M,2001-07-03,CastielMorrow@gmail.com,5333445484,892.0, Arkansas,20000.0,2001
+Reyna,Kirby,s3,west,boarding,F,2004-03-19,ReynaKirby@gmail.com,6279010908,893.0, Alaska,20000.0,2004
+Tony,Yates,s6,south,day,M,2000-10-09,TonyYates@gmail.com,1822495136,894.0, Delaware,20000.0,2000
+Charley,Cantu,s4,north,boarding,M,2003-02-26,CharleyCantu@gmail.com,6679133003,895.0, Iowa,20000.0,2003
+Anakin,Day,s1,east,boarding,M,2002-08-11,AnakinDay@gmail.com,1249793406,896.0, Florida,20000.0,2002
+Hayden,Roberson,s2,west,boarding,M,2004-12-05,HaydenRoberson@gmail.com,3899464767,897.0, Rhode Island,20000.0,2004
+Shepherd,Burch,s4,south,day,F,2001-06-21,ShepherdBurch@gmail.com,4998545116,898.0, Oklahoma,20000.0,2001
+Freyja,Hughes,s5,north,day,M,2004-03-30,FreyjaHughes@gmail.com,6703956642,899.0, Nebraska,20000.0,2004
+Everett,Pratt,s6,east,boarding,F,2001-10-15,EverettPratt@gmail.com,3348090891,900.0, Oregon,20000.0,2001
+Ailani,Patrick,s1,west,day,F,2003-07-01,AilaniPatrick@gmail.com,2012346981,901.0, Georgia,20000.0,2003
+Dakota,Felix,s6,north,boarding,M,2003-12-10,DakotaFelix@gmail.com,8682063665,903.0, Missouri,20000.0,2003
+Rodney,Koch,s4,east,boarding,F,2000-08-25,RodneyKoch@gmail.com,1854971594,904.0, Wyoming,20000.0,2000
+Milana,Wilkinson,s1,west,day,M,2001-03-12,MilanaWilkinson@gmail.com,7638793946,905.0, Washington,15000.0,2001
+Leonard,Snyder,s2,south,day,M,2003-10-28,LeonardSnyder@gmail.com,5652098164,906.0, Colorado,20000.0,2003
+Callie,Daniels,s4,north,boarding,M,2002-07-06,CallieDaniels@gmail.com,3607527899,907.0, New York,20000.0,2002
+Xander,Harris,s5,east,day,F,2004-02-21,XanderHarris@gmail.com,2284981126,908.0, Connecticut,20000.0,2004
+Penelope,Trevino,s6,west,boarding,M,2000-09-18,PenelopeTrevino@gmail.com,9200217861,909.0, New Hampshire,20000.0,2000
+Jaime,Holt,s1,south,boarding,F,2001-06-02,JaimeHolt@gmail.com,9347177302,910.0, Texas,20000.0,2001
+Adelynn,Nielsen,s3,north,boarding,M,2005-01-10,AdelynnNielsen@gmail.com,2639877769,911.0, South Dakota,20000.0,2005
+Tru,Flores,s6,east,day,M,2003-04-24,TruFlores@gmail.com,3920118525,912.0, Oklahoma,20000.0,2003
+Emilia,Franco,s4,west,day,M,2002-08-11,EmiliaFranco@gmail.com,7018441612,913.0, Nebraska,20000.0,2002
+Gage,Nelson,s1,south,boarding,M,2000-12-07,GageNelson@gmail.com,5439681825,914.0, Oklahoma,20000.0,2000
+Everly,Bradshaw,s2,north,day,F,2004-01-30,EverlyBradshaw@gmail.com,1813685512,915.0, Florida,20000.0,2004
+Emory,Daugherty,s4,east,boarding,M,2001-07-15,EmoryDaugherty@gmail.com,7604592194,916.0, Wisconsin,20000.0,2001
+Magdalena,Villa,s5,west,boarding,F,2003-03-03,MagdalenaVilla@gmail.com,3307977457,917.0, Ohio,20000.0,2003
+Clay,Rice,s6,south,boarding,F,2004-10-20,ClayRice@gmail.com,5387739629,918.0, Oklahoma,20000.0,2004
+Ada,Horn,s1,north,day,F,2000-11-11,AdaHorn@gmail.com,7375236997,919.0, Alabama,20000.0,2000
+Wilson,Ramsey,s3,east,day,M,2003-08-30,WilsonRamsey@gmail.com,8279450860,920.0, Iowa,20000.0,2003
+Lyric,Douglas,s6,west,boarding,F,2002-05-17,LyricDouglas@gmail.com,6909981943,921.0, Oklahoma,20000.0,2002
+Derek,Rasmussen,s4,south,day,M,2004-01-02,DerekRasmussen@gmail.com,3569763539,922.0, Montana,20000.0,2004
+Keanu,Alfaro,s2,east,boarding,M,2000-06-06,KeanuAlfaro@gmail.com,2879074945,924.0, Nevada,20000.0,2000
+Yasmin,Winters,s4,west,boarding,F,2003-02-23,YasminWinters@gmail.com,7950644817,925.0, Idaho,20000.0,2003
+Deandre,Drake,s5,south,day,M,2002-11-09,DeandreDrake@gmail.com,9799322298,926.0, Kentucky,20000.0,2002
+Jayleen,Frye,s6,north,day,F,2004-08-05,JayleenFrye@gmail.com,4642886444,927.0, Illinois,20000.0,2004
+Franco,Montes,s1,east,boarding,M,2001-04-21,FrancoMontes@gmail.com,7135288835,928.0, South Dakota,20000.0,2001
+Roselyn,Eaton,s3,west,day,M,2000-10-10,RoselynEaton@gmail.com,4090445502,929.0, New Jersey,20000.0,2000
+Leighton,Chung,s6,south,boarding,M,2003-07-31,LeightonChung@gmail.com,7784969577,930.0, Hawaii,20000.0,2003
+Rivka,Wolfe,s4,north,boarding,M,2002-01-15,RivkaWolfe@gmail.com,9580555141,931.0, Kansas,20000.0,2002
+Donovan,Collier,s1,east,boarding,F,2004-06-17,DonovanCollier@gmail.com,5855538818,932.0, Michigan,20000.0,2004
+Ivory,Valencia,s2,west,day,F,2001-03-03,IvoryValencia@gmail.com,6066305976,933.0, Wisconsin,20000.0,2001
+Dax,Gonzales,s4,south,day,F,2002-11-22,DaxGonzales@gmail.com,8481920704,934.0, Arkansas,20000.0,2002
+Noah,Hess,s6,east,day,F,2003-04-24,NoahHess@gmail.com,5869374633,936.0, Colorado,20000.0,2003
+Kaliyah,Barron,s1,west,boarding,M,2005-01-12,KaliyahBarron@gmail.com,2679389591,937.0, Montana,20000.0,2005
+Dustin,Townsend,s3,south,boarding,F,2002-06-28,DustinTownsend@gmail.com,6288091420,938.0, New York,20000.0,2002
+Azalea,Wilcox,s6,north,boarding,M,2003-11-13,AzaleaWilcox@gmail.com,2551684279,939.0, Indiana,20000.0,2003
+Jerry,Perez,s4,east,day,M,2001-07-03,JerryPerez@gmail.com,5697478233,940.0, Georgia,20000.0,2001
+Eleanor,Gray,s1,west,day,M,2004-03-19,EleanorGray@gmail.com,6081996029,941.0, New Mexico,20000.0,2004
+Nicholas,Serrano,s2,south,boarding,M,2000-10-09,NicholasSerrano@gmail.com,9078063052,942.0, North Carolina,20000.0,2000
+Allie,Salgado,s4,north,day,M,2003-02-26,AllieSalgado@gmail.com,2331199949,943.0, Kentucky,20000.0,2003
+Trace,Koch,s5,east,boarding,F,2002-08-11,TraceKoch@gmail.com,7057728103,944.0, Texas,20000.0,2002
+Luciano,Mercado,s1,south,boarding,M,2001-06-21,LucianoMercado@gmail.com,8414761007,946.0, Washington,20000.0,2001
+Mckinley,Ramos,s3,north,day,M,2004-03-30,MckinleyRamos@gmail.com,7970241228,947.0, Delaware,20000.0,2004
+Angel,Fuentes,s6,east,day,F,2001-10-15,AngelFuentes@gmail.com,5582828651,948.0, South Carolina,20000.0,2001
+Madeleine,Warren,s4,west,boarding,F,2003-07-01,MadeleineWarren@gmail.com,5093620733,949.0, Delaware,20000.0,2003
+Abel,Meadows,s1,south,day,M,2002-05-16,AbelMeadows@gmail.com,5844256890,950.0, Delaware,20000.0,2002
+Pearl,Frazier,s2,north,boarding,F,2003-12-10,PearlFrazier@gmail.com,6297805292,951.0, Nebraska,20000.0,2003
+Callum,Yoder,s4,east,boarding,F,2000-08-25,CallumYoder@gmail.com,8091857046,952.0, Arkansas,20000.0,2000
+Emerie,Combs,s5,west,boarding,F,2001-03-12,EmerieCombs@gmail.com,1115914466,953.0, Florida,20000.0,2001
+Ahmad,Blanchard,s6,south,day,M,2003-10-28,AhmadBlanchard@gmail.com,7466367500,954.0, South Dakota,20000.0,2003
+Layne,Giles,s1,north,day,F,2002-07-06,LayneGiles@gmail.com,1707592186,955.0, Minnesota,20000.0,2002
+Kole,Suarez,s3,east,boarding,M,2004-02-21,KoleSuarez@gmail.com,4601336846,956.0, Utah,20000.0,2004
+Jimena,Nash,s6,west,day,F,2000-09-18,JimenaNash@gmail.com,2537575256,957.0, Arizona,20000.0,2000
+Chandler,Fuentes,s4,south,boarding,M,2001-06-02,ChandlerFuentes@gmail.com,9084323489,958.0, Montana,20000.0,2001
+Madeleine,Brown,s1,north,boarding,F,2005-01-10,MadeleineBrown@gmail.com,5947006285,959.0, Missouri,20000.0,2005
+Elijah,Rogers,s2,east,boarding,M,2003-04-24,ElijahRogers@gmail.com,5823956910,960.0, South Carolina,20000.0,2003
+Madelyn,Carrillo,s4,west,day,F,2002-08-11,MadelynCarrillo@gmail.com,1524067908,961.0, Arizona,20000.0,2002
+Wade,Larson,s5,south,day,M,2000-12-07,WadeLarson@gmail.com,6166395929,962.0, South Carolina,20000.0,2000
+Alayna,Raymond,s6,north,boarding,M,2004-01-30,AlaynaRaymond@gmail.com,3705903901,963.0, Oregon,20000.0,2004
+Maurice,Lindsey,s1,east,day,M,2001-07-15,MauriceLindsey@gmail.com,1880414094,964.0, Oregon,20000.0,2001
+Colette,Armstrong,s3,west,boarding,M,2003-03-03,ColetteArmstrong@gmail.com,1797076799,965.0, New Jersey,20000.0,2003
+Grant,Walsh,s6,south,boarding,F,2004-10-20,GrantWalsh@gmail.com,5135639228,966.0, Massachusetts,20000.0,2004
+Leia,Patel,s4,north,boarding,F,2003-04-24,LeiaPatel@gmail.com,3259735910,967.0, Ohio,20000.0,2003
+Parker,Friedman,s1,east,day,M,2002-08-11,ParkerFriedman@gmail.com,5044610047,968.0, Mississippi,20000.0,2002
+Aspyn,Taylor,s2,west,day,F,2000-12-07,AspynTaylor@gmail.com,5836435225,969.0, Pennsylvania,20000.0,2000
+Jackson,Morton,s4,south,boarding,F,2004-01-30,JacksonMorton@gmail.com,5487564426,970.0, Florida,20000.0,2004
+Mallory,Gill,s5,north,day,M,2001-07-15,MalloryGill@gmail.com,4039121920,971.0, Florida,20000.0,2001
+Matthias,Sharp,s6,east,boarding,F,2003-03-03,MatthiasSharp@gmail.com,6893917057,972.0, Hawaii,20000.0,2003
+Camryn,Fuller,s1,west,boarding,M,2004-10-20,CamrynFuller@gmail.com,7110924006,973.0, Minnesota,20000.0,2004
+Andre,Guerrero,s3,south,boarding,M,2003-12-04,AndreGuerrero@gmail.com,1476239758,974.0, Vermont,20000.0,2003
+Margot,Baker,s6,north,day,M,2000-04-20,MargotBaker@gmail.com,5158241029,975.0, Iowa,20000.0,2000
+Ezra,Johnson,s4,east,day,M,2005-01-09,EzraJohnson@gmail.com,6440113150,976.0, Massachusetts,20000.0,2005
+Emma,Cooper,s1,west,boarding,M,2004-06-12,EmmaCooper@gmail.com,6622873329,977.0, Alabama,20000.0,2004
+Jonathan,O’Connell,s2,south,day,F,2001-11-01,JonathanO’Connell@gmail.com,9365056022,978.0, Hawaii,20000.0,2001
+Jillian,Blackburn,s4,north,boarding,M,2000-08-23,JillianBlackburn@gmail.com,4548902756,979.0, Wyoming,20000.0,2000
+Zahir,McIntosh,s5,east,boarding,M,2003-03-07,ZahirMcIntosh@gmail.com,1856734227,980.0, Arkansas,20000.0,2003
+Gwen,Boyer,s6,west,boarding,M,2002-05-15,GwenBoyer@gmail.com,3139099443,981.0, Utah,20000.0,2002
+Zeke,Cuevas,s1,south,day,M,2004-01-02,ZekeCuevas@gmail.com,8025320907,982.0, South Dakota,20000.0,2004
+Adele,Wolfe,s3,north,day,F,2001-10-19,AdeleWolfe@gmail.com,7214235608,983.0, Wisconsin,20000.0,2001
+Donovan,Lowe,s6,east,boarding,M,2000-07-08,DonovanLowe@gmail.com,4028262393,984.0, Pennsylvania,20000.0,2000
+Amari,Cook,s4,west,day,F,2003-02-27,AmariCook@gmail.com,2033192371,985.0, Georgia,20000.0,2003
+Ezekiel,Burns,s1,south,boarding,F,2002-01-10,EzekielBurns@gmail.com,6172187795,986.0, Missouri,20000.0,2002
+Emerson,Valentine,s2,north,boarding,F,2004-08-04,EmersonValentine@gmail.com,1717200094,987.0, Alaska,20000.0,2004
+Demetrius,Moon,s4,east,boarding,M,2001-04-14,DemetriusMoon@gmail.com,1138889445,988.0, New Mexico,20000.0,2001
+Naya,Miller,s5,west,day,F,2000-10-26,NayaMiller@gmail.com,6316527544,989.0, New Hampshire,20000.0,2000
+Avalynn,Knight,s6,west,boarding,F,2001-03-03,AvalynnKnight@gmail.com,1473495754,993.0, Illinois,20000.0,2001
+Astrid,Ramos,s1,north,boarding,F,2003-05-11,AstridRamos@gmail.com,2824621663,995.0, Oklahoma,20000.0,2003
+Angel,Anderson,s2,east,day,F,2002-11-08,AngelAnderson@gmail.com,6984478252,996.0, Tennessee,20000.0,2002
+Ella,Shields,s4,west,day,M,2004-02-02,EllaShields@gmail.com,4994440973,997.0, Oregon,20000.0,2004
+Lyla,Harrell,s6,north,day,M,2000-04-06,LylaHarrell@gmail.com,6400421000,999.0, Iowa,20000.0,2000
+Nelson,Schneider,s1,east,boarding,F,2005-01-24,NelsonSchneider@gmail.com,9573361644,1000.0, Illinois,20000.0,2005
