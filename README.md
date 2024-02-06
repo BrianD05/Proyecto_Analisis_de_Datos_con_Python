@@ -1,5 +1,5 @@
 <h1>Proyectos de Análisis de Datos en Python: Diversidad y Profundidad</h1>
-<h3><¡Bienvenido al repositorio de Proyectos de Análisis de Datos en Python!/h3>
+<h3><¡Bienvenido al repositorio de Proyectos de Análisis de Datos en Python!</h3>
 
 <p>Este repositorio tiene como objetivo mostrar una variedad de proyectos de análisis de datos que abarcan diferentes rubros y aplicaciones. Desde la exploración de datos financieros hasta el análisis de datos de redes sociales, estos proyectos están diseñados para demostrar la diversidad y la profundidad del análisis de datos utilizando Python.
 
