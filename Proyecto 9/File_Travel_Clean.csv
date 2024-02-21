@@ -1,0 +1,138 @@
+,Trip ID,Destination,Start date,End date,Duration (days),Traveler name,Traveler age,Traveler gender,Traveler nationality,Accommodation type,Accommodation cost,Transportation type,Transportation cost,Total trip cost
+0,1,London,5/1/2023,5/8/2023,7.0,John Smith,35,Male,American,Hotel,1200,Flight,600,1800
+1,2,Phuket,6/15/2023,6/20/2023,5.0,Jane Doe,28,Female,Canadian,Resort,800,Flight,500,1300
+2,3,Bali,7/1/2023,7/8/2023,7.0,David Lee,45,Male,Korean,Villa,1000,Flight,700,1700
+3,4,New York,8/15/2023,8/29/2023,14.0,Sarah Johnson,29,Female,British,Hotel,2000,Flight,1000,3000
+4,5,Tokyo,9/10/2023,9/17/2023,7.0,Kim Nguyen,26,Female,Vietnamese,Airbnb,700,Train,200,900
+5,6,Paris,10/5/2023,10/10/2023,5.0,Michael Brown,42,Male,American,Hotel,1500,Flight,800,2300
+6,7,Sydney,11/20/2023,11/30/2023,10.0,Emily Davis,33,Female,Australian,Hostel,500,Flight,1200,1700
+7,8,Rio de Janeiro,1/5/2024,1/12/2024,7.0,Lucas Santos,25,Male,Brazilian,Airbnb,900,Flight,600,1500
+8,9,Amsterdam,2/14/2024,2/21/2024,7.0,Laura Janssen,31,Female,Dutch,Hotel,1200,Train,200,1400
+9,10,Dubai,3/10/2024,3/17/2024,7.0,Mohammed Ali,39,Male,Emirati,Resort,2500,Flight,800,3300
+10,11,Cancun,4/1/2024,4/8/2024,7.0,Ana Hernandez,27,Female,Mexican,Hotel,1000,Flight,500,1500
+11,12,Barcelona,5/15/2024,5/22/2024,7.0,Carlos Garcia,36,Male,Spanish,Airbnb,800,Train,100,900
+12,13,"Honolulu, Hawaii",6/10/2024,6/18/2024,8.0,Lily Wong,29,Female,Chinese,Resort,3000,Flight,1200,4200
+13,14,"Berlin, Germany",7/1/2024,7/10/2024,9.0,Hans Mueller,48,Male,German,Hotel,1400,Flight,700,2100
+14,15,"Marrakech, Morocco",8/20/2024,8/27/2024,7.0,Fatima Khouri,26,Female,Moroccan,Riad,600,Flight,400,1000
+15,16,"Edinburgh, Scotland",9/5/2024,9/12/2024,7.0,James MacKenzie,32,Male,Scottish,Hotel,900,Train,150,1050
+16,17,Paris,9/1/2023,9/10/2023,9.0,Sarah Johnson,30,Female,American,Hotel,900,Flight,400,1300
+17,18,Bali,8/15/2023,8/25/2023,10.0,Michael Chang,28,Male,Chinese,Resort,1500,Flight,700,2200
+18,19,London,7/22/2023,7/28/2023,6.0,Olivia Rodriguez,35,Female,British,Hotel,1200,Train,150,1350
+19,20,Tokyo,10/5/2023,10/15/2023,10.0,Kenji Nakamura,45,Male,Japanese,Hotel,1200,Flight,800,2000
+20,21,New York,11/20/2023,11/25/2023,5.0,Emily Lee,27,Female,American,Airbnb,600,Bus,100,700
+21,22,Sydney,12/5/2023,12/12/2023,7.0,James Wilson,32,Male,Australian,Hotel,1000,Flight,600,1600
+22,23,Rome,11/1/2023,11/8/2023,7.0,Sofia Russo,29,Female,Italian,Airbnb,700,Train,80,780
+23,24,Bangkok,9/15/2023,9/23/2023,8.0,Raj Patel,40,Male,Indian,Hostel,400,Flight,500,900
+24,25,Paris,12/22/2023,12/28/2023,6.0,Lily Nguyen,24,Female,Vietnamese,Hotel,1400,Train,100,1500
+25,26,Hawaii,8/1/2023,8/10/2023,9.0,David Kim,34,Male,Korean,Resort,2000,Flight,800,2800
+26,27,Barcelona,10/20/2023,10/28/2023,8.0,Maria Garcia,31,Female,Spanish,Hotel,1100,Train,150,1250
+27,28,Japan,5/10/2022,5/18/2022,8.0,Alice Smith,30,Female,American,Hotel,800,Flight,500,1300
+28,29,Thailand,6/15/2022,6/22/2022,7.0,Bob Johnson,45,Male,Canadian,Hostel,200,Train,150,350
+29,30,France,7/2/2022,7/11/2022,9.0,Charlie Lee,25,Male,Korean,Airbnb,600,Rental Car,300,900
+30,31,Australia,8/20/2022,9/2/2022,13.0,Emma Davis,28,Female,British,Hotel,1000,Rental Car,500,1500
+31,32,Brazil,9/5/2022,9/14/2022,9.0,Olivia Martin,33,Female,Australian,Hostel,150,Bus,50,200
+32,33,Greece,10/12/2022,10/20/2022,8.0,Harry Wilson,20,Male,American,Airbnb,400,Flight,600,1000
+33,34,Egypt,11/8/2022,11/15/2022,7.0,Sophia Lee,37,Female,Canadian,Hotel,700,Train,100,800
+34,35,Mexico,1/5/2023,1/15/2023,10.0,James Brown,42,Male,British,Airbnb,500,Flight,800,1300
+35,36,Italy,2/14/2023,2/20/2023,6.0,Mia Johnson,31,Female,American,Hostel,180,Train,120,300
+36,37,Spain,3/23/2023,3/31/2023,8.0,William Davis,27,Male,Korean,Hotel,900,Rental Car,400,1300
+37,38,Canada,4/19/2023,4/26/2023,7.0,Amelia Brown,38,Female,Australian,Airbnb,350,Bus,75,425
+38,39,Paris,6/12/2022,6/19/2022,7.0,Mia Johnson,25,Female,American,Hotel,1400,Flight,600,2000
+39,40,Sydney,1/2/2023,1/9/2023,7.0,Adam Lee,33,Male,Canadian,Airbnb,800,Train,150,950
+40,41,Tokyo,12/10/2022,12/18/2022,8.0,Sarah Wong,28,Female,Chinese,Hostel,500,Flight,900,1400
+41,42,Cancun,7/1/2023,7/8/2023,7.0,John Smith,45,Male,American,Resort,2200,Flight,800,3000
+42,43,Rio de Janeiro,11/20/2022,11/27/2022,7.0,Maria Silva,30,Female,Brazilian,Hotel,1200,Flight,700,1900
+43,44,London,3/5/2023,3/12/2023,7.0,Peter Brown,55,Male,British,Airbnb,900,Train,100,1000
+44,45,Barcelona,8/18/2023,8/25/2023,7.0,Emma Garcia,27,Female,Spanish,Hostel,600,Flight,600,1200
+45,46,New York,9/15/2022,9/22/2022,7.0,Michael Davis,41,Male,American,Hotel,1500,Flight,500,2000
+46,47,Bangkok,5/1/2023,5/7/2023,6.0,Nina Patel,29,Female,Indian,Airbnb,500,Bus,50,550
+47,48,Vancouver,7/10/2022,7/17/2022,7.0,Kevin Kim,24,Male,Korean,Hostel,400,Train,150,550
+48,49,Amsterdam,6/20/2023,6/28/2023,8.0,Laura van den Berg,31,Female,Dutch,Hotel,1100,Flight,700,1800
+49,50,Paris,8/15/2023,8/22/2023,7.0,Jennifer Nguyen,31,Female,Canadian,Hotel,1200,Train,300,1500
+50,51,Tokyo,10/10/2023,10/20/2023,10.0,David Kim,25,Male,American,Hostel,500,Bus,100,600
+51,52,Sydney,11/5/2023,11/12/2023,7.0,Rachel Lee,27,Female,Korean,Airbnb,900,Rental Car,200,1100
+52,53,New York,12/24/2023,12/31/2023,7.0,Jessica Wong,28,Female,Canadian,Hotel,1400,Flight,800,2200
+53,54,Rio de Janeiro,1/15/2024,1/24/2024,9.0,Felipe Almeida,30,Male,Brazilian,Airbnb,800,Train,150,950
+54,55,Bangkok,2/1/2024,2/9/2024,8.0,Nisa Patel,23,Female,Indian,Hostel,400,Bus,50,450
+55,56,London,3/15/2024,3/23/2024,8.0,Ben Smith,35,Male,British,Hotel,1000,Train,200,1200
+56,57,Barcelona,4/5/2024,4/13/2024,8.0,Laura Gomez,29,Female,Spanish,Airbnb,700,Rental Car,250,950
+57,58,Seoul,5/10/2024,5/18/2024,8.0,Park Min Woo,27,Male,Korean,Hostel,500,Subway,20,520
+58,59,Los Angeles,6/20/2024,6/27/2024,7.0,Michael Chen,26,Male,Chinese,Hotel,1200,Rental Car,300,1500
+59,60,Rome,7/15/2024,7/23/2024,8.0,Sofia Rossi,33,Female,Italian,Airbnb,800,Train,100,900
+60,61,Paris,7/12/2022,7/18/2022,6.0,Rachel Sanders,35,Female,American,Hotel,1200,Flight,800,2000
+61,62,Tokyo,9/3/2022,9/10/2022,7.0,Kenji Nakamura,28,Male,Japanese,Hostel,400,Train,300,700
+62,63,Cape Town,1/7/2023,1/16/2023,9.0,Emily Watson,29,Female,British,Vacation rental,800,Rental Car,200,1000
+63,64,Sydney,6/23/2023,6/29/2023,6.0,David Lee,43,Male,Australian,Hotel,1500,Flight,1200,2700
+64,65,Barcelona,8/18/2023,8/25/2023,7.0,Ana Rodriguez,31,Female,Spanish,Vacation rental,900,Flight,700,1600
+65,66,Bali,2/1/2024,2/8/2024,7.0,Tom Wilson,27,Male,American,Resort,2200,Flight,1000,3200
+66,67,Paris,5/6/2024,5/12/2024,6.0,Olivia Green,39,Female,France,Hotel,1100,Train,200,1300
+67,68,New York,7/20/2024,7/26/2024,6.0,James Chen,25,Male,American,Vacation rental,1000,Flight,800,1800
+68,69,Bangkok,9/8/2024,9/16/2024,8.0,Lila Patel,33,Female,Indian,Hostel,300,Flight,700,1000
+69,70,Rome,2/14/2025,2/20/2025,6.0,Marco Rossi,41,Male,Italian,Hotel,1300,Train,100,1400
+70,71,Bali,5/21/2025,5/29/2025,8.0,Sarah Brown,37,Female,British,Resort,1800,Flight,1000,2800
+72,73,Bali,8/5/2022,8/12/2022,7.0,Sarah Lee,35,Female,Korean,Resort,500,Flight,800,1300
+73,74,Tokyo,1/1/2023,1/9/2023,8.0,Alex Kim,29,Male,American,Hotel,1000,Train,200,1200
+74,75,Cancun,4/15/2023,4/22/2023,7.0,Maria Hernandez,42,Female,Mexican,Resort,800,Flight,500,1300
+75,76,Paris,6/7/2023,6/14/2023,7.0,John Smith,46,Male,British,Hotel,1200,Flight,700,1900
+76,77,Cape Town,9/1/2023,9/10/2023,9.0,Mark Johnson,31,Male,South African,Guesthouse,400,Personal Car,300,700
+77,78,Bali,11/12/2023,11/19/2023,7.0,Amanda Chen,25,Female,Taiwanese,Resort,600,Flight,700,1300
+78,79,Sydney,2/5/2024,2/12/2024,7.0,David Lee,38,Male,Australian,Hotel,900,Flight,600,1500
+79,80,Bangkok,5/15/2024,5/22/2024,7.0,Nana Kwon,27,Female,Korean,Hotel,400,Flight,400,800
+80,81,New York,8/20/2024,8/27/2024,7.0,Tom Hanks,60,Male,American,Hotel,1500,Flight,1000,2500
+81,82,Phuket,1/1/2025,1/8/2025,7.0,Emma Watson,32,Female,British,Resort,700,Flight,800,1500
+82,83,Rome,4/15/2025,4/22/2025,7.0,James Kim,41,Male,American,Hotel,100,NO SE SABE,0,100
+83,84,Paris,6/15/2021,6/20/2021,6.0,John Smith,35,Male,American,Hotel,800,Flight,500,1300
+84,85,Tokyo,7/1/2021,7/10/2021,10.0,Sarah Lee,28,Female,Korean,Airbnb,500,Train,300,800
+85,86,Bali,8/10/2021,8/20/2021,11.0,Maria Garcia,42,Female,Spanish,Resort,1200,Flight,700,1900
+86,87,Sydney,9/1/2021,9/10/2021,9.0,David Lee,45,Male,Australian,Hotel,900,Flight,600,1500
+87,88,New York,10/15/2021,10/20/2021,6.0,Emily Davis,31,Female,American,Airbnb,700,Rental Car,200,900
+88,89,London,11/20/2021,11/30/2021,11.0,James Wilson,29,Male,British,Hostel,300,Flight,400,700
+89,90,Dubai,1/1/2022,1/8/2022,8.0,Fatima Ahmed,24,Female,Emirati,Hotel,1000,Flight,800,1800
+90,91,Bangkok,2/14/2022,2/20/2022,7.0,Liam Nguyen,26,Male,Vietnamese,Airbnb,400,Train,100,500
+91,92,Rome,3/10/2022,3/20/2022,11.0,Giulia Rossi,30,Female,Italian,Hostel,200,Flight,350,550
+92,93,Bali,4/15/2022,4/25/2022,11.0,Putra Wijaya,33,Male,Indonesia,Villa,1500,Rental Car,300,1800
+93,94,Seoul,5/1/2022,5/10/2022,10.0,Kim Min-ji,27,Female,Korean,Hotel,800,Train,150,950
+94,95,Paris,6/15/2022,6/20/2022,5.0,John Smith,35,Male,American,Hotel,500,Flight,800,1300
+95,96,Tokyo,9/1/2022,9/10/2022,9.0,Emily Johnson,28,Female,Canadian,Airbnb,400,Train,200,600
+96,97,Sydney,11/23/2022,12/2/2022,9.0,David Lee,45,Male,South Korea,Hostel,200,Flight,1200,1400
+97,98,London,2/14/2023,2/19/2023,5.0,Sarah Brown,37,Female,British,Hotel,600,Flight,700,1300
+98,99,New York,5/8/2023,5/14/2023,6.0,Michael Wong,50,Male,China,Airbnb,800,Rental Car,300,1100
+99,100,Rome,8/20/2023,8/27/2023,7.0,Jessica Chen,31,Female,Taiwan,Hotel,700,Flight,900,1600
+100,101,Bangkok,11/12/2023,11/20/2023,8.0,Ken Tanaka,42,Male,Japanese,Hostel,300,Train,100,400
+101,102,Cape Town,1/6/2024,1/14/2024,8.0,Maria Garcia,27,Female,Spanish,Airbnb,500,Flight,1500,2000
+102,103,Rio de Janeiro,4/3/2024,4/10/2024,7.0,Rodrigo Oliveira,33,Male,Brazilian,Hotel,900,Rental Car,400,1300
+103,104,Bali,7/22/2024,7/28/2024,6.0,Olivia Kim,29,Female,South Korea,Villa,1200,Flight,1000,2200
+104,105,Amsterdam,10/10/2024,10/17/2024,7.0,Robert Mueller,41,Male,German,Hotel,600,Train,150,750
+105,106,Paris,5/15/2022,5/20/2022,5.0,John Smith,35,Male,American,Hotel,1000,Flight,800,1800
+106,107,Tokyo,9/1/2022,9/10/2022,9.0,Sarah Lee,28,Female,South Korea,Airbnb,800,Train,500,1300
+107,108,New York,6/20/2022,6/25/2022,5.0,Michael Wong,42,Male,Hong Kong,Hotel,1200,Rental Car,200,1400
+108,109,Bali,8/12/2022,8/20/2022,8.0,Lisa Chen,30,Female,Taiwan,Resort,1500,Flight,1200,2700
+109,110,Sydney,7/1/2022,7/10/2022,9.0,David Kim,26,Male,Canadian,Hostel,300,Flight,900,1200
+110,111,London,6/10/2022,6/15/2022,5.0,Emily Wong,38,Female,British,Hotel,900,Train,150,1050
+111,112,Phuket,9/5/2022,9/12/2022,7.0,Mark Tan,45,Male,Singapore,Villa,2000,Flight,700,2700
+112,113,Rome,5/1/2022,5/8/2022,7.0,Emma Lee,31,Female,Italian,Hotel,1100,Train,250,1350
+113,114,Santorini,7/15/2022,7/22/2022,7.0,George Chen,27,Male,Greece,Airbnb,1000,Ferry,150,1150
+114,115,Dubai,8/25/2022,8/30/2022,5.0,Sophia Kim,29,Female,Emirati,Hotel,1500,Rental Car,300,1800
+115,116,Phnom Penh,9/10/2022,9/15/2022,5.0,Alex Ng,33,Male,Cambodia,Hostel,200,Flight,500,700
+116,117,Tokyo,2/5/2022,2/14/2022,9.0,Alice Smith,32,Female,American,Hotel,1000,Flight,700,1700
+117,118,Paris,3/15/2022,3/22/2022,7.0,Bob Johnson,47,Male,Canadian,Hotel,1200,Train,500,1700
+118,119,Sydney,5/1/2022,5/12/2022,11.0,Cindy Chen,26,Female,Chinese,Airbnb,800,Flight,1000,1800
+119,120,Rome,6/10/2022,6/17/2022,7.0,David Lee,38,Male,Korean,Hotel,900,Train,400,1300
+120,121,Bali,7/20/2022,7/30/2022,10.0,Emily Kim,29,Female,Korean,Hostel,500,Flight,800,1300
+121,122,Cancun,8/8/2022,8/16/2022,8.0,Frank Li,41,Male,American,Hotel,1300,Flight,600,1900
+122,123,"Athens, Greece",9/20/2022,9/30/2022,10.0,Gina Lee,35,Female,Korean,Airbnb,700,Flight,900,1600
+123,124,Tokyo,10/5/2022,10/13/2022,8.0,Henry Kim,24,Male,Korean,Hotel,1200,Flight,700,1900
+124,125,Sydney,11/11/2022,11/21/2022,10.0,Isabella Chen,30,Female,Chinese,Airbnb,900,Flight,1000,1900
+125,126,Paris,12/24/2022,1/1/2023,8.0,Jack Smith,28,Male,American,Hostel,400,Flight,700,1100
+126,127,Bali,2/10/2023,2/18/2023,8.0,Katie Johnson,33,Female,Canadian,Hotel,800,Flight,800,1600
+128,129,Paris,5/1/2023,5/7/2023,6.0,John Doe,35,Male,American,Hotel,5000,Flight,2500,7500
+129,130,Tokyo,5/15/2023,5/22/2023,7.0,Jane Smith,28,Female,British,Airbnb,7000,Train,1500,8500
+130,131,Cape Town,6/1/2023,6/10/2023,9.0,Michael Johnson,45,Male,South African,Hostel,3000,Personal Car,2000,5000
+131,132,Sydney,6/15/2023,6/21/2023,6.0,Sarah Lee,31,Female,Australian,Hotel,6000,Flight,3000,9000
+132,133,Rome,7/1/2023,7/8/2023,7.0,David Kim,42,Male,Korean,Airbnb,4000,Train,1500,5500
+133,134,New York,7/15/2023,7/22/2023,7.0,Emily Davis,27,Female,American,Hotel,8000,Flight,2500,10500
+134,135,Rio de Janeiro,8/1/2023,8/10/2023,9.0,Jose Perez,37,Male,Brazilian,Hostel,2500,Personal Car,2000,4500
+135,136,Vancouver,8/15/2023,8/21/2023,6.0,Emma Wilson,29,Female,Canadian,Hotel,5000,Flight,3000,8000
+136,137,Bangkok,9/1/2023,9/8/2023,7.0,Ryan Chen,34,Male,Chinese,Hostel,2000,Train,1000,3000
+137,138,Barcelona,9/15/2023,9/22/2023,7.0,Sofia Rodriguez,25,Female,Spanish,Airbnb,6000,Flight,2500,8500
+138,139,"Auckland, New Zealand",10/1/2023,10/8/2023,7.0,William Brown,39,Male,New Zealander,Hotel,7000,Train,2500,9500
